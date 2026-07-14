@@ -66,7 +66,7 @@ async function poll(send) {
   const mention = config.mentionEveryone ? '@everyone ' : '';
   const headline = release
     ? `${mention}🏈 **The ${config.seasonYear} NFL schedule just dropped!**`
-    : `${mention}📅 **NFL schedule change** — update your pickem picks if needed!`;
+    : `${mention}📅 **NFL schedule change** — update your schedule!`;
 
   const batches = chunkEmbeds(embeds);
   for (let i = 0; i < batches.length; i++) {

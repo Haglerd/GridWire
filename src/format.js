@@ -103,7 +103,7 @@ export function changeEmbed(seasonYear, change) {
     .setColor(disrupted ? COLORS.disrupted : COLORS.modified)
     .setTitle(`${disrupted ? '🚨' : '🔁'} Schedule change — ${week}`)
     .setDescription(`**${matchup(g)}**\n${lines.join('\n')}`)
-    .setFooter({ text: `${FOOTER} · ${seasonYear} season — go check your picks!` })
+    .setFooter({ text: `${FOOTER} · ${seasonYear} season — go update your schedule!` })
     .setTimestamp();
 }
 
