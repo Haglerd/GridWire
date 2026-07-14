@@ -1,0 +1,20 @@
+{
+  "seasonYear": 2026,
+  "entries": [
+    {
+      "at": "2026-07-14T21:56:47.436Z",
+      "type": "modified",
+      "summary": "🔁 **New England Patriots @ Seattle Seahawks** (Week 1): kickoff <t:1788996000:f> → <t:1788999600:f>"
+    },
+    {
+      "at": "2026-07-14T21:56:47.436Z",
+      "type": "modified",
+      "summary": "🔁 **Baltimore Ravens @ Dallas Cowboys** (Week 3): venue MaracanÃ£ Stadium → Maracanã Stadium"
+    },
+    {
+      "at": "2026-07-14T21:56:47.436Z",
+      "type": "modified",
+      "summary": "🔁 **Cincinnati Bengals @ Atlanta Falcons** (Week 9): venue Santiago BernabÃ©u → Santiago Bernabéu"
+    }
+  ]
+}

@@ -1,14 +1,14 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-07-14T21:51:50.577Z",
+  "savedAt": "2026-07-14T21:56:47.435Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
       "provider": "espn",
       "seasonType": 2,
       "week": 1,
-      "kickoff": "2026-09-09T23:20:00.000Z",
+      "kickoff": "2026-09-10T00:20:00.000Z",
       "timeTBD": false,
       "home": {
         "abbr": "SEA",
@@ -898,7 +898,7 @@
         "abbr": "BAL",
         "name": "Baltimore Ravens"
       },
-      "venue": "Maracan\u00c3\u00a3 Stadium",
+      "venue": "Maracanã Stadium",
       "network": "CBS",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:3:BAL@DAL"
@@ -2458,7 +2458,7 @@
         "abbr": "CIN",
         "name": "Cincinnati Bengals"
       },
-      "venue": "Santiago Bernab\u00c3\u00a9u",
+      "venue": "Santiago Bernabéu",
       "network": "NFL Net",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:9:CIN@ATL"
