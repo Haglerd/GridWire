@@ -40,6 +40,7 @@ This repo ships with `.github/workflows/poll.yml`, which runs `npm run once` eve
 
 - **SQL/CSV generator** — an admin registers an example `INSERT` from their own schedules table; on changes the bot attaches the matching `UPDATE` statement, and on schedule release it attaches a full `.sql`/`.csv` of inserts for their schema. (Queued 2026-07-14 — MVP is alert + tag only.)
 - Slash commands (`/schedule week 7`, subscribe/unsubscribe per channel)
+- Score commands, scoped to a dedicated scores channel (`DISCORD_SCORES_CHANNEL_ID` is already plumbed through config for this)
 - Multi-guild support with per-guild channels
 - Score / result posting
 

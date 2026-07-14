@@ -33,5 +33,8 @@ export const config = {
   providerOrder: process.env.PROVIDER_ORDER || null,
   // @everyone on change alerts. On by default — the whole point is the group sees it.
   mentionEveryone: process.env.MENTION_EVERYONE !== '0',
+  // Channel for score-related slash commands (not built yet — reserved for the
+  // scores feature so the ID plumbing is already in place).
+  scoresChannelId: process.env.DISCORD_SCORES_CHANNEL_ID || null,
   dataDir: process.env.DATA_DIR || fileURLToPath(new URL('../data/', import.meta.url)),
 };

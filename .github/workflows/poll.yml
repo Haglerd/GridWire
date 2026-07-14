@@ -32,6 +32,7 @@ jobs:
         env:
           DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
           DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
+          DISCORD_SCORES_CHANNEL_ID: ${{ secrets.DISCORD_SCORES_CHANNEL_ID }}
 
       - name: Commit updated snapshot
         run: |

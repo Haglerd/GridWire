@@ -95,7 +95,10 @@ async function main() {
   } else {
     client = new Client({ intents: [GatewayIntentBits.Guilds] });
     await client.login(config.discordToken);
-    await new Promise((resolve) => client.once('clientReady', resolve));
+    // login() may resolve after ready has already fired — only wait if it hasn't.
+    if (!client.isReady()) {
+      await new Promise((resolve) => client.once('clientReady', resolve));
+    }
     console.log(`[discord] logged in as ${client.user.tag}`);
 
     const channel = await client.channels.fetch(config.channelId);
