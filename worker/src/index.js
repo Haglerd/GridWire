@@ -35,11 +35,23 @@ const FOOTER = { text: 'Gridwire · Ghostwire Systems' };
 
 // ---------------------------------------------------------------- transport
 
+const MAX_BODY_BYTES = 64 * 1024; // interactions are ~1-2 KB; anything bigger is not Discord
+const MAX_TIMESTAMP_SKEW_S = 300; // refuse replayed signatures older than 5 minutes
+
 export default {
   async fetch(request, env, ctx) {
     if (request.method !== 'POST') return new Response('gridwire', { status: 200 });
 
+    const length = Number(request.headers.get('Content-Length') ?? 0);
+    if (length > MAX_BODY_BYTES) return new Response('payload too large', { status: 413 });
+
+    const timestamp = Number(request.headers.get('X-Signature-Timestamp') ?? 0);
+    if (Math.abs(Date.now() / 1000 - timestamp) > MAX_TIMESTAMP_SKEW_S) {
+      return new Response('stale request', { status: 401 });
+    }
+
     const body = await request.text();
+    if (body.length > MAX_BODY_BYTES) return new Response('payload too large', { status: 413 });
     if (!(await verifySignature(request, body, env.DISCORD_PUBLIC_KEY))) {
       return new Response('invalid request signature', { status: 401 });
     }
@@ -49,6 +61,9 @@ export default {
     if (interaction.type === 1) return json({ type: 1 }); // PING -> PONG
 
     if (interaction.type === 2) {
+      const blocked = await abuseGuards(interaction, env);
+      if (blocked) return json(reply(blocked, { ephemeral: true }));
+
       // /help answers inline (no I/O) and works in any channel.
       if (interaction.data?.name === 'help') {
         return json(reply(helpEmbed(env), { ephemeral: true }));
@@ -66,6 +81,49 @@ export default {
     return new Response('unsupported interaction type', { status: 400 });
   },
 };
+
+const HEAVY_COMMANDS = new Set(['score', 'apis']); // these hit live upstreams
+
+/**
+ * Returns an embed to bounce the interaction with, or null to let it through.
+ * Order: cheapest checks first; a missing rate-limit binding fails open so a
+ * config slip degrades to "no limiting", never "bot down".
+ */
+async function abuseGuards(interaction, env) {
+  // While the bot is private, ignore guilds it has no business being in.
+  const allowedGuilds = parseIds(env.ALLOWED_GUILD_IDS);
+  if (allowedGuilds.size > 0 && !allowedGuilds.has(interaction.guild_id)) {
+    return embed({
+      color: COLORS.neutral,
+      description: 'Gridwire is not available in this server.',
+    });
+  }
+
+  const userId = interaction.member?.user?.id ?? interaction.user?.id ?? 'unknown';
+  try {
+    if (env.USER_RL) {
+      const { success } = await env.USER_RL.limit({ key: userId });
+      if (!success) {
+        return embed({
+          color: COLORS.warn,
+          description: '⏳ Easy there — you\'re sending commands too fast. Try again in a minute.',
+        });
+      }
+    }
+    if (env.HEAVY_RL && HEAVY_COMMANDS.has(interaction.data?.name)) {
+      const { success } = await env.HEAVY_RL.limit({ key: interaction.data.name });
+      if (!success) {
+        return embed({
+          color: COLORS.warn,
+          description: '⏳ That command is getting a lot of traffic right now. Try again in a minute.',
+        });
+      }
+    }
+  } catch (err) {
+    console.error('[worker] rate limiter error (failing open):', err);
+  }
+  return null;
+}
 
 async function verifySignature(request, body, publicKeyHex) {
   const signature = request.headers.get('X-Signature-Ed25519');
@@ -176,6 +234,32 @@ function chosenSlot(interaction, snapshot) {
   const week = opt(interaction, 'week');
   if (week) return { seasonType: 2, week };
   return currentSlot(snapshot?.games ?? {}) ?? { seasonType: 2, week: 1 };
+}
+
+/**
+ * Memoize an expensive lookup in the colo-local cache. Spamming a command
+ * therefore costs upstream ONE request per TTL, not one per invocation.
+ */
+async function cachedJson(key, ttlSeconds, fn) {
+  const cacheKey = new Request(`https://cache.gridwire.internal/${key}`);
+  try {
+    const hit = await caches.default.match(cacheKey);
+    if (hit) return hit.json();
+  } catch {
+    // cache unavailable — just do the work
+  }
+  const value = await fn();
+  try {
+    await caches.default.put(
+      cacheKey,
+      new Response(JSON.stringify(value), {
+        headers: { 'Cache-Control': `max-age=${ttlSeconds}` },
+      })
+    );
+  } catch {
+    // best effort
+  }
+  return value;
 }
 
 async function loadRepoJson(path) {
@@ -407,7 +491,11 @@ async function cmdScore(interaction, snapshot, year) {
   }
 
   const slot = chosenSlot(interaction, snapshot);
-  const { games, served } = await espn.fetchWeekScores(year, slot.seasonType, slot.week);
+  const { games, served } = await cachedJson(
+    `scores/${year}/${slot.seasonType}/${slot.week}`,
+    45,
+    () => espn.fetchWeekScores(year, slot.seasonType, slot.week)
+  );
   if (!served) {
     return embed({
       color: COLORS.warn,
@@ -458,7 +546,7 @@ async function cmdScore(interaction, snapshot, year) {
 }
 
 async function cmdApis(env, year) {
-  const checks = await Promise.all([
+  const checks = await cachedJson(`apis/${year}`, 60, () => Promise.all([
     ping('ESPN', `https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=${year}&seasontype=2&week=1`),
     ping('nflverse', 'https://raw.githubusercontent.com/nflverse/nfldata/master/data/games.csv', {
       headers: { Range: 'bytes=0-1023' },
@@ -468,7 +556,7 @@ async function cmdApis(env, year) {
           headers: { Authorization: env.BALLDONTLIE_API_KEY },
         })
       : Promise.resolve({ name: 'balldontlie', status: 'unconfigured' }),
-  ]);
+  ]));
 
   const CAPABILITY = {
     ESPN: 'schedule · live + final scores · no key needed\n[site.api.espn.com](https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard)',

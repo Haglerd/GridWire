@@ -5,6 +5,21 @@ compatibility_date = "2026-07-01"
 [observability]
 enabled = true
 
+# Per-user command budget: 8 commands / user / minute.
+[[unsafe.bindings]]
+name = "USER_RL"
+type = "ratelimit"
+namespace_id = "1001"
+simple = { limit = 8, period = 60 }
+
+# Shared budget for commands that hit live upstreams (/score, /apis):
+# 12 / minute across ALL users, protecting ESPN & co from us.
+[[unsafe.bindings]]
+name = "HEAVY_RL"
+type = "ratelimit"
+namespace_id = "1002"
+simple = { limit = 12, period = 60 }
+
 # Secrets (set with `npx wrangler secret put <NAME>`, never committed):
 #   DISCORD_PUBLIC_KEY      — application public key (Dev Portal -> General Information)
 #   SCHEDULE_CHANNEL_IDS    — comma-separated channel ids allowed to use schedule commands (optional)
