@@ -82,6 +82,15 @@ export const SCORES_COMMANDS = [
   },
 ];
 
-export const ALL_COMMANDS = [...SCHEDULE_COMMANDS, ...SCORES_COMMANDS];
+/** Usable in any channel; replies ephemerally. */
+export const GLOBAL_COMMANDS = [
+  {
+    name: 'help',
+    description: 'What Gridwire is, what it posts, and every command.',
+    options: [],
+  },
+];
+
+export const ALL_COMMANDS = [...SCHEDULE_COMMANDS, ...SCORES_COMMANDS, ...GLOBAL_COMMANDS];
 
 export const SCORES_COMMAND_NAMES = new Set(SCORES_COMMANDS.map((c) => c.name));

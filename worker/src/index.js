@@ -49,6 +49,11 @@ export default {
     if (interaction.type === 1) return json({ type: 1 }); // PING -> PONG
 
     if (interaction.type === 2) {
+      // /help answers inline (no I/O) and works in any channel.
+      if (interaction.data?.name === 'help') {
+        return json(reply(helpEmbed(env), { ephemeral: true }));
+      }
+
       const redirect = wrongChannel(interaction, env);
       if (redirect) return json(reply(redirect, { ephemeral: true }));
 
@@ -491,6 +496,54 @@ async function cmdApis(env, year) {
         ? 'All configured providers are responding.'
         : `${downCount} provider${downCount > 1 ? 's' : ''} down — the ladder fails over automatically.`,
     fields,
+  });
+}
+
+function helpEmbed(env) {
+  const scheduleCh = [...parseIds(env.SCHEDULE_CHANNEL_IDS)][0];
+  const scoresCh = [...parseIds(env.SCORES_CHANNEL_IDS)][0];
+  const inCh = (id) => (id ? ` · in <#${id}>` : '');
+
+  return embed({
+    color: COLORS.brand,
+    title: '🏈 Gridwire — NFL schedule & scores for your pickem group',
+    description:
+      'The NFL schedule moves — flex games, kickoff changes, postponements — and a pickem group ' +
+      'that finds out late picks wrong or misses the lock. Gridwire watches the schedule around the ' +
+      'clock and posts here the moment something changes, including the moment the new season drops.',
+    fields: [
+      {
+        name: '📣 Automatic — no command needed',
+        value:
+          'Schedule change alerts and the schedule-release announcement post on their own. ' +
+          'If this channel is quiet, nothing has changed.',
+      },
+      {
+        name: `📅 Schedule commands${inCh(scheduleCh)}`,
+        value: [
+          '`/schedule [week]` — the week\'s slate, in your local time',
+          '`/kickoff team` — when a team plays next',
+          '`/deadline [week]` — first kickoff = pick lock time',
+          '`/changes` — recent schedule changes',
+          '`/released` — is the new schedule out yet?',
+          '`/status` — data freshness & bot health',
+        ].join('\n'),
+      },
+      {
+        name: `🔢 Score commands${inCh(scoresCh)}`,
+        value: [
+          '`/score team [week]` — live or final score, and who won',
+          '`/apis` — which data providers are up right now',
+        ].join('\n'),
+      },
+      {
+        name: '🔌 Data',
+        value:
+          'Provider ladder with automatic failover: ESPN → nflverse → balldontlie. ' +
+          'One source per answer, never a merge.',
+      },
+    ],
+    footer: { text: `${FOOTER.text} · open source: github.com/Haglerd/GridWire` },
   });
 }
 
