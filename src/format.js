@@ -16,7 +16,7 @@ const COLORS = {
   disrupted: 0xe74c3c,
 };
 
-function ts(iso, style = 'F') {
+export function ts(iso, style = 'F') {
   if (!iso) return 'TBD';
   const unix = Math.floor(new Date(iso).getTime() / 1000);
   return `<t:${unix}:${style}>`;
@@ -24,6 +24,25 @@ function ts(iso, style = 'F') {
 
 function matchup(game) {
   return `${game.away?.name ?? '?'} @ ${game.home?.name ?? '?'}`;
+}
+
+/** One plain-markdown line per change, for the change log / /changes replies. */
+export function changeSummary(change) {
+  const g = change.game;
+  const week = weekLabel(g.seasonType, g.week);
+
+  if (change.type === 'added') return `➕ **${matchup(g)}** added to ${week}`;
+  if (change.type === 'removed') return `➖ **${matchup(g)}** removed from ${week}`;
+
+  const parts = change.fields.map((f) => {
+    if (f.field === 'kickoff') {
+      const from = f.fromTBD ? `${ts(f.from, 'D')} (TBD)` : ts(f.from, 'f');
+      const to = f.toTBD ? `${ts(f.to, 'D')} (TBD)` : ts(f.to, 'f');
+      return `kickoff ${from} → ${to}`;
+    }
+    return `${f.field} ${f.from} → ${f.to}`;
+  });
+  return `🔁 **${matchup(g)}** (${week}): ${parts.join(' · ')}`;
 }
 
 export function releaseEmbed(seasonYear, release) {

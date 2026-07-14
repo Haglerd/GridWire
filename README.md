@@ -36,13 +36,29 @@ Hard-won rules from production incidents are baked in: ESPN requests always pin 
 
 This repo ships with `.github/workflows/poll.yml`, which runs `npm run once` every 30 minutes on GitHub's runners and commits the updated snapshot back to the repo. To use it on your own fork: add `DISCORD_TOKEN` and `DISCORD_CHANNEL_ID` under **Settings → Secrets and variables → Actions**. Secrets are encrypted and never visible in the public repo or its logs.
 
+## Slash commands
+
+Interactive commands run serverless on a Cloudflare Worker (`worker/`) via Discord's HTTP interactions endpoint — no always-on bot process. Schedule commands read the snapshot/changelog committed to this repo; score commands hit the providers live.
+
+| Command | Channel | What it does |
+|---|---|---|
+| `/schedule [week] [phase]` | schedule | The week's slate, local kickoff times + network |
+| `/kickoff team [week]` | schedule | When a team's (next) game starts |
+| `/deadline [week]` | schedule | First kickoff of the week — the pick lock |
+| `/changes` | schedule | Recent schedule changes the bot alerted on |
+| `/released` | schedule | Has the season schedule dropped yet? |
+| `/status` | schedule | Last poll, provider, games tracked |
+| `/score team [week]` | scores | Live or final score, and who won |
+| `/apis` | scores | Which providers are responding right now |
+
+Setup: invite the bot with the `applications.commands` scope, `npm run register` (uses `DISCORD_TOKEN`, optional `DISCORD_GUILD_ID` for instant registration), then from `worker/`: `npx wrangler deploy`, set the secrets listed in `wrangler.toml` (`npx wrangler secret put …`), and paste the worker URL into the app's **Interactions Endpoint URL** in the Discord Developer Portal. Channel scoping is optional — leave the `*_CHANNEL_IDS` secrets unset to allow commands anywhere.
+
 ## Backlog
 
 - **SQL/CSV generator** — an admin registers an example `INSERT` from their own schedules table; on changes the bot attaches the matching `UPDATE` statement, and on schedule release it attaches a full `.sql`/`.csv` of inserts for their schema. (Queued 2026-07-14 — MVP is alert + tag only.)
-- Slash commands (`/schedule week 7`, subscribe/unsubscribe per channel)
-- Score commands, scoped to a dedicated scores channel (`DISCORD_SCORES_CHANNEL_ID` is already plumbed through config for this)
+- Subscribe/unsubscribe per channel
 - Multi-guild support with per-guild channels
-- Score / result posting
+- Automatic score / result posting (the `/score` command exists; push posts don't yet)
 
 ## License
 

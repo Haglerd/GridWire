@@ -1,5 +1,8 @@
 import 'dotenv/config';
 import { fileURLToPath } from 'node:url';
+import { defaultSeasonYear } from './providers/common.js';
+
+export { defaultSeasonYear };
 
 function required(name) {
   const v = process.env[name];
@@ -8,19 +11,6 @@ function required(name) {
     process.exit(1);
   }
   return v;
-}
-
-/**
- * The season to watch when SEASON_YEAR isn't pinned.
- *
- * Jan–Feb: last calendar year's season (playoffs still running).
- * Mar onward: this calendar year's season — the schedule releases in May,
- * and watching for that release is half this bot's job.
- */
-export function defaultSeasonYear(now = new Date()) {
-  const year = now.getFullYear();
-  const month = now.getMonth() + 1;
-  return month <= 2 ? year - 1 : year;
 }
 
 export const config = {

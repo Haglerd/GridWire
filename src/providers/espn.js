@@ -51,7 +51,7 @@ function toGame(event, seasonType, week) {
   });
 }
 
-async function fetchWeek(seasonYear, seasonType, week) {
+async function fetchScoreboard(seasonYear, seasonType, week) {
   const url = `${HOST}?dates=${seasonYear}&seasontype=${seasonType}&week=${week}`;
 
   let json;
@@ -60,7 +60,7 @@ async function fetchWeek(seasonYear, seasonType, week) {
     json = await res.json();
   } catch (err) {
     console.error(`[espn] ${err.message}`);
-    return { games: [], served: false };
+    return null;
   }
 
   // The refusal guard. ESPN omits week metadata on genuinely empty offseason
@@ -76,12 +76,47 @@ async function fetchWeek(seasonYear, seasonType, week) {
     console.error(
       `[espn] refused payload: asked ${seasonYear}/${seasonType}/wk${week}, served ${servedYear}/${servedType}/wk${servedWeek}`
     );
-    return { games: [], served: false };
+    return null;
   }
+
+  return json;
+}
+
+async function fetchWeek(seasonYear, seasonType, week) {
+  const json = await fetchScoreboard(seasonYear, seasonType, week);
+  if (!json) return { games: [], served: false };
 
   const games = (json.events ?? [])
     .filter((e) => e && typeof e === 'object' && e.id != null)
     .map((e) => toGame(e, seasonType, week));
+
+  return { games, served: true };
+}
+
+/**
+ * One week's slate with live scores — for the interactive commands, not the
+ * schedule differ. Score fields deliberately never enter the snapshot: they
+ * change all game long and would turn every game day into snapshot churn.
+ */
+export async function fetchWeekScores(seasonYear, seasonType, week) {
+  const json = await fetchScoreboard(seasonYear, seasonType, week);
+  if (!json) return { games: [], served: false };
+
+  const games = (json.events ?? [])
+    .filter((e) => e && typeof e === 'object' && e.id != null)
+    .map((event) => {
+      const comp = event.competitions?.[0] ?? {};
+      const game = toGame(event, seasonType, week);
+      for (const c of comp.competitors ?? []) {
+        const score = c.score != null && c.score !== '' ? Number(c.score) : null;
+        if (c.homeAway === 'home') game.homeScore = score;
+        else game.awayScore = score;
+      }
+      const status = comp.status ?? event.status ?? {};
+      game.statusDetail = status.type?.shortDetail ?? null; // "Final", "13:24 - 2nd", "Sun 1:00 PM"
+      game.completed = Boolean(status.type?.completed);
+      return game;
+    });
 
   return { games, served: true };
 }

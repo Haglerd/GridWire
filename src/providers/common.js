@@ -36,6 +36,50 @@ export function teamFromAbbr(abbr) {
   return { abbr: canonical, name: TEAM_NAMES[canonical] ?? canonical };
 }
 
+/** Loose user input ("dal", "cowboys", "Dallas") -> canonical abbr, or null. */
+export function resolveTeam(input) {
+  if (!input) return null;
+  const abbr = canonicalAbbr(input.trim());
+  if (TEAM_NAMES[abbr]) return abbr;
+  const q = input.trim().toLowerCase();
+  const hit = Object.entries(TEAM_NAMES).find(([, name]) => name.toLowerCase().includes(q));
+  return hit ? hit[0] : null;
+}
+
+/**
+ * The season to watch when none is pinned. Jan–Feb: last calendar year's
+ * season (playoffs still running). Mar onward: this calendar year's — the
+ * schedule releases in May and watching for that release is half the job.
+ */
+export function defaultSeasonYear(now = new Date()) {
+  const year = now.getFullYear();
+  const month = now.getMonth() + 1;
+  return month <= 2 ? year - 1 : year;
+}
+
+/**
+ * Which (seasonType, week) slot "now" falls in, judged from snapshot kickoffs:
+ * the first slot whose last kickoff hasn't been over for ~6h, else the final
+ * slot on the snapshot. Returns null on an empty snapshot.
+ */
+export function currentSlot(games, now = Date.now()) {
+  const slots = new Map();
+  for (const g of Object.values(games ?? {})) {
+    if (!g.kickoff) continue;
+    const key = `${g.seasonType}:${g.week}`;
+    const t = Date.parse(g.kickoff);
+    const s = slots.get(key) ?? { seasonType: g.seasonType, week: g.week, last: -Infinity };
+    if (t > s.last) s.last = t;
+    slots.set(key, s);
+  }
+  const ordered = [...slots.values()].sort(
+    (a, b) => a.seasonType - b.seasonType || a.week - b.week
+  );
+  if (ordered.length === 0) return null;
+  const GAME_OVER_MS = 6 * 60 * 60 * 1000;
+  return ordered.find((s) => s.last + GAME_OVER_MS >= now) ?? ordered[ordered.length - 1];
+}
+
 const SEASON_TYPES = {
   1: 'Preseason',
   2: 'Regular Season',

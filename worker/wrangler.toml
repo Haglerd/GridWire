@@ -1,0 +1,10 @@
+name = "gridwire-interactions"
+main = "src/index.js"
+compatibility_date = "2026-07-01"
+
+# Secrets (set with `npx wrangler secret put <NAME>`, never committed):
+#   DISCORD_PUBLIC_KEY      — application public key (Dev Portal -> General Information)
+#   SCHEDULE_CHANNEL_IDS    — comma-separated channel ids allowed to use schedule commands (optional)
+#   SCORES_CHANNEL_IDS      — comma-separated channel ids allowed to use score commands (optional)
+#   BALLDONTLIE_API_KEY     — enables the third provider rung in /apis (optional)
+#   SEASON_YEAR             — pin the season (optional; defaults to the same rule as the bot)

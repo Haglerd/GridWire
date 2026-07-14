@@ -10,7 +10,7 @@ import { config } from './config.js';
 import { Store } from './store.js';
 import { fetchSeason } from './providers/index.js';
 import { diffSchedules } from './diff.js';
-import { releaseEmbed, changeEmbed, chunkEmbeds } from './format.js';
+import { releaseEmbed, changeEmbed, changeSummary, chunkEmbeds } from './format.js';
 
 const ONCE = process.argv.includes('--once');
 const DRY_RUN = process.argv.includes('--dry-run');
@@ -80,6 +80,14 @@ async function poll(send) {
   // Save only after the alerts actually went out, so a Discord failure means
   // we re-alert next tick instead of silently swallowing the change.
   store.saveSnapshot(config.seasonYear, { games, provider });
+
+  const at = new Date().toISOString();
+  const entries = [];
+  if (release) {
+    entries.push({ at, type: 'release', summary: `🏈 **${config.seasonYear} schedule released** — ${release.newCount} games` });
+  }
+  for (const change of changes) entries.push({ at, type: change.type, summary: changeSummary(change) });
+  store.appendChangeLog(config.seasonYear, entries);
 }
 
 async function main() {
