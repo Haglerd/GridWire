@@ -508,9 +508,9 @@ function helpEmbed(env) {
     color: COLORS.brand,
     title: '🏈 Gridwire — NFL schedule & scores for your pickem group',
     description:
-      'The NFL schedule moves — flex games, kickoff changes, postponements — and a pickem group ' +
-      'that finds out late picks wrong or misses the lock. Gridwire watches the schedule around the ' +
-      'clock and posts here the moment something changes, including the moment the new season drops.',
+      'The NFL schedule moves — flex games, kickoff changes, postponements. Gridwire watches it ' +
+      'around the clock and posts the moment something changes, so your pickem group is never ' +
+      'caught off guard — and it announces the moment the new season\'s schedule drops.',
     fields: [
       {
         name: '📣 Automatic — no command needed',
