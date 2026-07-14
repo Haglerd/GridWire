@@ -466,9 +466,9 @@ async function cmdApis(env, year) {
   ]);
 
   const CAPABILITY = {
-    ESPN: 'schedule · live + final scores',
-    nflverse: 'schedule · final scores',
-    balldontlie: 'schedule · scores (needs API key)',
+    ESPN: 'schedule · live + final scores · no key needed\n[site.api.espn.com](https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard)',
+    nflverse: 'schedule · final scores · free public data\n[github.com/nflverse/nfldata](https://github.com/nflverse/nfldata)',
+    balldontlie: 'schedule · scores · free key required\n[balldontlie.io](https://www.balldontlie.io)',
   };
 
   const fields = checks.map((c) => ({

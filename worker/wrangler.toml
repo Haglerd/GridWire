@@ -2,6 +2,9 @@ name = "gridwire-interactions"
 main = "src/index.js"
 compatibility_date = "2026-07-01"
 
+[observability]
+enabled = true
+
 # Secrets (set with `npx wrangler secret put <NAME>`, never committed):
 #   DISCORD_PUBLIC_KEY      — application public key (Dev Portal -> General Information)
 #   SCHEDULE_CHANNEL_IDS    — comma-separated channel ids allowed to use schedule commands (optional)

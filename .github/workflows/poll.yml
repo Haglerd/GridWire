@@ -33,6 +33,7 @@ jobs:
           DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
           DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
           DISCORD_SCORES_CHANNEL_ID: ${{ secrets.DISCORD_SCORES_CHANNEL_ID }}
+          BALLDONTLIE_API_KEY: ${{ secrets.BALLDONTLIE_API_KEY }}
 
       - name: Commit updated snapshot
         run: |
