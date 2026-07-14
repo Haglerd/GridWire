@@ -18,5 +18,8 @@
   "dependencies": {
     "discord.js": "^14.16.3",
     "dotenv": "^16.4.5"
+  },
+  "overrides": {
+    "undici": "^6.27.0"
   }
 }
