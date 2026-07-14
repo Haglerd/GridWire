@@ -1,0 +1,5527 @@
+{
+  "seasonYear": 2026,
+  "provider": "espn",
+  "savedAt": "2026-07-14T20:34:56.896Z",
+  "games": {
+    "2:1:NE@SEA": {
+      "ref": "401872656",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-10T00:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "away": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "venue": "Lumen Field",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:1:NE@SEA"
+    },
+    "2:1:SF@LAR": {
+      "ref": "401872657",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-11T00:35:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "away": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "venue": "Melbourne Cricket Ground",
+      "network": "Netflix",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:1:SF@LAR"
+    },
+    "2:1:TB@CIN": {
+      "ref": "401872925",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-13T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "away": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "venue": "Paycor Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:1:TB@CIN"
+    },
+    "2:1:NO@DET": {
+      "ref": "401872923",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-13T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "away": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "venue": "Ford Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:1:NO@DET"
+    },
+    "2:1:NYJ@TEN": {
+      "ref": "401872924",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-13T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "away": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "venue": "Nissan Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:1:NYJ@TEN"
+    },
+    "2:1:BAL@IND": {
+      "ref": "401872659",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-13T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
+      },
+      "away": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "venue": "Lucas Oil Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:1:BAL@IND"
+    },
+    "2:1:ATL@PIT": {
+      "ref": "401872658",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-13T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "away": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "venue": "Acrisure Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:1:ATL@PIT"
+    },
+    "2:1:CHI@CAR": {
+      "ref": "401872661",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-13T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "away": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "venue": "Bank of America Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:1:CHI@CAR"
+    },
+    "2:1:CLE@JAX": {
+      "ref": "401872922",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-13T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "away": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "venue": "EverBank Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:1:CLE@JAX"
+    },
+    "2:1:BUF@HOU": {
+      "ref": "401872660",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-13T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "away": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "venue": "NRG Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:1:BUF@HOU"
+    },
+    "2:1:MIA@LV": {
+      "ref": "401872928",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-13T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "away": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "venue": "Allegiant Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:1:MIA@LV"
+    },
+    "2:1:GB@MIN": {
+      "ref": "401872927",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-13T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "away": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "venue": "U.S. Bank Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:1:GB@MIN"
+    },
+    "2:1:WAS@PHI": {
+      "ref": "401872929",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-13T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "away": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "venue": "Lincoln Financial Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:1:WAS@PHI"
+    },
+    "2:1:ARI@LAC": {
+      "ref": "401872926",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-13T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "away": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "venue": "SoFi Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:1:ARI@LAC"
+    },
+    "2:1:DAL@NYG": {
+      "ref": "401872930",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-14T00:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "away": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "venue": "MetLife Stadium",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:1:DAL@NYG"
+    },
+    "2:1:DEN@KC": {
+      "ref": "401872931",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-15T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "away": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:1:DEN@KC"
+    },
+    "2:2:DET@BUF": {
+      "ref": "401872932",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-18T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "away": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "venue": "Highmark Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:2:DET@BUF"
+    },
+    "2:2:CAR@ATL": {
+      "ref": "401872933",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "away": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "venue": "Mercedes-Benz Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:2:CAR@ATL"
+    },
+    "2:2:MIN@CHI": {
+      "ref": "401872937",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "away": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "venue": "Soldier Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:2:MIN@CHI"
+    },
+    "2:2:PHI@TEN": {
+      "ref": "401872939",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "away": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "venue": "Nissan Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:2:PHI@TEN"
+    },
+    "2:2:PIT@NE": {
+      "ref": "401872946",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "away": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "venue": "Gillette Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:2:PIT@NE"
+    },
+    "2:2:GB@NYJ": {
+      "ref": "401872936",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "away": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "venue": "MetLife Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:2:GB@NYJ"
+    },
+    "2:2:CLE@TB": {
+      "ref": "401872935",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "away": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "venue": "Raymond James Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:2:CLE@TB"
+    },
+    "2:2:NO@BAL": {
+      "ref": "401872938",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "away": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "venue": "M&T Bank Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:2:NO@BAL"
+    },
+    "2:2:CIN@HOU": {
+      "ref": "401872934",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "away": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "venue": "NRG Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:2:CIN@HOU"
+    },
+    "2:2:JAX@DEN": {
+      "ref": "401872940",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T20:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "away": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "venue": "Empower Field at Mile High",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:2:JAX@DEN"
+    },
+    "2:2:LV@LAC": {
+      "ref": "401872941",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T20:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "away": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "venue": "SoFi Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:2:LV@LAC"
+    },
+    "2:2:WAS@DAL": {
+      "ref": "401872944",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "away": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "venue": "AT&T Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:2:WAS@DAL"
+    },
+    "2:2:SEA@ARI": {
+      "ref": "401872943",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "away": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "venue": "State Farm Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:2:SEA@ARI"
+    },
+    "2:2:MIA@SF": {
+      "ref": "401872942",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "away": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "venue": "Levi's Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:2:MIA@SF"
+    },
+    "2:2:IND@KC": {
+      "ref": "401872945",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-21T00:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "away": {
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
+      },
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:2:IND@KC"
+    },
+    "2:2:NYG@LAR": {
+      "ref": "401872947",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-22T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "away": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "venue": "SoFi Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:2:NYG@LAR"
+    },
+    "2:3:ATL@GB": {
+      "ref": "401872948",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-25T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "away": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "venue": "Lambeau Field",
+      "network": "Prime Video",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:3:ATL@GB"
+    },
+    "2:3:LAC@BUF": {
+      "ref": "401872953",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "away": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "venue": "Highmark Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:3:LAC@BUF"
+    },
+    "2:3:CAR@CLE": {
+      "ref": "401872949",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "away": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "venue": "Huntington Bank Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:3:CAR@CLE"
+    },
+    "2:3:NYJ@DET": {
+      "ref": "401872954",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "away": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "venue": "Ford Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:3:NYJ@DET"
+    },
+    "2:3:HOU@IND": {
+      "ref": "401872951",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
+      },
+      "away": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "venue": "Lucas Oil Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:3:HOU@IND"
+    },
+    "2:3:KC@MIA": {
+      "ref": "401872952",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "away": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "venue": "Hard Rock Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:3:KC@MIA"
+    },
+    "2:3:TEN@NYG": {
+      "ref": "401872956",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "away": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "venue": "MetLife Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:3:TEN@NYG"
+    },
+    "2:3:CIN@PIT": {
+      "ref": "401872950",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "away": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "venue": "Acrisure Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:3:CIN@PIT"
+    },
+    "2:3:SEA@WAS": {
+      "ref": "401872955",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "away": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "venue": "Northwest Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:3:SEA@WAS"
+    },
+    "2:3:NE@JAX": {
+      "ref": "401872957",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "away": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "venue": "EverBank Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:3:NE@JAX"
+    },
+    "2:3:ARI@SF": {
+      "ref": "401872958",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T20:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "away": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "venue": "Levi's Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:3:ARI@SF"
+    },
+    "2:3:MIN@TB": {
+      "ref": "401872959",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T20:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "away": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "venue": "Raymond James Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:3:MIN@TB"
+    },
+    "2:3:BAL@DAL": {
+      "ref": "401872960",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "away": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "venue": "Maracanã Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:3:BAL@DAL"
+    },
+    "2:3:LV@NO": {
+      "ref": "401872961",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "away": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "venue": "Caesars Superdome",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:3:LV@NO"
+    },
+    "2:3:LAR@DEN": {
+      "ref": "401872962",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-28T00:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "away": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "venue": "Empower Field at Mile High",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:3:LAR@DEN"
+    },
+    "2:3:PHI@CHI": {
+      "ref": "401872963",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-29T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "away": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "venue": "Soldier Field",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:3:PHI@CHI"
+    },
+    "2:4:PIT@CLE": {
+      "ref": "401872964",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-02T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "away": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "venue": "Huntington Bank Field",
+      "network": "Prime Video",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:4:PIT@CLE"
+    },
+    "2:4:IND@WAS": {
+      "ref": "401872965",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-04T13:30:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "away": {
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
+      },
+      "venue": "Tottenham Hotspur Stadium",
+      "network": "NFL Net",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:4:IND@WAS"
+    },
+    "2:4:NE@BUF": {
+      "ref": "401872971",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-04T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "away": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "venue": "Highmark Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:4:NE@BUF"
+    },
+    "2:4:NYJ@CHI": {
+      "ref": "401872972",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-04T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "away": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "venue": "Soldier Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:4:NYJ@CHI"
+    },
+    "2:4:JAX@CIN": {
+      "ref": "401872969",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-04T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "away": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "venue": "Paycor Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:4:JAX@CIN"
+    },
+    "2:4:ARI@NYG": {
+      "ref": "401872966",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-04T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "away": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "venue": "MetLife Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:4:ARI@NYG"
+    },
+    "2:4:LAR@PHI": {
+      "ref": "401872970",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-04T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "away": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "venue": "Lincoln Financial Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:4:LAR@PHI"
+    },
+    "2:4:GB@TB": {
+      "ref": "401872968",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-04T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "away": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "venue": "Raymond James Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:4:GB@TB"
+    },
+    "2:4:TEN@BAL": {
+      "ref": "401872973",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-04T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "away": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "venue": "M&T Bank Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:4:TEN@BAL"
+    },
+    "2:4:DAL@HOU": {
+      "ref": "401872967",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-04T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "away": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "venue": "NRG Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:4:DAL@HOU"
+    },
+    "2:4:MIA@MIN": {
+      "ref": "401872974",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-04T20:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "away": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "venue": "U.S. Bank Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:4:MIA@MIN"
+    },
+    "2:4:KC@LV": {
+      "ref": "401872976",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-04T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "away": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "venue": "Allegiant Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:4:KC@LV"
+    },
+    "2:4:DEN@SF": {
+      "ref": "401872975",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-04T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "away": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "venue": "Levi's Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:4:DEN@SF"
+    },
+    "2:4:LAC@SEA": {
+      "ref": "401872977",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-04T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "away": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "venue": "Lumen Field",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:4:LAC@SEA"
+    },
+    "2:4:DET@CAR": {
+      "ref": "401872978",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-05T00:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "away": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "venue": "Bank of America Stadium",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:4:DET@CAR"
+    },
+    "2:4:ATL@NO": {
+      "ref": "401872979",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-06T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "away": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "venue": "Caesars Superdome",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:4:ATL@NO"
+    },
+    "2:5:TB@DAL": {
+      "ref": "401872980",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-09T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "away": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "venue": "AT&T Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:5:TB@DAL"
+    },
+    "2:5:PHI@JAX": {
+      "ref": "401872981",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-11T13:30:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "away": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "venue": "Tottenham Hotspur Stadium",
+      "network": "NFL Net",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:5:PHI@JAX"
+    },
+    "2:5:HOU@TEN": {
+      "ref": "401872984",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-11T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "away": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "venue": "Nissan Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:5:HOU@TEN"
+    },
+    "2:5:CIN@MIA": {
+      "ref": "401872982",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-11T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "away": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "venue": "Hard Rock Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:5:CIN@MIA"
+    },
+    "2:5:LV@NE": {
+      "ref": "401872986",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-11T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "away": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "venue": "Gillette Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:5:LV@NE"
+    },
+    "2:5:MIN@NO": {
+      "ref": "401872987",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-11T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "away": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "venue": "Caesars Superdome",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:5:MIN@NO"
+    },
+    "2:5:CLE@NYJ": {
+      "ref": "401872983",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-11T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "away": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "venue": "MetLife Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:5:CLE@NYJ"
+    },
+    "2:5:IND@PIT": {
+      "ref": "401872985",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-11T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "away": {
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
+      },
+      "venue": "Acrisure Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:5:IND@PIT"
+    },
+    "2:5:NYG@WAS": {
+      "ref": "401872988",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-11T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "away": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "venue": "Northwest Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:5:NYG@WAS"
+    },
+    "2:5:DEN@LAC": {
+      "ref": "401872989",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-11T20:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "away": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "venue": "SoFi Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:5:DEN@LAC"
+    },
+    "2:5:CHI@GB": {
+      "ref": "401872990",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-11T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "away": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "venue": "Lambeau Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:5:CHI@GB"
+    },
+    "2:5:DET@ARI": {
+      "ref": "401872991",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-11T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "away": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "venue": "State Farm Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:5:DET@ARI"
+    },
+    "2:5:SF@SEA": {
+      "ref": "401872992",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-11T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "away": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "venue": "Lumen Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:5:SF@SEA"
+    },
+    "2:5:BAL@ATL": {
+      "ref": "401872993",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-12T00:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "away": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "venue": "Mercedes-Benz Stadium",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:5:BAL@ATL"
+    },
+    "2:5:BUF@LAR": {
+      "ref": "401872994",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-13T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "away": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "venue": "SoFi Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:5:BUF@LAR"
+    },
+    "2:6:SEA@DEN": {
+      "ref": "401872995",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-16T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "away": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "venue": "Empower Field at Mile High",
+      "network": "Prime Video",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:6:SEA@DEN"
+    },
+    "2:6:HOU@JAX": {
+      "ref": "401872996",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-18T13:30:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "away": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "venue": "Wembley Stadium",
+      "network": "NFL Net",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:6:HOU@JAX"
+    },
+    "2:6:CHI@ATL": {
+      "ref": "401872999",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-18T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "away": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "venue": "Mercedes-Benz Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:6:CHI@ATL"
+    },
+    "2:6:BAL@CLE": {
+      "ref": "401872997",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-18T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "away": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "venue": "Huntington Bank Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:6:BAL@CLE"
+    },
+    "2:6:TEN@IND": {
+      "ref": "401873003",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-18T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
+      },
+      "away": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "venue": "Lucas Oil Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:6:TEN@IND"
+    },
+    "2:6:NYJ@NE": {
+      "ref": "401873001",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-18T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "away": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "venue": "Gillette Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:6:NYJ@NE"
+    },
+    "2:6:NO@NYG": {
+      "ref": "401873000",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-18T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "away": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "venue": "MetLife Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:6:NO@NYG"
+    },
+    "2:6:CAR@PHI": {
+      "ref": "401872998",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-18T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "away": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "venue": "Lincoln Financial Field",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:6:CAR@PHI"
+    },
+    "2:6:PIT@TB": {
+      "ref": "401873002",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-18T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "away": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "venue": "Raymond James Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:6:PIT@TB"
+    },
+    "2:6:ARI@LAR": {
+      "ref": "401873004",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-18T20:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "away": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "venue": "SoFi Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:6:ARI@LAR"
+    },
+    "2:6:LAC@KC": {
+      "ref": "401873006",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-18T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "away": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:6:LAC@KC"
+    },
+    "2:6:BUF@LV": {
+      "ref": "401873005",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-18T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "away": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "venue": "Allegiant Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:6:BUF@LV"
+    },
+    "2:6:DAL@GB": {
+      "ref": "401873007",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-19T00:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "away": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "venue": "Lambeau Field",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:6:DAL@GB"
+    },
+    "2:6:WAS@SF": {
+      "ref": "401873008",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-20T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "away": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "venue": "Levi's Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:6:WAS@SF"
+    },
+    "2:7:NE@CHI": {
+      "ref": "401873010",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-23T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "away": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "venue": "Soldier Field",
+      "network": "Prime Video",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:7:NE@CHI"
+    },
+    "2:7:PIT@NO": {
+      "ref": "401873011",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-25T13:30:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "away": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "venue": "Stade de France",
+      "network": "NFL Net",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:7:PIT@NO"
+    },
+    "2:7:SF@ATL": {
+      "ref": "401873017",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-25T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "away": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "venue": "Mercedes-Benz Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:7:SF@ATL"
+    },
+    "2:7:CLE@TEN": {
+      "ref": "401873013",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-25T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "away": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "venue": "Nissan Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:7:CLE@TEN"
+    },
+    "2:7:IND@MIN": {
+      "ref": "401873014",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-25T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "away": {
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
+      },
+      "venue": "U.S. Bank Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:7:IND@MIN"
+    },
+    "2:7:MIA@NYJ": {
+      "ref": "401873015",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-25T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "away": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "venue": "MetLife Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:7:MIA@NYJ"
+    },
+    "2:7:TB@CAR": {
+      "ref": "401873018",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-25T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "away": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "venue": "Bank of America Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:7:TB@CAR"
+    },
+    "2:7:CIN@BAL": {
+      "ref": "401873012",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-25T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "away": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "venue": "M&T Bank Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:7:CIN@BAL"
+    },
+    "2:7:NYG@HOU": {
+      "ref": "401873016",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-25T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "away": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "venue": "NRG Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:7:NYG@HOU"
+    },
+    "2:7:DEN@ARI": {
+      "ref": "401873019",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-25T20:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "away": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "venue": "State Farm Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:7:DEN@ARI"
+    },
+    "2:7:GB@DET": {
+      "ref": "401873020",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-25T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "away": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "venue": "Ford Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:7:GB@DET"
+    },
+    "2:7:LAR@LV": {
+      "ref": "401873021",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-25T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "away": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "venue": "Allegiant Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:7:LAR@LV"
+    },
+    "2:7:KC@SEA": {
+      "ref": "401873022",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-26T00:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "away": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "venue": "Lumen Field",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:7:KC@SEA"
+    },
+    "2:7:DAL@PHI": {
+      "ref": "401873009",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-27T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "away": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "venue": "Lincoln Financial Field",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:7:DAL@PHI"
+    },
+    "2:8:CAR@GB": {
+      "ref": "401873023",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 8,
+      "kickoff": "2026-10-30T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "away": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "venue": "Lambeau Field",
+      "network": "Prime Video",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:8:CAR@GB"
+    },
+    "2:8:BAL@BUF": {
+      "ref": "401873026",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 8,
+      "kickoff": "2026-11-01T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "away": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "venue": "Highmark Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:8:BAL@BUF"
+    },
+    "2:8:TEN@CIN": {
+      "ref": "401873031",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 8,
+      "kickoff": "2026-11-01T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "away": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "venue": "Paycor Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:8:TEN@CIN"
+    },
+    "2:8:ARI@DAL": {
+      "ref": "401873024",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 8,
+      "kickoff": "2026-11-01T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "away": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "venue": "AT&T Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:8:ARI@DAL"
+    },
+    "2:8:MIN@DET": {
+      "ref": "401873030",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 8,
+      "kickoff": "2026-11-01T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "away": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "venue": "Ford Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:8:MIN@DET"
+    },
+    "2:8:LV@NYJ": {
+      "ref": "401873029",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 8,
+      "kickoff": "2026-11-01T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "away": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "venue": "MetLife Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:8:LV@NYJ"
+    },
+    "2:8:CLE@PIT": {
+      "ref": "401873027",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 8,
+      "kickoff": "2026-11-01T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "away": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "venue": "Acrisure Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:8:CLE@PIT"
+    },
+    "2:8:ATL@TB": {
+      "ref": "401873025",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 8,
+      "kickoff": "2026-11-01T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "away": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "venue": "Raymond James Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:8:ATL@TB"
+    },
+    "2:8:IND@JAX": {
+      "ref": "401873028",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 8,
+      "kickoff": "2026-11-01T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "away": {
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
+      },
+      "venue": "EverBank Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:8:IND@JAX"
+    },
+    "2:8:LAC@LAR": {
+      "ref": "401873032",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 8,
+      "kickoff": "2026-11-01T21:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "away": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "venue": "SoFi Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:8:LAC@LAR"
+    },
+    "2:8:KC@DEN": {
+      "ref": "401873033",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 8,
+      "kickoff": "2026-11-01T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "away": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "venue": "Empower Field at Mile High",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:8:KC@DEN"
+    },
+    "2:8:NE@MIA": {
+      "ref": "401873034",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 8,
+      "kickoff": "2026-11-01T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "away": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "venue": "Hard Rock Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:8:NE@MIA"
+    },
+    "2:8:PHI@WAS": {
+      "ref": "401873035",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 8,
+      "kickoff": "2026-11-02T01:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "away": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "venue": "Northwest Stadium",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:8:PHI@WAS"
+    },
+    "2:8:CHI@SEA": {
+      "ref": "401873036",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 8,
+      "kickoff": "2026-11-03T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "away": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "venue": "Lumen Field",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:8:CHI@SEA"
+    },
+    "2:9:JAX@BAL": {
+      "ref": "401873037",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-06T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "away": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "venue": "M&T Bank Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:9:JAX@BAL"
+    },
+    "2:9:CIN@ATL": {
+      "ref": "401873038",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T14:30:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "away": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "venue": "Santiago Bernabéu",
+      "network": "NFL Net",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:9:CIN@ATL"
+    },
+    "2:9:DAL@IND": {
+      "ref": "401873040",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
+      },
+      "away": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "venue": "Lucas Oil Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:9:DAL@IND"
+    },
+    "2:9:NYJ@KC": {
+      "ref": "401873045",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "away": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:9:NYJ@KC"
+    },
+    "2:9:DET@MIA": {
+      "ref": "401873042",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "away": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "venue": "Hard Rock Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:9:DET@MIA"
+    },
+    "2:9:CLE@NO": {
+      "ref": "401873039",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "away": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "venue": "Caesars Superdome",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:9:CLE@NO"
+    },
+    "2:9:NYG@PHI": {
+      "ref": "401873044",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "away": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "venue": "Lincoln Financial Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:9:NYG@PHI"
+    },
+    "2:9:LAR@WAS": {
+      "ref": "401873043",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "away": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "venue": "Northwest Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:9:LAR@WAS"
+    },
+    "2:9:DEN@CAR": {
+      "ref": "401873041",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "away": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "venue": "Bank of America Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:9:DEN@CAR"
+    },
+    "2:9:HOU@LAC": {
+      "ref": "401873046",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T21:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "away": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "venue": "SoFi Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:9:HOU@LAC"
+    },
+    "2:9:LV@SF": {
+      "ref": "401873047",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T21:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "away": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "venue": "Levi's Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:9:LV@SF"
+    },
+    "2:9:GB@NE": {
+      "ref": "401873049",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "away": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "venue": "Gillette Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:9:GB@NE"
+    },
+    "2:9:ARI@SEA": {
+      "ref": "401873048",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "away": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "venue": "Lumen Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:9:ARI@SEA"
+    },
+    "2:9:TB@CHI": {
+      "ref": "401873050",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-09T01:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "away": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "venue": "Soldier Field",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:9:TB@CHI"
+    },
+    "2:9:BUF@MIN": {
+      "ref": "401873051",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-10T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "away": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "venue": "U.S. Bank Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:9:BUF@MIN"
+    },
+    "2:10:WAS@NYG": {
+      "ref": "401873052",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 10,
+      "kickoff": "2026-11-13T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "away": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "venue": "MetLife Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:10:WAS@NYG"
+    },
+    "2:10:NE@DET": {
+      "ref": "401873053",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 10,
+      "kickoff": "2026-11-15T14:30:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "away": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "venue": "FC Bayern Munich Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:10:NE@DET"
+    },
+    "2:10:KC@ATL": {
+      "ref": "401873058",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 10,
+      "kickoff": "2026-11-15T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "away": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "venue": "Mercedes-Benz Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:10:KC@ATL"
+    },
+    "2:10:HOU@CLE": {
+      "ref": "401873056",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 10,
+      "kickoff": "2026-11-15T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "away": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "venue": "Huntington Bank Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:10:HOU@CLE"
+    },
+    "2:10:MIN@GB": {
+      "ref": "401873060",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 10,
+      "kickoff": "2026-11-15T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "away": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "venue": "Lambeau Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:10:MIN@GB"
+    },
+    "2:10:JAX@TEN": {
+      "ref": "401873057",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 10,
+      "kickoff": "2026-11-15T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "away": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "venue": "Nissan Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:10:JAX@TEN"
+    },
+    "2:10:MIA@IND": {
+      "ref": "401873059",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 10,
+      "kickoff": "2026-11-15T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
+      },
+      "away": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "venue": "Lucas Oil Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:10:MIA@IND"
+    },
+    "2:10:CAR@NO": {
+      "ref": "401873055",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 10,
+      "kickoff": "2026-11-15T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "away": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "venue": "Caesars Superdome",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:10:CAR@NO"
+    },
+    "2:10:BUF@NYJ": {
+      "ref": "401873054",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 10,
+      "kickoff": "2026-11-15T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "away": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "venue": "MetLife Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:10:BUF@NYJ"
+    },
+    "2:10:SEA@LV": {
+      "ref": "401873062",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 10,
+      "kickoff": "2026-11-15T21:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "away": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "venue": "Allegiant Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:10:SEA@LV"
+    },
+    "2:10:LAR@ARI": {
+      "ref": "401873061",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 10,
+      "kickoff": "2026-11-15T21:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "away": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "venue": "State Farm Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:10:LAR@ARI"
+    },
+    "2:10:SF@DAL": {
+      "ref": "401873063",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 10,
+      "kickoff": "2026-11-15T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "away": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "venue": "AT&T Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:10:SF@DAL"
+    },
+    "2:10:PIT@CIN": {
+      "ref": "401873064",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 10,
+      "kickoff": "2026-11-16T01:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "away": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "venue": "Paycor Stadium",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:10:PIT@CIN"
+    },
+    "2:10:LAC@BAL": {
+      "ref": "401873065",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 10,
+      "kickoff": "2026-11-17T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "away": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "venue": "M&T Bank Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:10:LAC@BAL"
+    },
+    "2:11:IND@HOU": {
+      "ref": "401873066",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-20T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "away": {
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
+      },
+      "venue": "NRG Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:11:IND@HOU"
+    },
+    "2:11:MIA@BUF": {
+      "ref": "401873070",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "away": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "venue": "Highmark Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:11:MIA@BUF"
+    },
+    "2:11:NO@CHI": {
+      "ref": "401873071",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "away": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "venue": "Soldier Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:11:NO@CHI"
+    },
+    "2:11:TEN@DAL": {
+      "ref": "401873073",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "away": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "venue": "AT&T Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:11:TEN@DAL"
+    },
+    "2:11:TB@DET": {
+      "ref": "401873072",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "away": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "venue": "Ford Field",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:11:TB@DET"
+    },
+    "2:11:ARI@KC": {
+      "ref": "401873067",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "away": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:11:ARI@KC"
+    },
+    "2:11:JAX@NYG": {
+      "ref": "401873069",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "away": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "venue": "MetLife Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:11:JAX@NYG"
+    },
+    "2:11:BAL@CAR": {
+      "ref": "401873068",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "away": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "venue": "Bank of America Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:11:BAL@CAR"
+    },
+    "2:11:NYJ@LAC": {
+      "ref": "401873074",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-22T21:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "away": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "venue": "SoFi Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:11:NYJ@LAC"
+    },
+    "2:11:LV@DEN": {
+      "ref": "401873075",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-22T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "away": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "venue": "Empower Field at Mile High",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:11:LV@DEN"
+    },
+    "2:11:PIT@PHI": {
+      "ref": "401873076",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-22T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "away": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "venue": "Lincoln Financial Field",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:11:PIT@PHI"
+    },
+    "2:11:MIN@SF": {
+      "ref": "401873077",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-23T01:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "away": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "venue": "Estadio Banorte",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:11:MIN@SF"
+    },
+    "2:11:CIN@WAS": {
+      "ref": "401873078",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-24T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "away": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "venue": "Northwest Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:11:CIN@WAS"
+    },
+    "2:12:GB@LAR": {
+      "ref": "401873079",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-26T01:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "away": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "venue": "SoFi Stadium",
+      "network": "Netflix",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:12:GB@LAR"
+    },
+    "2:12:CHI@DET": {
+      "ref": "401873081",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-26T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "away": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "venue": "Ford Field",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:12:CHI@DET"
+    },
+    "2:12:PHI@DAL": {
+      "ref": "401873080",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-26T21:30:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "away": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "venue": "AT&T Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:12:PHI@DAL"
+    },
+    "2:12:KC@BUF": {
+      "ref": "401873082",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-27T01:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "away": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "venue": "Highmark Stadium",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:12:KC@BUF"
+    },
+    "2:12:DEN@PIT": {
+      "ref": "401873083",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-27T20:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "away": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "venue": "Acrisure Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:12:DEN@PIT"
+    },
+    "2:12:NO@CIN": {
+      "ref": "401873087",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-29T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "away": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "venue": "Paycor Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:12:NO@CIN"
+    },
+    "2:12:LV@CLE": {
+      "ref": "401873086",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-29T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "away": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "venue": "Huntington Bank Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:12:LV@CLE"
+    },
+    "2:12:NYG@IND": {
+      "ref": "401873088",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-29T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
+      },
+      "away": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "venue": "Lucas Oil Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:12:NYG@IND"
+    },
+    "2:12:NYJ@MIA": {
+      "ref": "401873089",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-29T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "away": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "venue": "Hard Rock Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:12:NYJ@MIA"
+    },
+    "2:12:ATL@MIN": {
+      "ref": "401873084",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-29T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "away": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "venue": "U.S. Bank Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:12:ATL@MIN"
+    },
+    "2:12:BAL@HOU": {
+      "ref": "401873085",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-29T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "away": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "venue": "NRG Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:12:BAL@HOU"
+    },
+    "2:12:TEN@JAX": {
+      "ref": "401873090",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-29T21:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "away": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "venue": "EverBank Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:12:TEN@JAX"
+    },
+    "2:12:WAS@ARI": {
+      "ref": "401873092",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-29T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "away": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "venue": "State Farm Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:12:WAS@ARI"
+    },
+    "2:12:SEA@SF": {
+      "ref": "401873091",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-29T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "away": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "venue": "Levi's Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:12:SEA@SF"
+    },
+    "2:12:NE@LAC": {
+      "ref": "401873093",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-30T01:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "away": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "venue": "SoFi Stadium",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:12:NE@LAC"
+    },
+    "2:12:CAR@TB": {
+      "ref": "401873094",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-12-01T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "away": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "venue": "Raymond James Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:12:CAR@TB"
+    },
+    "2:13:KC@LAR": {
+      "ref": "401873096",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 13,
+      "kickoff": "2026-12-04T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "away": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "venue": "SoFi Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:13:KC@LAR"
+    },
+    "2:13:DET@ATL": {
+      "ref": "401873098",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 13,
+      "kickoff": "2026-12-06T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "away": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "venue": "Mercedes-Benz Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:13:DET@ATL"
+    },
+    "2:13:JAX@CHI": {
+      "ref": "401873100",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 13,
+      "kickoff": "2026-12-06T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "away": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "venue": "Soldier Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:13:JAX@CHI"
+    },
+    "2:13:CIN@CLE": {
+      "ref": "401873097",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 13,
+      "kickoff": "2026-12-06T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "away": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "venue": "Huntington Bank Field",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:13:CIN@CLE"
+    },
+    "2:13:WAS@TEN": {
+      "ref": "401873102",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 13,
+      "kickoff": "2026-12-06T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "away": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "venue": "Nissan Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:13:WAS@TEN"
+    },
+    "2:13:GB@NO": {
+      "ref": "401873099",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 13,
+      "kickoff": "2026-12-06T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "away": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "venue": "Caesars Superdome",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:13:GB@NO"
+    },
+    "2:13:SF@NYG": {
+      "ref": "401873095",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 13,
+      "kickoff": "2026-12-06T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "away": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "venue": "MetLife Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:13:SF@NYG"
+    },
+    "2:13:LAC@TB": {
+      "ref": "401873101",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 13,
+      "kickoff": "2026-12-06T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "away": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "venue": "Raymond James Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:13:LAC@TB"
+    },
+    "2:13:MIA@DEN": {
+      "ref": "401873103",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 13,
+      "kickoff": "2026-12-06T21:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "away": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "venue": "Empower Field at Mile High",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:13:MIA@DEN"
+    },
+    "2:13:PHI@ARI": {
+      "ref": "401873104",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 13,
+      "kickoff": "2026-12-06T21:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "away": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "venue": "State Farm Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:13:PHI@ARI"
+    },
+    "2:13:CAR@MIN": {
+      "ref": "401873106",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 13,
+      "kickoff": "2026-12-06T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "away": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "venue": "U.S. Bank Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:13:CAR@MIN"
+    },
+    "2:13:BUF@NE": {
+      "ref": "401873105",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 13,
+      "kickoff": "2026-12-06T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "away": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "venue": "Gillette Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:13:BUF@NE"
+    },
+    "2:13:HOU@PIT": {
+      "ref": "401873107",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 13,
+      "kickoff": "2026-12-07T01:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "away": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "venue": "Acrisure Stadium",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:13:HOU@PIT"
+    },
+    "2:13:DAL@SEA": {
+      "ref": "401873108",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 13,
+      "kickoff": "2026-12-08T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "away": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "venue": "Lumen Field",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:13:DAL@SEA"
+    },
+    "2:14:MIN@NE": {
+      "ref": "401873109",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 14,
+      "kickoff": "2026-12-11T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "away": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "venue": "Gillette Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:14:MIN@NE"
+    },
+    "2:14:ATL@CLE": {
+      "ref": "401873110",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 14,
+      "kickoff": "2026-12-13T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "away": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "venue": "Huntington Bank Field",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:14:ATL@CLE"
+    },
+    "2:14:TEN@DET": {
+      "ref": "401873117",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 14,
+      "kickoff": "2026-12-13T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "away": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "venue": "Ford Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:14:TEN@DET"
+    },
+    "2:14:CHI@MIA": {
+      "ref": "401873111",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 14,
+      "kickoff": "2026-12-13T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "away": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "venue": "Hard Rock Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:14:CHI@MIA"
+    },
+    "2:14:DEN@NYJ": {
+      "ref": "401873112",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 14,
+      "kickoff": "2026-12-13T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "away": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "venue": "MetLife Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:14:DEN@NYJ"
+    },
+    "2:14:IND@PHI": {
+      "ref": "401873114",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 14,
+      "kickoff": "2026-12-13T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "away": {
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
+      },
+      "venue": "Lincoln Financial Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:14:IND@PHI"
+    },
+    "2:14:HOU@WAS": {
+      "ref": "401873113",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 14,
+      "kickoff": "2026-12-13T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "away": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "venue": "Northwest Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:14:HOU@WAS"
+    },
+    "2:14:NO@CAR": {
+      "ref": "401873115",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 14,
+      "kickoff": "2026-12-13T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "away": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "venue": "Bank of America Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:14:NO@CAR"
+    },
+    "2:14:TB@BAL": {
+      "ref": "401873116",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 14,
+      "kickoff": "2026-12-13T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "away": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "venue": "M&T Bank Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:14:TB@BAL"
+    },
+    "2:14:LAC@LV": {
+      "ref": "401873118",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 14,
+      "kickoff": "2026-12-13T21:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "away": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "venue": "Allegiant Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:14:LAC@LV"
+    },
+    "2:14:KC@CIN": {
+      "ref": "401873119",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 14,
+      "kickoff": "2026-12-13T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "away": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "venue": "Paycor Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:14:KC@CIN"
+    },
+    "2:14:LAR@SF": {
+      "ref": "401873120",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 14,
+      "kickoff": "2026-12-13T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "away": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "venue": "Levi's Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:14:LAR@SF"
+    },
+    "2:14:NYG@SEA": {
+      "ref": "401873121",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 14,
+      "kickoff": "2026-12-13T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "away": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "venue": "Lumen Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:14:NYG@SEA"
+    },
+    "2:14:BUF@GB": {
+      "ref": "401873122",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 14,
+      "kickoff": "2026-12-14T01:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "away": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "venue": "Lambeau Field",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:14:BUF@GB"
+    },
+    "2:14:PIT@JAX": {
+      "ref": "401873123",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 14,
+      "kickoff": "2026-12-15T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "away": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "venue": "EverBank Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:14:PIT@JAX"
+    },
+    "2:15:SF@LAC": {
+      "ref": "401873124",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 15,
+      "kickoff": "2026-12-18T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "away": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "venue": "SoFi Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:15:SF@LAC"
+    },
+    "2:15:SEA@PHI": {
+      "ref": "401873125",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 15,
+      "kickoff": "2026-12-19T22:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "away": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "venue": "Lincoln Financial Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:15:SEA@PHI"
+    },
+    "2:15:CHI@BUF": {
+      "ref": "401873126",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 15,
+      "kickoff": "2026-12-20T01:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "away": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "venue": "Highmark Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:15:CHI@BUF"
+    },
+    "2:15:MIA@GB": {
+      "ref": "401873133",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 15,
+      "kickoff": "2026-12-20T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "away": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "venue": "Lambeau Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:15:MIA@GB"
+    },
+    "2:15:IND@TEN": {
+      "ref": "401873131",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 15,
+      "kickoff": "2026-12-20T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "away": {
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
+      },
+      "venue": "Nissan Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:15:IND@TEN"
+    },
+    "2:15:CLE@NYG": {
+      "ref": "401873130",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 15,
+      "kickoff": "2026-12-20T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "away": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "venue": "MetLife Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:15:CLE@NYG"
+    },
+    "2:15:BAL@PIT": {
+      "ref": "401873128",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 15,
+      "kickoff": "2026-12-20T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "away": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "venue": "Acrisure Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:15:BAL@PIT"
+    },
+    "2:15:NO@TB": {
+      "ref": "401873134",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 15,
+      "kickoff": "2026-12-20T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "away": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "venue": "Raymond James Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:15:NO@TB"
+    },
+    "2:15:ATL@WAS": {
+      "ref": "401873127",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 15,
+      "kickoff": "2026-12-20T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "away": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "venue": "Northwest Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:15:ATL@WAS"
+    },
+    "2:15:CIN@CAR": {
+      "ref": "401873129",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 15,
+      "kickoff": "2026-12-20T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "away": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "venue": "Bank of America Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:15:CIN@CAR"
+    },
+    "2:15:JAX@HOU": {
+      "ref": "401873132",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 15,
+      "kickoff": "2026-12-20T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "away": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "venue": "NRG Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:15:JAX@HOU"
+    },
+    "2:15:NYJ@ARI": {
+      "ref": "401873135",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 15,
+      "kickoff": "2026-12-20T21:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "away": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "venue": "State Farm Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:15:NYJ@ARI"
+    },
+    "2:15:DEN@LV": {
+      "ref": "401873137",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 15,
+      "kickoff": "2026-12-20T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "away": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "venue": "Allegiant Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:15:DEN@LV"
+    },
+    "2:15:DAL@LAR": {
+      "ref": "401873136",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 15,
+      "kickoff": "2026-12-20T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "away": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "venue": "SoFi Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:15:DAL@LAR"
+    },
+    "2:15:DET@MIN": {
+      "ref": "401873138",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 15,
+      "kickoff": "2026-12-21T01:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "away": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "venue": "U.S. Bank Stadium",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:15:DET@MIN"
+    },
+    "2:15:NE@KC": {
+      "ref": "401873139",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 15,
+      "kickoff": "2026-12-22T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "away": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:15:NE@KC"
+    },
+    "2:16:HOU@PHI": {
+      "ref": "401873140",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 16,
+      "kickoff": "2026-12-25T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "away": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "venue": "Lincoln Financial Field",
+      "network": "Prime Video",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:16:HOU@PHI"
+    },
+    "2:16:GB@CHI": {
+      "ref": "401873141",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 16,
+      "kickoff": "2026-12-25T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "away": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "venue": "Soldier Field",
+      "network": "Netflix",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:16:GB@CHI"
+    },
+    "2:16:BUF@DEN": {
+      "ref": "401873142",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 16,
+      "kickoff": "2026-12-25T21:30:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "away": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "venue": "Empower Field at Mile High",
+      "network": "Netflix",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:16:BUF@DEN"
+    },
+    "2:16:LAR@SEA": {
+      "ref": "401873143",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 16,
+      "kickoff": "2026-12-26T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "away": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "venue": "Lumen Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:16:LAR@SEA"
+    },
+    "2:16:TB@ATL": {
+      "ref": "401873146",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 16,
+      "kickoff": "2026-12-27T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "away": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "venue": "Mercedes-Benz Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:16:TB@ATL"
+    },
+    "2:16:CIN@IND": {
+      "ref": "401873145",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 16,
+      "kickoff": "2026-12-27T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
+      },
+      "away": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "venue": "Lucas Oil Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:16:CIN@IND"
+    },
+    "2:16:WAS@MIN": {
+      "ref": "401873147",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 16,
+      "kickoff": "2026-12-27T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "away": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "venue": "U.S. Bank Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:16:WAS@MIN"
+    },
+    "2:16:CAR@PIT": {
+      "ref": "401873144",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 16,
+      "kickoff": "2026-12-27T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "away": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "venue": "Acrisure Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:16:CAR@PIT"
+    },
+    "2:16:LAC@MIA": {
+      "ref": "401873150",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 16,
+      "kickoff": "2026-12-27T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "away": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "venue": "Hard Rock Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:16:LAC@MIA"
+    },
+    "2:16:ARI@NO": {
+      "ref": "401873148",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 16,
+      "kickoff": "2026-12-27T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "away": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "venue": "Caesars Superdome",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:16:ARI@NO"
+    },
+    "2:16:NE@NYJ": {
+      "ref": "401873151",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 16,
+      "kickoff": "2026-12-27T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "away": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "venue": "MetLife Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:16:NE@NYJ"
+    },
+    "2:16:CLE@BAL": {
+      "ref": "401873149",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 16,
+      "kickoff": "2026-12-27T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "away": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "venue": "M&T Bank Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:16:CLE@BAL"
+    },
+    "2:16:TEN@LV": {
+      "ref": "401873152",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 16,
+      "kickoff": "2026-12-27T21:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "away": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "venue": "Allegiant Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:16:TEN@LV"
+    },
+    "2:16:SF@KC": {
+      "ref": "401873153",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 16,
+      "kickoff": "2026-12-27T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "away": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:16:SF@KC"
+    },
+    "2:16:JAX@DAL": {
+      "ref": "401873154",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 16,
+      "kickoff": "2026-12-28T01:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "away": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "venue": "AT&T Stadium",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:16:JAX@DAL"
+    },
+    "2:16:NYG@DET": {
+      "ref": "401873155",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 16,
+      "kickoff": "2026-12-29T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "away": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "venue": "Ford Field",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:16:NYG@DET"
+    },
+    "2:17:BAL@CIN": {
+      "ref": "401873156",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 17,
+      "kickoff": "2027-01-01T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "away": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "venue": "Paycor Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:17:BAL@CIN"
+    },
+    "2:17:DEN@NE": {
+      "ref": "401873157",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 17,
+      "kickoff": "2027-01-03T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "away": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "venue": "Gillette Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:17:DEN@NE"
+    },
+    "2:17:KC@LAC": {
+      "ref": "401873158",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 17,
+      "kickoff": "2027-01-03T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "away": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "venue": "SoFi Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:17:KC@LAC"
+    },
+    "2:17:LAR@TB": {
+      "ref": "401873159",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 17,
+      "kickoff": "2027-01-03T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "away": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "venue": "Raymond James Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:17:LAR@TB"
+    },
+    "2:17:WAS@JAX": {
+      "ref": "401873160",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 17,
+      "kickoff": "2027-01-03T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "away": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "venue": "EverBank Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:17:WAS@JAX"
+    },
+    "2:17:NO@ATL": {
+      "ref": "401873164",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 17,
+      "kickoff": "2027-01-03T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "away": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "venue": "Mercedes-Benz Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:17:NO@ATL"
+    },
+    "2:17:IND@CLE": {
+      "ref": "401873162",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 17,
+      "kickoff": "2027-01-03T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "away": {
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
+      },
+      "venue": "Huntington Bank Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:17:IND@CLE"
+    },
+    "2:17:NYG@DAL": {
+      "ref": "401873165",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 17,
+      "kickoff": "2027-01-03T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "away": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "venue": "AT&T Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:17:NYG@DAL"
+    },
+    "2:17:PIT@TEN": {
+      "ref": "401873166",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 17,
+      "kickoff": "2027-01-03T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "away": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "venue": "Nissan Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:17:PIT@TEN"
+    },
+    "2:17:BUF@MIA": {
+      "ref": "401873161",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 17,
+      "kickoff": "2027-01-03T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "away": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "venue": "Hard Rock Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:17:BUF@MIA"
+    },
+    "2:17:MIN@NYJ": {
+      "ref": "401873163",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 17,
+      "kickoff": "2027-01-03T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "away": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "venue": "MetLife Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:17:MIN@NYJ"
+    },
+    "2:17:SEA@CAR": {
+      "ref": "401873167",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 17,
+      "kickoff": "2027-01-03T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "away": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "venue": "Bank of America Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:17:SEA@CAR"
+    },
+    "2:17:LV@ARI": {
+      "ref": "401873168",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 17,
+      "kickoff": "2027-01-03T21:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "away": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "venue": "State Farm Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:17:LV@ARI"
+    },
+    "2:17:DET@CHI": {
+      "ref": "401873169",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 17,
+      "kickoff": "2027-01-03T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "away": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "venue": "Soldier Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:17:DET@CHI"
+    },
+    "2:17:PHI@SF": {
+      "ref": "401873170",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 17,
+      "kickoff": "2027-01-04T01:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "away": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "venue": "Levi's Stadium",
+      "network": "NBC",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:17:PHI@SF"
+    },
+    "2:17:HOU@GB": {
+      "ref": "401873171",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 17,
+      "kickoff": "2027-01-05T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "away": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "venue": "Lambeau Field",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:17:HOU@GB"
+    },
+    "2:18:NYJ@BUF": {
+      "ref": "401873181",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 18,
+      "kickoff": "2027-01-10T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "away": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "venue": "Highmark Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:18:NYJ@BUF"
+    },
+    "2:18:CLE@CIN": {
+      "ref": "401873174",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 18,
+      "kickoff": "2027-01-10T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "away": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "venue": "Paycor Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:18:CLE@CIN"
+    },
+    "2:18:LAC@DEN": {
+      "ref": "401873179",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 18,
+      "kickoff": "2027-01-10T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "away": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "venue": "Empower Field at Mile High",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:18:LAC@DEN"
+    },
+    "2:18:DET@GB": {
+      "ref": "401873176",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 18,
+      "kickoff": "2027-01-10T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "away": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "venue": "Lambeau Field",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:18:DET@GB"
+    },
+    "2:18:JAX@IND": {
+      "ref": "401873177",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 18,
+      "kickoff": "2027-01-10T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
+      },
+      "away": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "venue": "Lucas Oil Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:18:JAX@IND"
+    },
+    "2:18:LV@KC": {
+      "ref": "401873178",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 18,
+      "kickoff": "2027-01-10T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "away": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:18:LV@KC"
+    },
+    "2:18:SEA@LAR": {
+      "ref": "401873185",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 18,
+      "kickoff": "2027-01-10T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "away": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "venue": "SoFi Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:18:SEA@LAR"
+    },
+    "2:18:CHI@MIN": {
+      "ref": "401873173",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 18,
+      "kickoff": "2027-01-10T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "away": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "venue": "U.S. Bank Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:18:CHI@MIN"
+    },
+    "2:18:MIA@NE": {
+      "ref": "401873180",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 18,
+      "kickoff": "2027-01-10T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "away": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "venue": "Gillette Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:18:MIA@NE"
+    },
+    "2:18:TB@NO": {
+      "ref": "401873186",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 18,
+      "kickoff": "2027-01-10T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "away": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "venue": "Caesars Superdome",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:18:TB@NO"
+    },
+    "2:18:PHI@NYG": {
+      "ref": "401873182",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 18,
+      "kickoff": "2027-01-10T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "away": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "venue": "MetLife Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:18:PHI@NYG"
+    },
+    "2:18:SF@ARI": {
+      "ref": "401873184",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 18,
+      "kickoff": "2027-01-10T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "away": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "venue": "State Farm Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:18:SF@ARI"
+    },
+    "2:18:DAL@WAS": {
+      "ref": "401873175",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 18,
+      "kickoff": "2027-01-10T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "away": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "venue": "Northwest Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:18:DAL@WAS"
+    },
+    "2:18:ATL@CAR": {
+      "ref": "401873172",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 18,
+      "kickoff": "2027-01-10T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "away": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "venue": "Bank of America Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:18:ATL@CAR"
+    },
+    "2:18:PIT@BAL": {
+      "ref": "401873183",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 18,
+      "kickoff": "2027-01-10T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "away": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "venue": "M&T Bank Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:18:PIT@BAL"
+    },
+    "2:18:TEN@HOU": {
+      "ref": "401873187",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 18,
+      "kickoff": "2027-01-10T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "away": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "venue": "NRG Stadium",
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:18:TEN@HOU"
+    },
+    "3:1:TBD@TBD": {
+      "ref": "401872915",
+      "provider": "espn",
+      "seasonType": 3,
+      "week": 1,
+      "kickoff": "2027-01-18T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "TBD",
+        "name": "TBD"
+      },
+      "away": {
+        "abbr": "TBD",
+        "name": "TBD"
+      },
+      "venue": null,
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "3:1:TBD@TBD"
+    },
+    "3:2:TBD@TBD": {
+      "ref": "401872919",
+      "provider": "espn",
+      "seasonType": 3,
+      "week": 2,
+      "kickoff": "2027-01-24T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "TBD",
+        "name": "TBD"
+      },
+      "away": {
+        "abbr": "TBD",
+        "name": "TBD"
+      },
+      "venue": null,
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "3:2:TBD@TBD"
+    },
+    "3:3:TBD@TBD": {
+      "ref": "401872921",
+      "provider": "espn",
+      "seasonType": 3,
+      "week": 3,
+      "kickoff": "2027-01-31T05:00:00.000Z",
+      "timeTBD": true,
+      "home": {
+        "abbr": "TBD",
+        "name": "TBD"
+      },
+      "away": {
+        "abbr": "TBD",
+        "name": "TBD"
+      },
+      "venue": null,
+      "network": "",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "3:3:TBD@TBD"
+    },
+    "3:5:TBD@TBD": {
+      "ref": "401873270",
+      "provider": "espn",
+      "seasonType": 3,
+      "week": 5,
+      "kickoff": "2027-02-14T23:30:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TBD",
+        "name": "TBD"
+      },
+      "away": {
+        "abbr": "TBD",
+        "name": "TBD"
+      },
+      "venue": "SoFi Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "3:5:TBD@TBD"
+    }
+  }
+}
