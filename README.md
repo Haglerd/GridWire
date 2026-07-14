@@ -1,5 +1,7 @@
 # Gridwire
 
+![Gridwire banner](assets/banner.jpg)
+
 **by Ghostwire Systems**
 
 A Discord bot for pickem groups that watches the NFL schedule and posts to a channel when something changes — flex moves, kickoff time changes, postponements/cancellations, added or removed games — and announces the moment the new season's schedule drops.
