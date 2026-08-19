@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-08-19T22:23:44.479Z",
+  "savedAt": "2026-08-19T22:51:17.868Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -318,7 +318,7 @@
         "abbr": "DEN",
         "name": "Denver Broncos"
       },
-      "venue": "GEHA Field at Arrowhead Stadium",
+      "venue": "Arrowhead Stadium",
       "network": "ESPN",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:1:DEN@KC"
@@ -618,7 +618,7 @@
         "abbr": "IND",
         "name": "Indianapolis Colts"
       },
-      "venue": "GEHA Field at Arrowhead Stadium",
+      "venue": "Arrowhead Stadium",
       "network": "NBC",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:2:IND@KC"
@@ -1798,7 +1798,7 @@
         "abbr": "LAC",
         "name": "Los Angeles Chargers"
       },
-      "venue": "GEHA Field at Arrowhead Stadium",
+      "venue": "Arrowhead Stadium",
       "network": "CBS",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:6:LAC@KC"
@@ -2498,7 +2498,7 @@
         "abbr": "NYJ",
         "name": "New York Jets"
       },
-      "venue": "GEHA Field at Arrowhead Stadium",
+      "venue": "Arrowhead Stadium",
       "network": "CBS",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:9:NYJ@KC"
@@ -3118,7 +3118,7 @@
         "abbr": "ARI",
         "name": "Arizona Cardinals"
       },
-      "venue": "GEHA Field at Arrowhead Stadium",
+      "venue": "Arrowhead Stadium",
       "network": "CBS",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:11:ARI@KC"
@@ -4478,7 +4478,7 @@
         "abbr": "NE",
         "name": "New England Patriots"
       },
-      "venue": "GEHA Field at Arrowhead Stadium",
+      "venue": "Arrowhead Stadium",
       "network": "ESPN",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:15:NE@KC"
@@ -4758,7 +4758,7 @@
         "abbr": "SF",
         "name": "San Francisco 49ers"
       },
-      "venue": "GEHA Field at Arrowhead Stadium",
+      "venue": "Arrowhead Stadium",
       "network": "CBS",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:16:SF@KC"
@@ -5238,7 +5238,7 @@
         "abbr": "LV",
         "name": "Las Vegas Raiders"
       },
-      "venue": "GEHA Field at Arrowhead Stadium",
+      "venue": "Arrowhead Stadium",
       "network": "",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:18:LV@KC"
