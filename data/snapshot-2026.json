@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-08-20T01:11:43.585Z",
+  "savedAt": "2026-08-20T02:37:21.003Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -198,7 +198,7 @@
         "abbr": "BUF",
         "name": "Buffalo Bills"
       },
-      "venue": "NRG Stadium",
+      "venue": "Reliant Stadium",
       "network": "CBS",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:1:BUF@HOU"
@@ -498,7 +498,7 @@
         "abbr": "CIN",
         "name": "Cincinnati Bengals"
       },
-      "venue": "NRG Stadium",
+      "venue": "Reliant Stadium",
       "network": "CBS",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:2:CIN@HOU"
@@ -1158,7 +1158,7 @@
         "abbr": "DAL",
         "name": "Dallas Cowboys"
       },
-      "venue": "NRG Stadium",
+      "venue": "Reliant Stadium",
       "network": "FOX",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:4:DAL@HOU"
@@ -2038,7 +2038,7 @@
         "abbr": "NYG",
         "name": "New York Giants"
       },
-      "venue": "NRG Stadium",
+      "venue": "Reliant Stadium",
       "network": "FOX",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:7:NYG@HOU"
@@ -3018,7 +3018,7 @@
         "abbr": "IND",
         "name": "Indianapolis Colts"
       },
-      "venue": "NRG Stadium",
+      "venue": "Reliant Stadium",
       "network": "Prime Video",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:11:IND@HOU"
@@ -3478,7 +3478,7 @@
         "abbr": "BAL",
         "name": "Baltimore Ravens"
       },
-      "venue": "NRG Stadium",
+      "venue": "Reliant Stadium",
       "network": "CBS",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:12:BAL@HOU"
@@ -4378,7 +4378,7 @@
         "abbr": "JAX",
         "name": "Jacksonville Jaguars"
       },
-      "venue": "NRG Stadium",
+      "venue": "Reliant Stadium",
       "network": "CBS",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:15:JAX@HOU"
@@ -5438,7 +5438,7 @@
         "abbr": "TEN",
         "name": "Tennessee Titans"
       },
-      "venue": "NRG Stadium",
+      "venue": "Reliant Stadium",
       "network": "",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:18:TEN@HOU"
