@@ -14,6 +14,7 @@ A Discord bot for pickem groups that watches the NFL schedule and posts to a cha
 - A wave of 25+ new games on an empty snapshot is announced as **one** "schedule is out!" post, not 285 individual ones.
 - Kickoff times post as Discord `<t:…>` timestamps, so everyone sees their own local time.
 - First run captures a baseline silently — no alert spam for games everyone already knows about.
+- Alerts fire on **date, kickoff time, and opponent only**. Stadium and TV-network strings churn on their own ("GEHA Field at Arrowhead Stadium" -> "Arrowhead Stadium") and never raise an alert — they're still stored and shown by `/schedule`.
 - Snapshots only save **after** alerts post, so a Discord hiccup re-alerts next tick instead of swallowing the change.
 
 Hard-won rules from production incidents are baked in: ESPN requests always pin the season with an explicit `dates=` param, and any payload that declares a different season/week than requested is refused, not trusted.

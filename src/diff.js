@@ -88,17 +88,12 @@ function modifiedGames(prev, next, sameProvider) {
       fields.push({ field: 'kickoff', from: old.kickoff, to: g.kickoff });
     }
 
-    // Venue / network strings are provider dialects (ESPN says "Levi's Stadium",
-    // nflverse says "Levi's Stadium" too — but not always). Only diff them when
-    // the same provider produced both sides.
-    if (sameProvider) {
-      if (old.venue !== g.venue && g.venue && old.venue) {
-        fields.push({ field: 'venue', from: old.venue, to: g.venue });
-      }
-      if (old.network !== g.network && g.network && old.network) {
-        fields.push({ field: 'network', from: old.network, to: g.network });
-      }
-    }
+    // Venue and network are deliberately NOT diffed. The group cares about date,
+    // time, and opponent — nothing else changes who they pick. Stadium and TV
+    // strings are provider dialects that churn on their own ("GEHA Field at
+    // Arrowhead Stadium" -> "Arrowhead Stadium"), and every one of those posted
+    // as a "schedule change" alert. They stay in the snapshot for /schedule to
+    // display; they just never raise an alert.
 
     const oldBad = isDisrupted(old.statusName);
     const newBad = isDisrupted(g.statusName);
