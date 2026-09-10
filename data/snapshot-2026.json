@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-09T22:58:03.006Z",
+  "savedAt": "2026-09-10T00:57:42.433Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -20,7 +20,7 @@
       },
       "venue": "Lumen Field",
       "network": "NBC",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:1:NE@SEA"
     },
     "2:1:SF@LAR": {
