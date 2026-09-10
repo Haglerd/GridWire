@@ -1,28 +1,8 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-10T00:57:42.433Z",
+  "savedAt": "2026-09-10T05:44:59.955Z",
   "games": {
-    "2:1:NE@SEA": {
-      "ref": "401872656",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 1,
-      "kickoff": "2026-09-10T00:20:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "SEA",
-        "name": "Seattle Seahawks"
-      },
-      "away": {
-        "abbr": "NE",
-        "name": "New England Patriots"
-      },
-      "venue": "Lumen Field",
-      "network": "NBC",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:1:NE@SEA"
-    },
     "2:1:SF@LAR": {
       "ref": "401872657",
       "provider": "espn",
@@ -42,6 +22,26 @@
       "network": "Netflix",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:1:SF@LAR"
+    },
+    "2:1:NE@SEA": {
+      "ref": "401872656",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-10T00:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "away": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "venue": "Lumen Field",
+      "network": "NBC",
+      "statusName": "STATUS_FINAL",
+      "key": "2:1:NE@SEA"
     },
     "2:1:TB@CIN": {
       "ref": "401872925",
