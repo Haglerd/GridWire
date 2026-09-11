@@ -1,28 +1,8 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-11T01:20:38.453Z",
+  "savedAt": "2026-09-11T06:25:49.135Z",
   "games": {
-    "2:1:SF@LAR": {
-      "ref": "401872657",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 1,
-      "kickoff": "2026-09-11T00:35:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "LAR",
-        "name": "Los Angeles Rams"
-      },
-      "away": {
-        "abbr": "SF",
-        "name": "San Francisco 49ers"
-      },
-      "venue": "Melbourne Cricket Ground",
-      "network": "Netflix",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:1:SF@LAR"
-    },
     "2:1:NE@SEA": {
       "ref": "401872656",
       "provider": "espn",
@@ -42,6 +22,26 @@
       "network": "NBC",
       "statusName": "STATUS_FINAL",
       "key": "2:1:NE@SEA"
+    },
+    "2:1:SF@LAR": {
+      "ref": "401872657",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-11T00:35:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "away": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "venue": "Melbourne Cricket Ground",
+      "network": "Netflix",
+      "statusName": "STATUS_FINAL",
+      "key": "2:1:SF@LAR"
     },
     "2:1:TB@CIN": {
       "ref": "401872925",
