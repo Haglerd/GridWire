@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-10T23:19:44.513Z",
+  "savedAt": "2026-09-11T01:20:38.453Z",
   "games": {
     "2:1:SF@LAR": {
       "ref": "401872657",
@@ -20,7 +20,7 @@
       },
       "venue": "Melbourne Cricket Ground",
       "network": "Netflix",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:1:SF@LAR"
     },
     "2:1:NE@SEA": {
