@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-13T14:58:55.711Z",
+  "savedAt": "2026-09-13T18:04:33.919Z",
   "games": {
     "2:1:TB@CIN": {
       "ref": "401872925",
@@ -20,7 +20,7 @@
       },
       "venue": "Paycor Stadium",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:1:TB@CIN"
     },
     "2:1:NO@DET": {
@@ -40,7 +40,7 @@
       },
       "venue": "Ford Field",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:1:NO@DET"
     },
     "2:1:NYJ@TEN": {
@@ -60,7 +60,7 @@
       },
       "venue": "Nissan Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:1:NYJ@TEN"
     },
     "2:1:BAL@IND": {
@@ -80,7 +80,7 @@
       },
       "venue": "Lucas Oil Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:1:BAL@IND"
     },
     "2:1:ATL@PIT": {
@@ -100,7 +100,7 @@
       },
       "venue": "Acrisure Stadium",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:1:ATL@PIT"
     },
     "2:1:CHI@CAR": {
@@ -120,7 +120,7 @@
       },
       "venue": "Bank of America Stadium",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:1:CHI@CAR"
     },
     "2:1:CLE@JAX": {
@@ -140,7 +140,7 @@
       },
       "venue": "EverBank Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:1:CLE@JAX"
     },
     "2:1:BUF@HOU": {
@@ -160,7 +160,7 @@
       },
       "venue": "Reliant Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:1:BUF@HOU"
     },
     "2:1:MIA@LV": {
