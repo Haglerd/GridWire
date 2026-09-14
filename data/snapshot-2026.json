@@ -1,87 +1,27 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-13T23:19:58.896Z",
+  "savedAt": "2026-09-14T01:23:25.916Z",
   "games": {
-    "2:1:MIA@LV": {
-      "ref": "401872928",
+    "2:1:DAL@NYG": {
+      "ref": "401872930",
       "provider": "espn",
       "seasonType": 2,
       "week": 1,
-      "kickoff": "2026-09-13T20:25:00.000Z",
+      "kickoff": "2026-09-14T00:20:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "LV",
-        "name": "Las Vegas Raiders"
+        "abbr": "NYG",
+        "name": "New York Giants"
       },
       "away": {
-        "abbr": "MIA",
-        "name": "Miami Dolphins"
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
       },
-      "venue": "Allegiant Stadium",
-      "network": "FOX",
+      "venue": "MetLife Stadium",
+      "network": "NBC",
       "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:1:MIA@LV"
-    },
-    "2:1:GB@MIN": {
-      "ref": "401872927",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 1,
-      "kickoff": "2026-09-13T20:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "MIN",
-        "name": "Minnesota Vikings"
-      },
-      "away": {
-        "abbr": "GB",
-        "name": "Green Bay Packers"
-      },
-      "venue": "U.S. Bank Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:1:GB@MIN"
-    },
-    "2:1:WAS@PHI": {
-      "ref": "401872929",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 1,
-      "kickoff": "2026-09-13T20:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "PHI",
-        "name": "Philadelphia Eagles"
-      },
-      "away": {
-        "abbr": "WAS",
-        "name": "Washington Commanders"
-      },
-      "venue": "Lincoln Financial Field",
-      "network": "FOX",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:1:WAS@PHI"
-    },
-    "2:1:ARI@LAC": {
-      "ref": "401872926",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 1,
-      "kickoff": "2026-09-13T20:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "LAC",
-        "name": "Los Angeles Chargers"
-      },
-      "away": {
-        "abbr": "ARI",
-        "name": "Arizona Cardinals"
-      },
-      "venue": "SoFi Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:1:ARI@LAC"
+      "key": "2:1:DAL@NYG"
     },
     "2:1:TB@CIN": {
       "ref": "401872925",
@@ -243,25 +183,85 @@
       "statusName": "STATUS_FINAL",
       "key": "2:1:BUF@HOU"
     },
-    "2:1:DAL@NYG": {
-      "ref": "401872930",
+    "2:1:MIA@LV": {
+      "ref": "401872928",
       "provider": "espn",
       "seasonType": 2,
       "week": 1,
-      "kickoff": "2026-09-14T00:20:00.000Z",
+      "kickoff": "2026-09-13T20:25:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "NYG",
-        "name": "New York Giants"
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
       },
       "away": {
-        "abbr": "DAL",
-        "name": "Dallas Cowboys"
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
       },
-      "venue": "MetLife Stadium",
-      "network": "NBC",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:1:DAL@NYG"
+      "venue": "Allegiant Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_FINAL",
+      "key": "2:1:MIA@LV"
+    },
+    "2:1:GB@MIN": {
+      "ref": "401872927",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-13T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "away": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "venue": "U.S. Bank Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:1:GB@MIN"
+    },
+    "2:1:WAS@PHI": {
+      "ref": "401872929",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-13T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "away": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "venue": "Lincoln Financial Field",
+      "network": "FOX",
+      "statusName": "STATUS_FINAL",
+      "key": "2:1:WAS@PHI"
+    },
+    "2:1:ARI@LAC": {
+      "ref": "401872926",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-13T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "away": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "venue": "SoFi Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:1:ARI@LAC"
     },
     "2:1:NE@SEA": {
       "ref": "401872656",
