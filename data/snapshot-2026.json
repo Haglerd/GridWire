@@ -1,27 +1,67 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-14T01:23:25.916Z",
+  "savedAt": "2026-09-14T06:45:54.665Z",
   "games": {
-    "2:1:DAL@NYG": {
-      "ref": "401872930",
+    "2:1:DEN@KC": {
+      "ref": "401872931",
       "provider": "espn",
       "seasonType": 2,
       "week": 1,
-      "kickoff": "2026-09-14T00:20:00.000Z",
+      "kickoff": "2026-09-15T00:15:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "NYG",
-        "name": "New York Giants"
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
       },
       "away": {
-        "abbr": "DAL",
-        "name": "Dallas Cowboys"
+        "abbr": "DEN",
+        "name": "Denver Broncos"
       },
-      "venue": "MetLife Stadium",
+      "venue": "Arrowhead Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:1:DEN@KC"
+    },
+    "2:1:NE@SEA": {
+      "ref": "401872656",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-10T00:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "away": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "venue": "Lumen Field",
       "network": "NBC",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:1:DAL@NYG"
+      "statusName": "STATUS_FINAL",
+      "key": "2:1:NE@SEA"
+    },
+    "2:1:SF@LAR": {
+      "ref": "401872657",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-11T00:35:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "away": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "venue": "Melbourne Cricket Ground",
+      "network": "Netflix",
+      "statusName": "STATUS_FINAL",
+      "key": "2:1:SF@LAR"
     },
     "2:1:TB@CIN": {
       "ref": "401872925",
@@ -263,65 +303,25 @@
       "statusName": "STATUS_FINAL",
       "key": "2:1:ARI@LAC"
     },
-    "2:1:NE@SEA": {
-      "ref": "401872656",
+    "2:1:DAL@NYG": {
+      "ref": "401872930",
       "provider": "espn",
       "seasonType": 2,
       "week": 1,
-      "kickoff": "2026-09-10T00:20:00.000Z",
+      "kickoff": "2026-09-14T00:20:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "SEA",
-        "name": "Seattle Seahawks"
+        "abbr": "NYG",
+        "name": "New York Giants"
       },
       "away": {
-        "abbr": "NE",
-        "name": "New England Patriots"
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
       },
-      "venue": "Lumen Field",
+      "venue": "MetLife Stadium",
       "network": "NBC",
       "statusName": "STATUS_FINAL",
-      "key": "2:1:NE@SEA"
-    },
-    "2:1:SF@LAR": {
-      "ref": "401872657",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 1,
-      "kickoff": "2026-09-11T00:35:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "LAR",
-        "name": "Los Angeles Rams"
-      },
-      "away": {
-        "abbr": "SF",
-        "name": "San Francisco 49ers"
-      },
-      "venue": "Melbourne Cricket Ground",
-      "network": "Netflix",
-      "statusName": "STATUS_FINAL",
-      "key": "2:1:SF@LAR"
-    },
-    "2:1:DEN@KC": {
-      "ref": "401872931",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 1,
-      "kickoff": "2026-09-15T00:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "KC",
-        "name": "Kansas City Chiefs"
-      },
-      "away": {
-        "abbr": "DEN",
-        "name": "Denver Broncos"
-      },
-      "venue": "Arrowhead Stadium",
-      "network": "ESPN",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:1:DEN@KC"
+      "key": "2:1:DAL@NYG"
     },
     "2:2:DET@BUF": {
       "ref": "401872932",
