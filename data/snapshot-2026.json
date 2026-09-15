@@ -1,28 +1,8 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-15T01:11:13.248Z",
+  "savedAt": "2026-09-15T06:27:53.106Z",
   "games": {
-    "2:1:DEN@KC": {
-      "ref": "401872931",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 1,
-      "kickoff": "2026-09-15T00:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "KC",
-        "name": "Kansas City Chiefs"
-      },
-      "away": {
-        "abbr": "DEN",
-        "name": "Denver Broncos"
-      },
-      "venue": "Arrowhead Stadium",
-      "network": "ESPN",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:1:DEN@KC"
-    },
     "2:1:NE@SEA": {
       "ref": "401872656",
       "provider": "espn",
@@ -322,6 +302,26 @@
       "network": "NBC",
       "statusName": "STATUS_FINAL",
       "key": "2:1:DAL@NYG"
+    },
+    "2:1:DEN@KC": {
+      "ref": "401872931",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 1,
+      "kickoff": "2026-09-15T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "away": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "venue": "Arrowhead Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_FINAL",
+      "key": "2:1:DEN@KC"
     },
     "2:2:DET@BUF": {
       "ref": "401872932",
