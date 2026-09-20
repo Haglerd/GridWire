@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-20T17:59:46.529Z",
+  "savedAt": "2026-09-20T20:43:24.146Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -323,106 +323,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:1:DEN@KC"
     },
-    "2:2:CAR@ATL": {
-      "ref": "401872933",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 2,
-      "kickoff": "2026-09-20T17:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "ATL",
-        "name": "Atlanta Falcons"
-      },
-      "away": {
-        "abbr": "CAR",
-        "name": "Carolina Panthers"
-      },
-      "venue": "Mercedes-Benz Stadium",
-      "network": "FOX",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:2:CAR@ATL"
-    },
-    "2:2:MIN@CHI": {
-      "ref": "401872937",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 2,
-      "kickoff": "2026-09-20T17:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "CHI",
-        "name": "Chicago Bears"
-      },
-      "away": {
-        "abbr": "MIN",
-        "name": "Minnesota Vikings"
-      },
-      "venue": "Soldier Field",
-      "network": "FOX",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:2:MIN@CHI"
-    },
-    "2:2:PHI@TEN": {
-      "ref": "401872939",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 2,
-      "kickoff": "2026-09-20T17:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "TEN",
-        "name": "Tennessee Titans"
-      },
-      "away": {
-        "abbr": "PHI",
-        "name": "Philadelphia Eagles"
-      },
-      "venue": "Nissan Stadium",
-      "network": "FOX",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:2:PHI@TEN"
-    },
-    "2:2:PIT@NE": {
-      "ref": "401872946",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 2,
-      "kickoff": "2026-09-20T17:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "NE",
-        "name": "New England Patriots"
-      },
-      "away": {
-        "abbr": "PIT",
-        "name": "Pittsburgh Steelers"
-      },
-      "venue": "Gillette Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:2:PIT@NE"
-    },
-    "2:2:GB@NYJ": {
-      "ref": "401872936",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 2,
-      "kickoff": "2026-09-20T17:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "NYJ",
-        "name": "New York Jets"
-      },
-      "away": {
-        "abbr": "GB",
-        "name": "Green Bay Packers"
-      },
-      "venue": "MetLife Stadium",
-      "network": "FOX",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:2:GB@NYJ"
-    },
     "2:2:CLE@TB": {
       "ref": "401872935",
       "provider": "espn",
@@ -440,48 +340,8 @@
       },
       "venue": "Raymond James Stadium",
       "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
+      "statusName": "STATUS_DELAYED",
       "key": "2:2:CLE@TB"
-    },
-    "2:2:NO@BAL": {
-      "ref": "401872938",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 2,
-      "kickoff": "2026-09-20T17:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "BAL",
-        "name": "Baltimore Ravens"
-      },
-      "away": {
-        "abbr": "NO",
-        "name": "New Orleans Saints"
-      },
-      "venue": "M&T Bank Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:2:NO@BAL"
-    },
-    "2:2:CIN@HOU": {
-      "ref": "401872934",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 2,
-      "kickoff": "2026-09-20T17:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "HOU",
-        "name": "Houston Texans"
-      },
-      "away": {
-        "abbr": "CIN",
-        "name": "Cincinnati Bengals"
-      },
-      "venue": "Reliant Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:2:CIN@HOU"
     },
     "2:2:JAX@DEN": {
       "ref": "401872940",
@@ -500,7 +360,7 @@
       },
       "venue": "Empower Field at Mile High",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:2:JAX@DEN"
     },
     "2:2:LV@LAC": {
@@ -520,7 +380,7 @@
       },
       "venue": "SoFi Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:2:LV@LAC"
     },
     "2:2:WAS@DAL": {
@@ -540,7 +400,7 @@
       },
       "venue": "AT&T Stadium",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:2:WAS@DAL"
     },
     "2:2:SEA@ARI": {
@@ -560,7 +420,7 @@
       },
       "venue": "State Farm Stadium",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:2:SEA@ARI"
     },
     "2:2:MIA@SF": {
@@ -580,8 +440,148 @@
       },
       "venue": "Levi's Stadium",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:2:MIA@SF"
+    },
+    "2:2:CAR@ATL": {
+      "ref": "401872933",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "away": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "venue": "Mercedes-Benz Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_FINAL",
+      "key": "2:2:CAR@ATL"
+    },
+    "2:2:MIN@CHI": {
+      "ref": "401872937",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "away": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "venue": "Soldier Field",
+      "network": "FOX",
+      "statusName": "STATUS_FINAL",
+      "key": "2:2:MIN@CHI"
+    },
+    "2:2:PHI@TEN": {
+      "ref": "401872939",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "away": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "venue": "Nissan Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_FINAL",
+      "key": "2:2:PHI@TEN"
+    },
+    "2:2:PIT@NE": {
+      "ref": "401872946",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "away": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "venue": "Gillette Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:2:PIT@NE"
+    },
+    "2:2:GB@NYJ": {
+      "ref": "401872936",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "away": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "venue": "MetLife Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_FINAL",
+      "key": "2:2:GB@NYJ"
+    },
+    "2:2:NO@BAL": {
+      "ref": "401872938",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "away": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "venue": "M&T Bank Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:2:NO@BAL"
+    },
+    "2:2:CIN@HOU": {
+      "ref": "401872934",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "away": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "venue": "Reliant Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:2:CIN@HOU"
     },
     "2:2:IND@KC": {
       "ref": "401872945",
