@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-20T00:42:18.989Z",
+  "savedAt": "2026-09-20T05:46:00.658Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -323,26 +323,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:1:DEN@KC"
     },
-    "2:2:DET@BUF": {
-      "ref": "401872932",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 2,
-      "kickoff": "2026-09-18T00:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "BUF",
-        "name": "Buffalo Bills"
-      },
-      "away": {
-        "abbr": "DET",
-        "name": "Detroit Lions"
-      },
-      "venue": "Highmark Stadium",
-      "network": "Prime Video",
-      "statusName": "STATUS_FINAL",
-      "key": "2:2:DET@BUF"
-    },
     "2:2:CAR@ATL": {
       "ref": "401872933",
       "provider": "espn",
@@ -622,6 +602,26 @@
       "network": "NBC",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:2:IND@KC"
+    },
+    "2:2:DET@BUF": {
+      "ref": "401872932",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-18T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "away": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "venue": "Highmark Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_FINAL",
+      "key": "2:2:DET@BUF"
     },
     "2:2:NYG@LAR": {
       "ref": "401872947",
