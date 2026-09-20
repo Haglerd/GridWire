@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-20T14:31:43.215Z",
+  "savedAt": "2026-09-20T17:59:46.529Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -340,7 +340,7 @@
       },
       "venue": "Mercedes-Benz Stadium",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:2:CAR@ATL"
     },
     "2:2:MIN@CHI": {
@@ -360,7 +360,7 @@
       },
       "venue": "Soldier Field",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:2:MIN@CHI"
     },
     "2:2:PHI@TEN": {
@@ -380,7 +380,7 @@
       },
       "venue": "Nissan Stadium",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:2:PHI@TEN"
     },
     "2:2:PIT@NE": {
@@ -400,7 +400,7 @@
       },
       "venue": "Gillette Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:2:PIT@NE"
     },
     "2:2:GB@NYJ": {
@@ -420,7 +420,7 @@
       },
       "venue": "MetLife Stadium",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:2:GB@NYJ"
     },
     "2:2:CLE@TB": {
@@ -440,7 +440,7 @@
       },
       "venue": "Raymond James Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:2:CLE@TB"
     },
     "2:2:NO@BAL": {
@@ -460,7 +460,7 @@
       },
       "venue": "M&T Bank Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:2:NO@BAL"
     },
     "2:2:CIN@HOU": {
@@ -480,7 +480,7 @@
       },
       "venue": "Reliant Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:2:CIN@HOU"
     },
     "2:2:JAX@DEN": {
