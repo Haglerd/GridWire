@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-20T20:43:24.146Z",
+  "savedAt": "2026-09-20T23:01:19.216Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -323,26 +323,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:1:DEN@KC"
     },
-    "2:2:CLE@TB": {
-      "ref": "401872935",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 2,
-      "kickoff": "2026-09-20T17:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "TB",
-        "name": "Tampa Bay Buccaneers"
-      },
-      "away": {
-        "abbr": "CLE",
-        "name": "Cleveland Browns"
-      },
-      "venue": "Raymond James Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_DELAYED",
-      "key": "2:2:CLE@TB"
-    },
     "2:2:JAX@DEN": {
       "ref": "401872940",
       "provider": "espn",
@@ -360,7 +340,7 @@
       },
       "venue": "Empower Field at Mile High",
       "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
+      "statusName": "STATUS_FINAL",
       "key": "2:2:JAX@DEN"
     },
     "2:2:LV@LAC": {
@@ -542,6 +522,26 @@
       "network": "FOX",
       "statusName": "STATUS_FINAL",
       "key": "2:2:GB@NYJ"
+    },
+    "2:2:CLE@TB": {
+      "ref": "401872935",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "away": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "venue": "Raymond James Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:2:CLE@TB"
     },
     "2:2:NO@BAL": {
       "ref": "401872938",
