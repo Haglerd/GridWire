@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-20T23:01:19.216Z",
+  "savedAt": "2026-09-21T01:22:05.803Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -323,105 +323,25 @@
       "statusName": "STATUS_FINAL",
       "key": "2:1:DEN@KC"
     },
-    "2:2:JAX@DEN": {
-      "ref": "401872940",
+    "2:2:IND@KC": {
+      "ref": "401872945",
       "provider": "espn",
       "seasonType": 2,
       "week": 2,
-      "kickoff": "2026-09-20T20:05:00.000Z",
+      "kickoff": "2026-09-21T00:20:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "DEN",
-        "name": "Denver Broncos"
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
       },
       "away": {
-        "abbr": "JAX",
-        "name": "Jacksonville Jaguars"
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
       },
-      "venue": "Empower Field at Mile High",
-      "network": "CBS",
-      "statusName": "STATUS_FINAL",
-      "key": "2:2:JAX@DEN"
-    },
-    "2:2:LV@LAC": {
-      "ref": "401872941",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 2,
-      "kickoff": "2026-09-20T20:05:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "LAC",
-        "name": "Los Angeles Chargers"
-      },
-      "away": {
-        "abbr": "LV",
-        "name": "Las Vegas Raiders"
-      },
-      "venue": "SoFi Stadium",
-      "network": "CBS",
+      "venue": "Arrowhead Stadium",
+      "network": "NBC",
       "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:2:LV@LAC"
-    },
-    "2:2:WAS@DAL": {
-      "ref": "401872944",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 2,
-      "kickoff": "2026-09-20T20:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "DAL",
-        "name": "Dallas Cowboys"
-      },
-      "away": {
-        "abbr": "WAS",
-        "name": "Washington Commanders"
-      },
-      "venue": "AT&T Stadium",
-      "network": "FOX",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:2:WAS@DAL"
-    },
-    "2:2:SEA@ARI": {
-      "ref": "401872943",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 2,
-      "kickoff": "2026-09-20T20:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "ARI",
-        "name": "Arizona Cardinals"
-      },
-      "away": {
-        "abbr": "SEA",
-        "name": "Seattle Seahawks"
-      },
-      "venue": "State Farm Stadium",
-      "network": "FOX",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:2:SEA@ARI"
-    },
-    "2:2:MIA@SF": {
-      "ref": "401872942",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 2,
-      "kickoff": "2026-09-20T20:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "SF",
-        "name": "San Francisco 49ers"
-      },
-      "away": {
-        "abbr": "MIA",
-        "name": "Miami Dolphins"
-      },
-      "venue": "Levi's Stadium",
-      "network": "FOX",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:2:MIA@SF"
+      "key": "2:2:IND@KC"
     },
     "2:2:CAR@ATL": {
       "ref": "401872933",
@@ -583,25 +503,105 @@
       "statusName": "STATUS_FINAL",
       "key": "2:2:CIN@HOU"
     },
-    "2:2:IND@KC": {
-      "ref": "401872945",
+    "2:2:JAX@DEN": {
+      "ref": "401872940",
       "provider": "espn",
       "seasonType": 2,
       "week": 2,
-      "kickoff": "2026-09-21T00:20:00.000Z",
+      "kickoff": "2026-09-20T20:05:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "KC",
-        "name": "Kansas City Chiefs"
+        "abbr": "DEN",
+        "name": "Denver Broncos"
       },
       "away": {
-        "abbr": "IND",
-        "name": "Indianapolis Colts"
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
       },
-      "venue": "Arrowhead Stadium",
-      "network": "NBC",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:2:IND@KC"
+      "venue": "Empower Field at Mile High",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:2:JAX@DEN"
+    },
+    "2:2:LV@LAC": {
+      "ref": "401872941",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T20:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "away": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "venue": "SoFi Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:2:LV@LAC"
+    },
+    "2:2:WAS@DAL": {
+      "ref": "401872944",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "away": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "venue": "AT&T Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_FINAL",
+      "key": "2:2:WAS@DAL"
+    },
+    "2:2:SEA@ARI": {
+      "ref": "401872943",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "away": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "venue": "State Farm Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_FINAL",
+      "key": "2:2:SEA@ARI"
+    },
+    "2:2:MIA@SF": {
+      "ref": "401872942",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-20T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "away": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "venue": "Levi's Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_FINAL",
+      "key": "2:2:MIA@SF"
     },
     "2:2:DET@BUF": {
       "ref": "401872932",
