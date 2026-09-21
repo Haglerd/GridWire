@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-21T01:22:05.803Z",
+  "savedAt": "2026-09-21T06:48:04.898Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -323,25 +323,45 @@
       "statusName": "STATUS_FINAL",
       "key": "2:1:DEN@KC"
     },
-    "2:2:IND@KC": {
-      "ref": "401872945",
+    "2:2:NYG@LAR": {
+      "ref": "401872947",
       "provider": "espn",
       "seasonType": 2,
       "week": 2,
-      "kickoff": "2026-09-21T00:20:00.000Z",
+      "kickoff": "2026-09-22T00:15:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "KC",
-        "name": "Kansas City Chiefs"
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
       },
       "away": {
-        "abbr": "IND",
-        "name": "Indianapolis Colts"
+        "abbr": "NYG",
+        "name": "New York Giants"
       },
-      "venue": "Arrowhead Stadium",
-      "network": "NBC",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:2:IND@KC"
+      "venue": "SoFi Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:2:NYG@LAR"
+    },
+    "2:2:DET@BUF": {
+      "ref": "401872932",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 2,
+      "kickoff": "2026-09-18T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "away": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "venue": "Highmark Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_FINAL",
+      "key": "2:2:DET@BUF"
     },
     "2:2:CAR@ATL": {
       "ref": "401872933",
@@ -603,45 +623,25 @@
       "statusName": "STATUS_FINAL",
       "key": "2:2:MIA@SF"
     },
-    "2:2:DET@BUF": {
-      "ref": "401872932",
+    "2:2:IND@KC": {
+      "ref": "401872945",
       "provider": "espn",
       "seasonType": 2,
       "week": 2,
-      "kickoff": "2026-09-18T00:15:00.000Z",
+      "kickoff": "2026-09-21T00:20:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "BUF",
-        "name": "Buffalo Bills"
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
       },
       "away": {
-        "abbr": "DET",
-        "name": "Detroit Lions"
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
       },
-      "venue": "Highmark Stadium",
-      "network": "Prime Video",
+      "venue": "Arrowhead Stadium",
+      "network": "NBC",
       "statusName": "STATUS_FINAL",
-      "key": "2:2:DET@BUF"
-    },
-    "2:2:NYG@LAR": {
-      "ref": "401872947",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 2,
-      "kickoff": "2026-09-22T00:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "LAR",
-        "name": "Los Angeles Rams"
-      },
-      "away": {
-        "abbr": "NYG",
-        "name": "New York Giants"
-      },
-      "venue": "SoFi Stadium",
-      "network": "ESPN",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:2:NYG@LAR"
+      "key": "2:2:IND@KC"
     },
     "2:3:ATL@GB": {
       "ref": "401872948",
