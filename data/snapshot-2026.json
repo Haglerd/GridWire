@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-21T22:43:24.826Z",
+  "savedAt": "2026-09-22T01:27:15.292Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -340,7 +340,7 @@
       },
       "venue": "SoFi Stadium",
       "network": "ESPN",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:2:NYG@LAR"
     },
     "2:2:DET@BUF": {
