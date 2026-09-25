@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-24T22:00:02.854Z",
+  "savedAt": "2026-09-25T00:28:09.715Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -660,7 +660,7 @@
       },
       "venue": "Lambeau Field",
       "network": "Prime Video",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:3:ATL@GB"
     },
     "2:3:LAC@BUF": {
