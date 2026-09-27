@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-27T12:18:37.698Z",
+  "savedAt": "2026-09-27T17:09:22.475Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -660,7 +660,7 @@
       },
       "venue": "Highmark Stadium",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:3:LAC@BUF"
     },
     "2:3:CAR@CLE": {
@@ -680,7 +680,7 @@
       },
       "venue": "Huntington Bank Field",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:3:CAR@CLE"
     },
     "2:3:NYJ@DET": {
@@ -700,7 +700,7 @@
       },
       "venue": "Ford Field",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:3:NYJ@DET"
     },
     "2:3:HOU@IND": {
@@ -720,7 +720,7 @@
       },
       "venue": "Lucas Oil Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:3:HOU@IND"
     },
     "2:3:KC@MIA": {
@@ -740,7 +740,7 @@
       },
       "venue": "Hard Rock Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:3:KC@MIA"
     },
     "2:3:TEN@NYG": {
@@ -760,7 +760,7 @@
       },
       "venue": "MetLife Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:3:TEN@NYG"
     },
     "2:3:CIN@PIT": {
@@ -780,7 +780,7 @@
       },
       "venue": "Acrisure Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:3:CIN@PIT"
     },
     "2:3:SEA@WAS": {
@@ -800,7 +800,7 @@
       },
       "venue": "Northwest Stadium",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:3:SEA@WAS"
     },
     "2:3:NE@JAX": {
@@ -820,7 +820,7 @@
       },
       "venue": "EverBank Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:3:NE@JAX"
     },
     "2:3:ARI@SF": {
