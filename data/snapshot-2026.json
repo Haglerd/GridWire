@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-27T00:46:40.528Z",
+  "savedAt": "2026-09-27T06:17:50.739Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -643,26 +643,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:2:NYG@LAR"
     },
-    "2:3:ATL@GB": {
-      "ref": "401872948",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 3,
-      "kickoff": "2026-09-25T00:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "GB",
-        "name": "Green Bay Packers"
-      },
-      "away": {
-        "abbr": "ATL",
-        "name": "Atlanta Falcons"
-      },
-      "venue": "Lambeau Field",
-      "network": "Prime Video",
-      "statusName": "STATUS_FINAL",
-      "key": "2:3:ATL@GB"
-    },
     "2:3:LAC@BUF": {
       "ref": "401872953",
       "provider": "espn",
@@ -942,6 +922,26 @@
       "network": "NBC",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:3:LAR@DEN"
+    },
+    "2:3:ATL@GB": {
+      "ref": "401872948",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-25T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "away": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "venue": "Lambeau Field",
+      "network": "Prime Video",
+      "statusName": "STATUS_FINAL",
+      "key": "2:3:ATL@GB"
     },
     "2:3:PHI@CHI": {
       "ref": "401872963",
