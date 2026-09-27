@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-27T17:09:22.475Z",
+  "savedAt": "2026-09-27T20:18:09.254Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -660,7 +660,7 @@
       },
       "venue": "Highmark Stadium",
       "network": "FOX",
-      "statusName": "STATUS_IN_PROGRESS",
+      "statusName": "STATUS_FINAL",
       "key": "2:3:LAC@BUF"
     },
     "2:3:CAR@CLE": {
@@ -683,26 +683,6 @@
       "statusName": "STATUS_IN_PROGRESS",
       "key": "2:3:CAR@CLE"
     },
-    "2:3:NYJ@DET": {
-      "ref": "401872954",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 3,
-      "kickoff": "2026-09-27T17:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "DET",
-        "name": "Detroit Lions"
-      },
-      "away": {
-        "abbr": "NYJ",
-        "name": "New York Jets"
-      },
-      "venue": "Ford Field",
-      "network": "FOX",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:3:NYJ@DET"
-    },
     "2:3:HOU@IND": {
       "ref": "401872951",
       "provider": "espn",
@@ -720,48 +700,8 @@
       },
       "venue": "Lucas Oil Stadium",
       "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
+      "statusName": "STATUS_FINAL",
       "key": "2:3:HOU@IND"
-    },
-    "2:3:KC@MIA": {
-      "ref": "401872952",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 3,
-      "kickoff": "2026-09-27T17:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "MIA",
-        "name": "Miami Dolphins"
-      },
-      "away": {
-        "abbr": "KC",
-        "name": "Kansas City Chiefs"
-      },
-      "venue": "Hard Rock Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:3:KC@MIA"
-    },
-    "2:3:TEN@NYG": {
-      "ref": "401872956",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 3,
-      "kickoff": "2026-09-27T17:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "NYG",
-        "name": "New York Giants"
-      },
-      "away": {
-        "abbr": "TEN",
-        "name": "Tennessee Titans"
-      },
-      "venue": "MetLife Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:3:TEN@NYG"
     },
     "2:3:CIN@PIT": {
       "ref": "401872950",
@@ -780,7 +720,7 @@
       },
       "venue": "Acrisure Stadium",
       "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
+      "statusName": "STATUS_FINAL",
       "key": "2:3:CIN@PIT"
     },
     "2:3:SEA@WAS": {
@@ -803,26 +743,6 @@
       "statusName": "STATUS_IN_PROGRESS",
       "key": "2:3:SEA@WAS"
     },
-    "2:3:NE@JAX": {
-      "ref": "401872957",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 3,
-      "kickoff": "2026-09-27T17:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "JAX",
-        "name": "Jacksonville Jaguars"
-      },
-      "away": {
-        "abbr": "NE",
-        "name": "New England Patriots"
-      },
-      "venue": "EverBank Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:3:NE@JAX"
-    },
     "2:3:ARI@SF": {
       "ref": "401872958",
       "provider": "espn",
@@ -840,7 +760,7 @@
       },
       "venue": "Levi's Stadium",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:3:ARI@SF"
     },
     "2:3:MIN@TB": {
@@ -860,8 +780,88 @@
       },
       "venue": "Raymond James Stadium",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:3:MIN@TB"
+    },
+    "2:3:NYJ@DET": {
+      "ref": "401872954",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "away": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "venue": "Ford Field",
+      "network": "FOX",
+      "statusName": "STATUS_FINAL",
+      "key": "2:3:NYJ@DET"
+    },
+    "2:3:KC@MIA": {
+      "ref": "401872952",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "away": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "venue": "Hard Rock Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:3:KC@MIA"
+    },
+    "2:3:TEN@NYG": {
+      "ref": "401872956",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "away": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "venue": "MetLife Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:3:TEN@NYG"
+    },
+    "2:3:NE@JAX": {
+      "ref": "401872957",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "away": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "venue": "EverBank Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:3:NE@JAX"
     },
     "2:3:BAL@DAL": {
       "ref": "401872960",
