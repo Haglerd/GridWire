@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-27T23:16:01.109Z",
+  "savedAt": "2026-09-28T01:52:04.546Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -643,85 +643,25 @@
       "statusName": "STATUS_FINAL",
       "key": "2:2:NYG@LAR"
     },
-    "2:3:ARI@SF": {
-      "ref": "401872958",
+    "2:3:LAR@DEN": {
+      "ref": "401872962",
       "provider": "espn",
       "seasonType": 2,
       "week": 3,
-      "kickoff": "2026-09-27T20:05:00.000Z",
+      "kickoff": "2026-09-28T00:20:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "SF",
-        "name": "San Francisco 49ers"
+        "abbr": "DEN",
+        "name": "Denver Broncos"
       },
       "away": {
-        "abbr": "ARI",
-        "name": "Arizona Cardinals"
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
       },
-      "venue": "Levi's Stadium",
-      "network": "FOX",
+      "venue": "Empower Field at Mile High",
+      "network": "NBC",
       "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:3:ARI@SF"
-    },
-    "2:3:MIN@TB": {
-      "ref": "401872959",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 3,
-      "kickoff": "2026-09-27T20:05:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "TB",
-        "name": "Tampa Bay Buccaneers"
-      },
-      "away": {
-        "abbr": "MIN",
-        "name": "Minnesota Vikings"
-      },
-      "venue": "Raymond James Stadium",
-      "network": "FOX",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:3:MIN@TB"
-    },
-    "2:3:BAL@DAL": {
-      "ref": "401872960",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 3,
-      "kickoff": "2026-09-27T20:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "DAL",
-        "name": "Dallas Cowboys"
-      },
-      "away": {
-        "abbr": "BAL",
-        "name": "Baltimore Ravens"
-      },
-      "venue": "Maracanã Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:3:BAL@DAL"
-    },
-    "2:3:LV@NO": {
-      "ref": "401872961",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 3,
-      "kickoff": "2026-09-27T20:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "NO",
-        "name": "New Orleans Saints"
-      },
-      "away": {
-        "abbr": "LV",
-        "name": "Las Vegas Raiders"
-      },
-      "venue": "Caesars Superdome",
-      "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:3:LV@NO"
+      "key": "2:3:LAR@DEN"
     },
     "2:3:LAC@BUF": {
       "ref": "401872953",
@@ -903,25 +843,85 @@
       "statusName": "STATUS_FINAL",
       "key": "2:3:NE@JAX"
     },
-    "2:3:LAR@DEN": {
-      "ref": "401872962",
+    "2:3:ARI@SF": {
+      "ref": "401872958",
       "provider": "espn",
       "seasonType": 2,
       "week": 3,
-      "kickoff": "2026-09-28T00:20:00.000Z",
+      "kickoff": "2026-09-27T20:05:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "DEN",
-        "name": "Denver Broncos"
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
       },
       "away": {
-        "abbr": "LAR",
-        "name": "Los Angeles Rams"
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
       },
-      "venue": "Empower Field at Mile High",
-      "network": "NBC",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:3:LAR@DEN"
+      "venue": "Levi's Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_FINAL",
+      "key": "2:3:ARI@SF"
+    },
+    "2:3:MIN@TB": {
+      "ref": "401872959",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T20:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "away": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "venue": "Raymond James Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_FINAL",
+      "key": "2:3:MIN@TB"
+    },
+    "2:3:BAL@DAL": {
+      "ref": "401872960",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "away": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "venue": "Maracanã Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:3:BAL@DAL"
+    },
+    "2:3:LV@NO": {
+      "ref": "401872961",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-27T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "away": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "venue": "Caesars Superdome",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:3:LV@NO"
     },
     "2:3:ATL@GB": {
       "ref": "401872948",
