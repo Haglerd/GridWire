@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-29T15:23:56.271Z",
+  "savedAt": "2026-09-29T20:08:05.113Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1323,6 +1323,26 @@
       "statusName": "STATUS_SCHEDULED",
       "key": "2:5:PHI@JAX"
     },
+    "2:5:CHI@GB": {
+      "ref": "401872990",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-11T17:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "away": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "venue": "Lambeau Field",
+      "network": "FOX",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:5:CHI@GB"
+    },
     "2:5:HOU@TEN": {
       "ref": "401872984",
       "provider": "espn",
@@ -1482,26 +1502,6 @@
       "network": "CBS",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:5:DEN@LAC"
-    },
-    "2:5:CHI@GB": {
-      "ref": "401872990",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 5,
-      "kickoff": "2026-10-11T20:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "GB",
-        "name": "Green Bay Packers"
-      },
-      "away": {
-        "abbr": "CHI",
-        "name": "Chicago Bears"
-      },
-      "venue": "Lambeau Field",
-      "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:5:CHI@GB"
     },
     "2:5:DET@ARI": {
       "ref": "401872991",
