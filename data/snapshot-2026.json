@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-09-29T02:10:49.811Z",
+  "savedAt": "2026-09-29T08:52:50.637Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -643,26 +643,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:2:NYG@LAR"
     },
-    "2:3:PHI@CHI": {
-      "ref": "401872963",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 3,
-      "kickoff": "2026-09-29T00:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "CHI",
-        "name": "Chicago Bears"
-      },
-      "away": {
-        "abbr": "PHI",
-        "name": "Philadelphia Eagles"
-      },
-      "venue": "Soldier Field",
-      "network": "ESPN",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:3:PHI@CHI"
-    },
     "2:3:ATL@GB": {
       "ref": "401872948",
       "provider": "espn",
@@ -962,6 +942,26 @@
       "network": "NBC",
       "statusName": "STATUS_FINAL",
       "key": "2:3:LAR@DEN"
+    },
+    "2:3:PHI@CHI": {
+      "ref": "401872963",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 3,
+      "kickoff": "2026-09-29T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "away": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "venue": "Soldier Field",
+      "network": "ESPN",
+      "statusName": "STATUS_FINAL",
+      "key": "2:3:PHI@CHI"
     },
     "2:4:PIT@CLE": {
       "ref": "401872964",
