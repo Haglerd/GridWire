@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-01T14:14:22.531Z",
+  "savedAt": "2026-10-01T19:41:42.731Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -5502,26 +5502,6 @@
       "network": "",
       "statusName": "STATUS_SCHEDULED",
       "key": "3:3:TBD@TBD"
-    },
-    "3:5:TBD@TBD": {
-      "ref": "401873270",
-      "provider": "espn",
-      "seasonType": 3,
-      "week": 5,
-      "kickoff": "2027-02-14T23:30:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "TBD",
-        "name": "TBD"
-      },
-      "away": {
-        "abbr": "TBD",
-        "name": "TBD"
-      },
-      "venue": "SoFi Stadium",
-      "network": "ESPN",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "3:5:TBD@TBD"
     }
   }
 }
