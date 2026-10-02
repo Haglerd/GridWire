@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-01T23:42:22.787Z",
+  "savedAt": "2026-10-02T04:19:38.135Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -980,7 +980,7 @@
       },
       "venue": "Huntington Bank Field",
       "network": "Prime Video",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_FINAL",
       "key": "2:4:PIT@CLE"
     },
     "2:4:IND@WAS": {
