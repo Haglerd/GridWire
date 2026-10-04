@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-04T01:49:34.161Z",
+  "savedAt": "2026-10-04T07:49:03.441Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -963,26 +963,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:3:PHI@CHI"
     },
-    "2:4:PIT@CLE": {
-      "ref": "401872964",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 4,
-      "kickoff": "2026-10-02T00:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "CLE",
-        "name": "Cleveland Browns"
-      },
-      "away": {
-        "abbr": "PIT",
-        "name": "Pittsburgh Steelers"
-      },
-      "venue": "Huntington Bank Field",
-      "network": "Prime Video",
-      "statusName": "STATUS_FINAL",
-      "key": "2:4:PIT@CLE"
-    },
     "2:4:IND@WAS": {
       "ref": "401872965",
       "provider": "espn",
@@ -1262,6 +1242,26 @@
       "network": "NBC",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:4:DET@CAR"
+    },
+    "2:4:PIT@CLE": {
+      "ref": "401872964",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-02T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
+      },
+      "away": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "venue": "Huntington Bank Field",
+      "network": "Prime Video",
+      "statusName": "STATUS_FINAL",
+      "key": "2:4:PIT@CLE"
     },
     "2:4:ATL@NO": {
       "ref": "401872979",
