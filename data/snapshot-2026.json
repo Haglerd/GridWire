@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-04T07:49:03.441Z",
+  "savedAt": "2026-10-04T13:43:36.332Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -980,7 +980,7 @@
       },
       "venue": "Tottenham Hotspur Stadium",
       "network": "NFL Net",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:4:IND@WAS"
     },
     "2:4:NE@BUF": {
