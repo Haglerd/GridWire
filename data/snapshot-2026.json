@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-04T13:43:36.332Z",
+  "savedAt": "2026-10-04T17:59:09.833Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -963,26 +963,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:3:PHI@CHI"
     },
-    "2:4:IND@WAS": {
-      "ref": "401872965",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 4,
-      "kickoff": "2026-10-04T13:30:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "WAS",
-        "name": "Washington Commanders"
-      },
-      "away": {
-        "abbr": "IND",
-        "name": "Indianapolis Colts"
-      },
-      "venue": "Tottenham Hotspur Stadium",
-      "network": "NFL Net",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:4:IND@WAS"
-    },
     "2:4:NE@BUF": {
       "ref": "401872971",
       "provider": "espn",
@@ -1000,7 +980,7 @@
       },
       "venue": "Highmark Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:4:NE@BUF"
     },
     "2:4:NYJ@CHI": {
@@ -1020,7 +1000,7 @@
       },
       "venue": "Soldier Field",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:4:NYJ@CHI"
     },
     "2:4:JAX@CIN": {
@@ -1040,7 +1020,7 @@
       },
       "venue": "Paycor Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:4:JAX@CIN"
     },
     "2:4:ARI@NYG": {
@@ -1060,7 +1040,7 @@
       },
       "venue": "MetLife Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:4:ARI@NYG"
     },
     "2:4:LAR@PHI": {
@@ -1080,7 +1060,7 @@
       },
       "venue": "Lincoln Financial Field",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:4:LAR@PHI"
     },
     "2:4:GB@TB": {
@@ -1100,7 +1080,7 @@
       },
       "venue": "Raymond James Stadium",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:4:GB@TB"
     },
     "2:4:TEN@BAL": {
@@ -1120,7 +1100,7 @@
       },
       "venue": "M&T Bank Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:4:TEN@BAL"
     },
     "2:4:DAL@HOU": {
@@ -1140,8 +1120,28 @@
       },
       "venue": "Reliant Stadium",
       "network": "FOX",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:4:DAL@HOU"
+    },
+    "2:4:IND@WAS": {
+      "ref": "401872965",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-04T13:30:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "away": {
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
+      },
+      "venue": "Tottenham Hotspur Stadium",
+      "network": "NFL Net",
+      "statusName": "STATUS_FINAL",
+      "key": "2:4:IND@WAS"
     },
     "2:4:MIA@MIN": {
       "ref": "401872974",
