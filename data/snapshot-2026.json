@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-04T21:14:25.020Z",
+  "savedAt": "2026-10-05T00:03:55.130Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -963,86 +963,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:3:PHI@CHI"
     },
-    "2:4:MIA@MIN": {
-      "ref": "401872974",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 4,
-      "kickoff": "2026-10-04T20:05:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "MIN",
-        "name": "Minnesota Vikings"
-      },
-      "away": {
-        "abbr": "MIA",
-        "name": "Miami Dolphins"
-      },
-      "venue": "U.S. Bank Stadium",
-      "network": "FOX",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:4:MIA@MIN"
-    },
-    "2:4:KC@LV": {
-      "ref": "401872976",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 4,
-      "kickoff": "2026-10-04T20:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "LV",
-        "name": "Las Vegas Raiders"
-      },
-      "away": {
-        "abbr": "KC",
-        "name": "Kansas City Chiefs"
-      },
-      "venue": "Allegiant Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:4:KC@LV"
-    },
-    "2:4:DEN@SF": {
-      "ref": "401872975",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 4,
-      "kickoff": "2026-10-04T20:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "SF",
-        "name": "San Francisco 49ers"
-      },
-      "away": {
-        "abbr": "DEN",
-        "name": "Denver Broncos"
-      },
-      "venue": "Levi's Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:4:DEN@SF"
-    },
-    "2:4:LAC@SEA": {
-      "ref": "401872977",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 4,
-      "kickoff": "2026-10-04T20:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "SEA",
-        "name": "Seattle Seahawks"
-      },
-      "away": {
-        "abbr": "LAC",
-        "name": "Los Angeles Chargers"
-      },
-      "venue": "Lumen Field",
-      "network": "CBS",
-      "statusName": "STATUS_END_PERIOD",
-      "key": "2:4:LAC@SEA"
-    },
     "2:4:IND@WAS": {
       "ref": "401872965",
       "provider": "espn",
@@ -1222,6 +1142,86 @@
       "network": "FOX",
       "statusName": "STATUS_FINAL",
       "key": "2:4:DAL@HOU"
+    },
+    "2:4:MIA@MIN": {
+      "ref": "401872974",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-04T20:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "away": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "venue": "U.S. Bank Stadium",
+      "network": "FOX",
+      "statusName": "STATUS_FINAL",
+      "key": "2:4:MIA@MIN"
+    },
+    "2:4:KC@LV": {
+      "ref": "401872976",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-04T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "away": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "venue": "Allegiant Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:4:KC@LV"
+    },
+    "2:4:DEN@SF": {
+      "ref": "401872975",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-04T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "away": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "venue": "Levi's Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:4:DEN@SF"
+    },
+    "2:4:LAC@SEA": {
+      "ref": "401872977",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-04T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "away": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "venue": "Lumen Field",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:4:LAC@SEA"
     },
     "2:4:DET@CAR": {
       "ref": "401872978",
