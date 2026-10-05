@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-05T15:07:12.907Z",
+  "savedAt": "2026-10-05T22:07:06.975Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -59,7 +59,7 @@
         "name": "Tampa Bay Buccaneers"
       },
       "venue": "Paycor Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:1:TB@CIN"
     },
@@ -79,7 +79,7 @@
         "name": "New Orleans Saints"
       },
       "venue": "Ford Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:1:NO@DET"
     },
@@ -139,7 +139,7 @@
         "name": "Atlanta Falcons"
       },
       "venue": "Acrisure Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:1:ATL@PIT"
     },
@@ -159,7 +159,7 @@
         "name": "Chicago Bears"
       },
       "venue": "Bank of America Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:1:CHI@CAR"
     },
@@ -219,7 +219,7 @@
         "name": "Miami Dolphins"
       },
       "venue": "Allegiant Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:1:MIA@LV"
     },
@@ -259,7 +259,7 @@
         "name": "Washington Commanders"
       },
       "venue": "Lincoln Financial Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:1:WAS@PHI"
     },
@@ -359,7 +359,7 @@
         "name": "Carolina Panthers"
       },
       "venue": "Mercedes-Benz Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:2:CAR@ATL"
     },
@@ -379,7 +379,7 @@
         "name": "Minnesota Vikings"
       },
       "venue": "Soldier Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:2:MIN@CHI"
     },
@@ -399,7 +399,7 @@
         "name": "Philadelphia Eagles"
       },
       "venue": "Nissan Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:2:PHI@TEN"
     },
@@ -439,7 +439,7 @@
         "name": "Green Bay Packers"
       },
       "venue": "MetLife Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:2:GB@NYJ"
     },
@@ -559,7 +559,7 @@
         "name": "Washington Commanders"
       },
       "venue": "AT&T Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:2:WAS@DAL"
     },
@@ -579,7 +579,7 @@
         "name": "Seattle Seahawks"
       },
       "venue": "State Farm Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:2:SEA@ARI"
     },
@@ -599,7 +599,7 @@
         "name": "Miami Dolphins"
       },
       "venue": "Levi's Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:2:MIA@SF"
     },
@@ -679,7 +679,7 @@
         "name": "Los Angeles Chargers"
       },
       "venue": "Highmark Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:3:LAC@BUF"
     },
@@ -699,7 +699,7 @@
         "name": "Carolina Panthers"
       },
       "venue": "Huntington Bank Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:3:CAR@CLE"
     },
@@ -719,7 +719,7 @@
         "name": "New York Jets"
       },
       "venue": "Ford Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:3:NYJ@DET"
     },
@@ -819,7 +819,7 @@
         "name": "Seattle Seahawks"
       },
       "venue": "Northwest Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:3:SEA@WAS"
     },
@@ -859,7 +859,7 @@
         "name": "Arizona Cardinals"
       },
       "venue": "Levi's Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:3:ARI@SF"
     },
@@ -879,7 +879,7 @@
         "name": "Minnesota Vikings"
       },
       "venue": "Raymond James Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:3:MIN@TB"
     },
@@ -1059,7 +1059,7 @@
         "name": "New York Jets"
       },
       "venue": "Soldier Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:4:NYJ@CHI"
     },
@@ -1119,7 +1119,7 @@
         "name": "Los Angeles Rams"
       },
       "venue": "Lincoln Financial Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:4:LAR@PHI"
     },
@@ -1139,7 +1139,7 @@
         "name": "Green Bay Packers"
       },
       "venue": "Raymond James Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:4:GB@TB"
     },
@@ -1179,7 +1179,7 @@
         "name": "Dallas Cowboys"
       },
       "venue": "Reliant Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:4:DAL@HOU"
     },
@@ -1199,7 +1199,7 @@
         "name": "Miami Dolphins"
       },
       "venue": "U.S. Bank Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_FINAL",
       "key": "2:4:MIA@MIN"
     },
@@ -1339,7 +1339,7 @@
         "name": "Chicago Bears"
       },
       "venue": "Lambeau Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:5:CHI@GB"
     },
@@ -1379,7 +1379,7 @@
         "name": "Cincinnati Bengals"
       },
       "venue": "Hard Rock Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:5:CIN@MIA"
     },
@@ -1419,7 +1419,7 @@
         "name": "Minnesota Vikings"
       },
       "venue": "Caesars Superdome",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:5:MIN@NO"
     },
@@ -1479,7 +1479,7 @@
         "name": "New York Giants"
       },
       "venue": "Northwest Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:5:NYG@WAS"
     },
@@ -1519,7 +1519,7 @@
         "name": "Detroit Lions"
       },
       "venue": "State Farm Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:5:DET@ARI"
     },
@@ -1539,7 +1539,7 @@
         "name": "San Francisco 49ers"
       },
       "venue": "Lumen Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:5:SF@SEA"
     },
@@ -1639,7 +1639,7 @@
         "name": "Chicago Bears"
       },
       "venue": "Mercedes-Benz Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:6:CHI@ATL"
     },
@@ -1659,7 +1659,7 @@
         "name": "Baltimore Ravens"
       },
       "venue": "Huntington Bank Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:6:BAL@CLE"
     },
@@ -1679,7 +1679,7 @@
         "name": "Tennessee Titans"
       },
       "venue": "Lucas Oil Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:6:TEN@IND"
     },
@@ -1719,7 +1719,7 @@
         "name": "New Orleans Saints"
       },
       "venue": "MetLife Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:6:NO@NYG"
     },
@@ -1779,7 +1779,7 @@
         "name": "Arizona Cardinals"
       },
       "venue": "SoFi Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:6:ARI@LAR"
     },
@@ -1919,7 +1919,7 @@
         "name": "San Francisco 49ers"
       },
       "venue": "Mercedes-Benz Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:7:SF@ATL"
     },
@@ -1999,7 +1999,7 @@
         "name": "Tampa Bay Buccaneers"
       },
       "venue": "Bank of America Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:7:TB@CAR"
     },
@@ -2039,7 +2039,7 @@
         "name": "New York Giants"
       },
       "venue": "Reliant Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:7:NYG@HOU"
     },
@@ -2079,7 +2079,7 @@
         "name": "Green Bay Packers"
       },
       "venue": "Ford Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:7:GB@DET"
     },
@@ -2099,7 +2099,7 @@
         "name": "Los Angeles Rams"
       },
       "venue": "Allegiant Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:7:LAR@LV"
     },
@@ -2219,7 +2219,7 @@
         "name": "Arizona Cardinals"
       },
       "venue": "AT&T Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:8:ARI@DAL"
     },
@@ -2239,7 +2239,7 @@
         "name": "Minnesota Vikings"
       },
       "venue": "Ford Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:8:MIN@DET"
     },
@@ -2259,7 +2259,7 @@
         "name": "Las Vegas Raiders"
       },
       "venue": "MetLife Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:8:LV@NYJ"
     },
@@ -2299,7 +2299,7 @@
         "name": "Atlanta Falcons"
       },
       "venue": "Raymond James Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:8:ATL@TB"
     },
@@ -2339,7 +2339,7 @@
         "name": "Los Angeles Chargers"
       },
       "venue": "SoFi Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:8:LAC@LAR"
     },
@@ -2479,7 +2479,7 @@
         "name": "Dallas Cowboys"
       },
       "venue": "Lucas Oil Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:9:DAL@IND"
     },
@@ -2519,7 +2519,7 @@
         "name": "Detroit Lions"
       },
       "venue": "Hard Rock Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:9:DET@MIA"
     },
@@ -2559,7 +2559,7 @@
         "name": "New York Giants"
       },
       "venue": "Lincoln Financial Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:9:NYG@PHI"
     },
@@ -2579,7 +2579,7 @@
         "name": "Los Angeles Rams"
       },
       "venue": "Northwest Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:9:LAR@WAS"
     },
@@ -2659,7 +2659,7 @@
         "name": "Green Bay Packers"
       },
       "venue": "Gillette Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:9:GB@NE"
     },
@@ -2679,7 +2679,7 @@
         "name": "Arizona Cardinals"
       },
       "venue": "Lumen Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:9:ARI@SEA"
     },
@@ -2759,7 +2759,7 @@
         "name": "New England Patriots"
       },
       "venue": "FC Bayern Munich Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:10:NE@DET"
     },
@@ -2799,7 +2799,7 @@
         "name": "Houston Texans"
       },
       "venue": "Huntington Bank Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:10:HOU@CLE"
     },
@@ -2819,7 +2819,7 @@
         "name": "Minnesota Vikings"
       },
       "venue": "Lambeau Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:10:MIN@GB"
     },
@@ -2839,7 +2839,7 @@
         "name": "Jacksonville Jaguars"
       },
       "venue": "Nissan Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:10:JAX@TEN"
     },
@@ -2879,7 +2879,7 @@
         "name": "Carolina Panthers"
       },
       "venue": "Caesars Superdome",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:10:CAR@NO"
     },
@@ -2959,7 +2959,7 @@
         "name": "San Francisco 49ers"
       },
       "venue": "AT&T Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:10:SF@DAL"
     },
@@ -3039,7 +3039,7 @@
         "name": "Miami Dolphins"
       },
       "venue": "Highmark Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:11:MIA@BUF"
     },
@@ -3059,7 +3059,7 @@
         "name": "New Orleans Saints"
       },
       "venue": "Soldier Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:11:NO@CHI"
     },
@@ -3079,7 +3079,7 @@
         "name": "Tennessee Titans"
       },
       "venue": "AT&T Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:11:TEN@DAL"
     },
@@ -3159,7 +3159,7 @@
         "name": "Baltimore Ravens"
       },
       "venue": "Bank of America Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:11:BAL@CAR"
     },
@@ -3179,7 +3179,7 @@
         "name": "New York Jets"
       },
       "venue": "SoFi Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:11:NYJ@LAC"
     },
@@ -3319,7 +3319,7 @@
         "name": "Philadelphia Eagles"
       },
       "venue": "AT&T Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:12:PHI@DAL"
     },
@@ -3399,7 +3399,7 @@
         "name": "Las Vegas Raiders"
       },
       "venue": "Huntington Bank Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:12:LV@CLE"
     },
@@ -3419,7 +3419,7 @@
         "name": "New York Giants"
       },
       "venue": "Lucas Oil Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:12:NYG@IND"
     },
@@ -3459,7 +3459,7 @@
         "name": "Atlanta Falcons"
       },
       "venue": "U.S. Bank Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:12:ATL@MIN"
     },
@@ -3519,7 +3519,7 @@
         "name": "Washington Commanders"
       },
       "venue": "State Farm Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:12:WAS@ARI"
     },
@@ -3539,7 +3539,7 @@
         "name": "Seattle Seahawks"
       },
       "venue": "Levi's Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:12:SEA@SF"
     },
@@ -3639,7 +3639,7 @@
         "name": "Jacksonville Jaguars"
       },
       "venue": "Soldier Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:13:JAX@CHI"
     },
@@ -3699,7 +3699,7 @@
         "name": "Green Bay Packers"
       },
       "venue": "Caesars Superdome",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:13:GB@NO"
     },
@@ -3719,7 +3719,7 @@
         "name": "San Francisco 49ers"
       },
       "venue": "MetLife Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:13:SF@NYG"
     },
@@ -3759,7 +3759,7 @@
         "name": "Miami Dolphins"
       },
       "venue": "Empower Field at Mile High",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:13:MIA@DEN"
     },
@@ -3779,7 +3779,7 @@
         "name": "Philadelphia Eagles"
       },
       "venue": "State Farm Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:13:PHI@ARI"
     },
@@ -3919,7 +3919,7 @@
         "name": "Tennessee Titans"
       },
       "venue": "Ford Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:14:TEN@DET"
     },
@@ -3979,7 +3979,7 @@
         "name": "Indianapolis Colts"
       },
       "venue": "Lincoln Financial Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:14:IND@PHI"
     },
@@ -4039,7 +4039,7 @@
         "name": "Tampa Bay Buccaneers"
       },
       "venue": "M&T Bank Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:14:TB@BAL"
     },
@@ -4079,7 +4079,7 @@
         "name": "Kansas City Chiefs"
       },
       "venue": "Paycor Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:14:KC@CIN"
     },
@@ -4099,7 +4099,7 @@
         "name": "Los Angeles Rams"
       },
       "venue": "Levi's Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:14:LAR@SF"
     },
@@ -4119,7 +4119,7 @@
         "name": "New York Giants"
       },
       "venue": "Lumen Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:14:NYG@SEA"
     },
@@ -4199,7 +4199,7 @@
         "name": "Seattle Seahawks"
       },
       "venue": "Lincoln Financial Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:15:SEA@PHI"
     },
@@ -4239,7 +4239,7 @@
         "name": "Miami Dolphins"
       },
       "venue": "Lambeau Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:15:MIA@GB"
     },
@@ -4319,7 +4319,7 @@
         "name": "New Orleans Saints"
       },
       "venue": "Raymond James Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:15:NO@TB"
     },
@@ -4339,7 +4339,7 @@
         "name": "Atlanta Falcons"
       },
       "venue": "Northwest Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:15:ATL@WAS"
     },
@@ -4359,7 +4359,7 @@
         "name": "Cincinnati Bengals"
       },
       "venue": "Bank of America Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:15:CIN@CAR"
     },
@@ -4399,7 +4399,7 @@
         "name": "New York Jets"
       },
       "venue": "State Farm Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:15:NYJ@ARI"
     },
@@ -4559,7 +4559,7 @@
         "name": "Los Angeles Rams"
       },
       "venue": "Lumen Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:16:LAR@SEA"
     },
@@ -4659,7 +4659,7 @@
         "name": "Los Angeles Chargers"
       },
       "venue": "Hard Rock Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:16:LAC@MIA"
     },
@@ -4679,7 +4679,7 @@
         "name": "Arizona Cardinals"
       },
       "venue": "Caesars Superdome",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:16:ARI@NO"
     },
@@ -4739,7 +4739,7 @@
         "name": "Tennessee Titans"
       },
       "venue": "Allegiant Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:16:TEN@LV"
     },
@@ -4919,7 +4919,7 @@
         "name": "New Orleans Saints"
       },
       "venue": "Mercedes-Benz Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:17:NO@ATL"
     },
@@ -4939,7 +4939,7 @@
         "name": "Indianapolis Colts"
       },
       "venue": "Huntington Bank Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:17:IND@CLE"
     },
@@ -4959,7 +4959,7 @@
         "name": "New York Giants"
       },
       "venue": "AT&T Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:17:NYG@DAL"
     },
@@ -5039,7 +5039,7 @@
         "name": "Seattle Seahawks"
       },
       "venue": "Bank of America Stadium",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:17:SEA@CAR"
     },
@@ -5079,7 +5079,7 @@
         "name": "Detroit Lions"
       },
       "venue": "Soldier Field",
-      "network": "FOX",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:17:DET@CHI"
     },
