@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-06T02:23:58.285Z",
+  "savedAt": "2026-10-06T09:13:37.618Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -963,26 +963,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:3:PHI@CHI"
     },
-    "2:4:ATL@NO": {
-      "ref": "401872979",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 4,
-      "kickoff": "2026-10-06T00:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "NO",
-        "name": "New Orleans Saints"
-      },
-      "away": {
-        "abbr": "ATL",
-        "name": "Atlanta Falcons"
-      },
-      "venue": "Caesars Superdome",
-      "network": "ESPN",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:4:ATL@NO"
-    },
     "2:4:PIT@CLE": {
       "ref": "401872964",
       "provider": "espn",
@@ -1282,6 +1262,26 @@
       "network": "NBC",
       "statusName": "STATUS_FINAL",
       "key": "2:4:DET@CAR"
+    },
+    "2:4:ATL@NO": {
+      "ref": "401872979",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 4,
+      "kickoff": "2026-10-06T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "away": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "venue": "Caesars Superdome",
+      "network": "ESPN",
+      "statusName": "STATUS_FINAL",
+      "key": "2:4:ATL@NO"
     },
     "2:5:TB@DAL": {
       "ref": "401872980",
