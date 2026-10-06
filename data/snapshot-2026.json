@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-05T22:07:06.975Z",
+  "savedAt": "2026-10-06T02:23:58.285Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -980,7 +980,7 @@
       },
       "venue": "Caesars Superdome",
       "network": "ESPN",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:4:ATL@NO"
     },
     "2:4:PIT@CLE": {
