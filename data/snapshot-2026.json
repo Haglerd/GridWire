@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-09T00:09:24.661Z",
+  "savedAt": "2026-10-09T06:29:41.337Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1300,7 +1300,7 @@
       },
       "venue": "AT&T Stadium",
       "network": "Prime Video",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_FINAL",
       "key": "2:5:TB@DAL"
     },
     "2:5:PHI@JAX": {
