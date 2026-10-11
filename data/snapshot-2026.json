@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-11T02:03:30.590Z",
+  "savedAt": "2026-10-11T09:10:09.424Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1283,26 +1283,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:4:ATL@NO"
     },
-    "2:5:TB@DAL": {
-      "ref": "401872980",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 5,
-      "kickoff": "2026-10-09T00:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "DAL",
-        "name": "Dallas Cowboys"
-      },
-      "away": {
-        "abbr": "TB",
-        "name": "Tampa Bay Buccaneers"
-      },
-      "venue": "AT&T Stadium",
-      "network": "Prime Video",
-      "statusName": "STATUS_FINAL",
-      "key": "2:5:TB@DAL"
-    },
     "2:5:PHI@JAX": {
       "ref": "401872981",
       "provider": "espn",
@@ -1562,6 +1542,26 @@
       "network": "NBC",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:5:BAL@ATL"
+    },
+    "2:5:TB@DAL": {
+      "ref": "401872980",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-09T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "away": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "venue": "AT&T Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_FINAL",
+      "key": "2:5:TB@DAL"
     },
     "2:5:BUF@LAR": {
       "ref": "401872994",
