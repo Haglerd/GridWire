@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-11T23:29:25.774Z",
+  "savedAt": "2026-10-12T02:36:56.604Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1283,45 +1283,25 @@
       "statusName": "STATUS_FINAL",
       "key": "2:4:ATL@NO"
     },
-    "2:5:DET@ARI": {
-      "ref": "401872991",
+    "2:5:BAL@ATL": {
+      "ref": "401872993",
       "provider": "espn",
       "seasonType": 2,
       "week": 5,
-      "kickoff": "2026-10-11T20:25:00.000Z",
+      "kickoff": "2026-10-12T00:20:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "ARI",
-        "name": "Arizona Cardinals"
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
       },
       "away": {
-        "abbr": "DET",
-        "name": "Detroit Lions"
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
       },
-      "venue": "State Farm Stadium",
-      "network": "Fox",
-      "statusName": "STATUS_FINAL",
-      "key": "2:5:DET@ARI"
-    },
-    "2:5:SF@SEA": {
-      "ref": "401872992",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 5,
-      "kickoff": "2026-10-11T20:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "SEA",
-        "name": "Seattle Seahawks"
-      },
-      "away": {
-        "abbr": "SF",
-        "name": "San Francisco 49ers"
-      },
-      "venue": "Lumen Field",
-      "network": "Fox",
+      "venue": "Mercedes-Benz Stadium",
+      "network": "NBC",
       "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:5:SF@SEA"
+      "key": "2:5:BAL@ATL"
     },
     "2:5:PHI@JAX": {
       "ref": "401872981",
@@ -1523,25 +1503,45 @@
       "statusName": "STATUS_FINAL",
       "key": "2:5:DEN@LAC"
     },
-    "2:5:BAL@ATL": {
-      "ref": "401872993",
+    "2:5:DET@ARI": {
+      "ref": "401872991",
       "provider": "espn",
       "seasonType": 2,
       "week": 5,
-      "kickoff": "2026-10-12T00:20:00.000Z",
+      "kickoff": "2026-10-11T20:25:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "ATL",
-        "name": "Atlanta Falcons"
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
       },
       "away": {
-        "abbr": "BAL",
-        "name": "Baltimore Ravens"
+        "abbr": "DET",
+        "name": "Detroit Lions"
       },
-      "venue": "Mercedes-Benz Stadium",
-      "network": "NBC",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:5:BAL@ATL"
+      "venue": "State Farm Stadium",
+      "network": "Fox",
+      "statusName": "STATUS_FINAL",
+      "key": "2:5:DET@ARI"
+    },
+    "2:5:SF@SEA": {
+      "ref": "401872992",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-11T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "away": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "venue": "Lumen Field",
+      "network": "Fox",
+      "statusName": "STATUS_FINAL",
+      "key": "2:5:SF@SEA"
     },
     "2:5:TB@DAL": {
       "ref": "401872980",
