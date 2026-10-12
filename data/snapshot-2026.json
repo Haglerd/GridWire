@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-12T02:36:56.604Z",
+  "savedAt": "2026-10-12T10:18:20.399Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1283,25 +1283,45 @@
       "statusName": "STATUS_FINAL",
       "key": "2:4:ATL@NO"
     },
-    "2:5:BAL@ATL": {
-      "ref": "401872993",
+    "2:5:BUF@LAR": {
+      "ref": "401872994",
       "provider": "espn",
       "seasonType": 2,
       "week": 5,
-      "kickoff": "2026-10-12T00:20:00.000Z",
+      "kickoff": "2026-10-13T00:15:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "ATL",
-        "name": "Atlanta Falcons"
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
       },
       "away": {
-        "abbr": "BAL",
-        "name": "Baltimore Ravens"
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
       },
-      "venue": "Mercedes-Benz Stadium",
-      "network": "NBC",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:5:BAL@ATL"
+      "venue": "SoFi Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:5:BUF@LAR"
+    },
+    "2:5:TB@DAL": {
+      "ref": "401872980",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-09T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "away": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "venue": "AT&T Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_FINAL",
+      "key": "2:5:TB@DAL"
     },
     "2:5:PHI@JAX": {
       "ref": "401872981",
@@ -1543,45 +1563,25 @@
       "statusName": "STATUS_FINAL",
       "key": "2:5:SF@SEA"
     },
-    "2:5:TB@DAL": {
-      "ref": "401872980",
+    "2:5:BAL@ATL": {
+      "ref": "401872993",
       "provider": "espn",
       "seasonType": 2,
       "week": 5,
-      "kickoff": "2026-10-09T00:15:00.000Z",
+      "kickoff": "2026-10-12T00:20:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "DAL",
-        "name": "Dallas Cowboys"
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
       },
       "away": {
-        "abbr": "TB",
-        "name": "Tampa Bay Buccaneers"
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
       },
-      "venue": "AT&T Stadium",
-      "network": "Prime Video",
+      "venue": "Mercedes-Benz Stadium",
+      "network": "NBC",
       "statusName": "STATUS_FINAL",
-      "key": "2:5:TB@DAL"
-    },
-    "2:5:BUF@LAR": {
-      "ref": "401872994",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 5,
-      "kickoff": "2026-10-13T00:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "LAR",
-        "name": "Los Angeles Rams"
-      },
-      "away": {
-        "abbr": "BUF",
-        "name": "Buffalo Bills"
-      },
-      "venue": "SoFi Stadium",
-      "network": "ESPN",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:5:BUF@LAR"
+      "key": "2:5:BAL@ATL"
     },
     "2:6:SEA@DEN": {
       "ref": "401872995",
