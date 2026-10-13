@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-13T01:54:06.588Z",
+  "savedAt": "2026-10-13T09:01:00.244Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1283,26 +1283,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:4:ATL@NO"
     },
-    "2:5:BUF@LAR": {
-      "ref": "401872994",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 5,
-      "kickoff": "2026-10-13T00:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "LAR",
-        "name": "Los Angeles Rams"
-      },
-      "away": {
-        "abbr": "BUF",
-        "name": "Buffalo Bills"
-      },
-      "venue": "SoFi Stadium",
-      "network": "ESPN",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:5:BUF@LAR"
-    },
     "2:5:TB@DAL": {
       "ref": "401872980",
       "provider": "espn",
@@ -1582,6 +1562,26 @@
       "network": "NBC",
       "statusName": "STATUS_FINAL",
       "key": "2:5:BAL@ATL"
+    },
+    "2:5:BUF@LAR": {
+      "ref": "401872994",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 5,
+      "kickoff": "2026-10-13T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "away": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "venue": "SoFi Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_FINAL",
+      "key": "2:5:BUF@LAR"
     },
     "2:6:SEA@DEN": {
       "ref": "401872995",
