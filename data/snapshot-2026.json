@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-15T23:38:20.948Z",
+  "savedAt": "2026-10-16T03:22:33.659Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1600,7 +1600,7 @@
       },
       "venue": "Empower Field at Mile High",
       "network": "Prime Video",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_END_PERIOD",
       "key": "2:6:SEA@DEN"
     },
     "2:6:HOU@JAX": {
