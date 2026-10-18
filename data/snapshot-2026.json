@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-18T21:17:15.574Z",
+  "savedAt": "2026-10-18T23:30:26.586Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1583,46 +1583,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:5:BUF@LAR"
     },
-    "2:6:ARI@LAR": {
-      "ref": "401873004",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 6,
-      "kickoff": "2026-10-18T20:05:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "LAR",
-        "name": "Los Angeles Rams"
-      },
-      "away": {
-        "abbr": "ARI",
-        "name": "Arizona Cardinals"
-      },
-      "venue": "SoFi Stadium",
-      "network": "Fox",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:6:ARI@LAR"
-    },
-    "2:6:LAC@KC": {
-      "ref": "401873006",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 6,
-      "kickoff": "2026-10-18T20:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "KC",
-        "name": "Kansas City Chiefs"
-      },
-      "away": {
-        "abbr": "LAC",
-        "name": "Los Angeles Chargers"
-      },
-      "venue": "Arrowhead Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:6:LAC@KC"
-    },
     "2:6:BUF@LV": {
       "ref": "401873005",
       "provider": "espn",
@@ -1802,6 +1762,46 @@
       "network": "CBS",
       "statusName": "STATUS_FINAL",
       "key": "2:6:PIT@TB"
+    },
+    "2:6:ARI@LAR": {
+      "ref": "401873004",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-18T20:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "away": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "venue": "SoFi Stadium",
+      "network": "Fox",
+      "statusName": "STATUS_FINAL",
+      "key": "2:6:ARI@LAR"
+    },
+    "2:6:LAC@KC": {
+      "ref": "401873006",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-18T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "away": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "venue": "Arrowhead Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:6:LAC@KC"
     },
     "2:6:DAL@GB": {
       "ref": "401873007",
