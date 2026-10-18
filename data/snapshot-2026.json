@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-18T12:43:20.594Z",
+  "savedAt": "2026-10-18T16:22:10.440Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1600,7 +1600,7 @@
       },
       "venue": "Wembley Stadium",
       "network": "NFL Net",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:6:HOU@JAX"
     },
     "2:6:CHI@ATL": {
