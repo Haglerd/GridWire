@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-18T16:22:10.440Z",
+  "savedAt": "2026-10-18T18:47:23.720Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1583,26 +1583,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:5:BUF@LAR"
     },
-    "2:6:HOU@JAX": {
-      "ref": "401872996",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 6,
-      "kickoff": "2026-10-18T13:30:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "JAX",
-        "name": "Jacksonville Jaguars"
-      },
-      "away": {
-        "abbr": "HOU",
-        "name": "Houston Texans"
-      },
-      "venue": "Wembley Stadium",
-      "network": "NFL Net",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:6:HOU@JAX"
-    },
     "2:6:CHI@ATL": {
       "ref": "401872999",
       "provider": "espn",
@@ -1620,7 +1600,7 @@
       },
       "venue": "Mercedes-Benz Stadium",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_HALFTIME",
       "key": "2:6:CHI@ATL"
     },
     "2:6:BAL@CLE": {
@@ -1640,7 +1620,7 @@
       },
       "venue": "Huntington Bank Field",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:6:BAL@CLE"
     },
     "2:6:TEN@IND": {
@@ -1660,7 +1640,7 @@
       },
       "venue": "Lucas Oil Stadium",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:6:TEN@IND"
     },
     "2:6:NYJ@NE": {
@@ -1680,7 +1660,7 @@
       },
       "venue": "Gillette Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:6:NYJ@NE"
     },
     "2:6:NO@NYG": {
@@ -1700,7 +1680,7 @@
       },
       "venue": "MetLife Stadium",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:6:NO@NYG"
     },
     "2:6:CAR@PHI": {
@@ -1720,7 +1700,7 @@
       },
       "venue": "Lincoln Financial Field",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_HALFTIME",
       "key": "2:6:CAR@PHI"
     },
     "2:6:PIT@TB": {
@@ -1740,8 +1720,28 @@
       },
       "venue": "Raymond James Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:6:PIT@TB"
+    },
+    "2:6:HOU@JAX": {
+      "ref": "401872996",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-18T13:30:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "away": {
+        "abbr": "HOU",
+        "name": "Houston Texans"
+      },
+      "venue": "Wembley Stadium",
+      "network": "NFL Net",
+      "statusName": "STATUS_FINAL",
+      "key": "2:6:HOU@JAX"
     },
     "2:6:ARI@LAR": {
       "ref": "401873004",
