@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-19T03:29:17.462Z",
+  "savedAt": "2026-10-19T09:15:33.297Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1583,25 +1583,45 @@
       "statusName": "STATUS_FINAL",
       "key": "2:5:BUF@LAR"
     },
-    "2:6:DAL@GB": {
-      "ref": "401873007",
+    "2:6:WAS@SF": {
+      "ref": "401873008",
       "provider": "espn",
       "seasonType": 2,
       "week": 6,
-      "kickoff": "2026-10-19T00:20:00.000Z",
+      "kickoff": "2026-10-20T00:15:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "GB",
-        "name": "Green Bay Packers"
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
       },
       "away": {
-        "abbr": "DAL",
-        "name": "Dallas Cowboys"
+        "abbr": "WAS",
+        "name": "Washington Commanders"
       },
-      "venue": "Lambeau Field",
-      "network": "NBC",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:6:DAL@GB"
+      "venue": "Levi's Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:6:WAS@SF"
+    },
+    "2:6:SEA@DEN": {
+      "ref": "401872995",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-16T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "away": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "venue": "Empower Field at Mile High",
+      "network": "Prime Video",
+      "statusName": "STATUS_FINAL",
+      "key": "2:6:SEA@DEN"
     },
     "2:6:HOU@JAX": {
       "ref": "401872996",
@@ -1823,45 +1843,25 @@
       "statusName": "STATUS_FINAL",
       "key": "2:6:BUF@LV"
     },
-    "2:6:SEA@DEN": {
-      "ref": "401872995",
+    "2:6:DAL@GB": {
+      "ref": "401873007",
       "provider": "espn",
       "seasonType": 2,
       "week": 6,
-      "kickoff": "2026-10-16T00:15:00.000Z",
+      "kickoff": "2026-10-19T00:20:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "DEN",
-        "name": "Denver Broncos"
+        "abbr": "GB",
+        "name": "Green Bay Packers"
       },
       "away": {
-        "abbr": "SEA",
-        "name": "Seattle Seahawks"
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
       },
-      "venue": "Empower Field at Mile High",
-      "network": "Prime Video",
+      "venue": "Lambeau Field",
+      "network": "NBC",
       "statusName": "STATUS_FINAL",
-      "key": "2:6:SEA@DEN"
-    },
-    "2:6:WAS@SF": {
-      "ref": "401873008",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 6,
-      "kickoff": "2026-10-20T00:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "SF",
-        "name": "San Francisco 49ers"
-      },
-      "away": {
-        "abbr": "WAS",
-        "name": "Washington Commanders"
-      },
-      "venue": "Levi's Stadium",
-      "network": "ESPN",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:6:WAS@SF"
+      "key": "2:6:DAL@GB"
     },
     "2:7:NE@CHI": {
       "ref": "401873010",
