@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-18T23:30:26.586Z",
+  "savedAt": "2026-10-19T03:29:17.462Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1583,25 +1583,25 @@
       "statusName": "STATUS_FINAL",
       "key": "2:5:BUF@LAR"
     },
-    "2:6:BUF@LV": {
-      "ref": "401873005",
+    "2:6:DAL@GB": {
+      "ref": "401873007",
       "provider": "espn",
       "seasonType": 2,
       "week": 6,
-      "kickoff": "2026-10-18T20:25:00.000Z",
+      "kickoff": "2026-10-19T00:20:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "LV",
-        "name": "Las Vegas Raiders"
+        "abbr": "GB",
+        "name": "Green Bay Packers"
       },
       "away": {
-        "abbr": "BUF",
-        "name": "Buffalo Bills"
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
       },
-      "venue": "Allegiant Stadium",
-      "network": "CBS",
+      "venue": "Lambeau Field",
+      "network": "NBC",
       "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:6:BUF@LV"
+      "key": "2:6:DAL@GB"
     },
     "2:6:HOU@JAX": {
       "ref": "401872996",
@@ -1803,25 +1803,25 @@
       "statusName": "STATUS_FINAL",
       "key": "2:6:LAC@KC"
     },
-    "2:6:DAL@GB": {
-      "ref": "401873007",
+    "2:6:BUF@LV": {
+      "ref": "401873005",
       "provider": "espn",
       "seasonType": 2,
       "week": 6,
-      "kickoff": "2026-10-19T00:20:00.000Z",
+      "kickoff": "2026-10-18T20:25:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "GB",
-        "name": "Green Bay Packers"
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
       },
       "away": {
-        "abbr": "DAL",
-        "name": "Dallas Cowboys"
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
       },
-      "venue": "Lambeau Field",
-      "network": "NBC",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:6:DAL@GB"
+      "venue": "Allegiant Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:6:BUF@LV"
     },
     "2:6:SEA@DEN": {
       "ref": "401872995",
