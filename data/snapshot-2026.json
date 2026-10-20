@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-20T00:30:56.792Z",
+  "savedAt": "2026-10-20T05:41:12.724Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1583,26 +1583,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:5:BUF@LAR"
     },
-    "2:6:WAS@SF": {
-      "ref": "401873008",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 6,
-      "kickoff": "2026-10-20T00:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "SF",
-        "name": "San Francisco 49ers"
-      },
-      "away": {
-        "abbr": "WAS",
-        "name": "Washington Commanders"
-      },
-      "venue": "Levi's Stadium",
-      "network": "ESPN",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:6:WAS@SF"
-    },
     "2:6:SEA@DEN": {
       "ref": "401872995",
       "provider": "espn",
@@ -1862,6 +1842,26 @@
       "network": "NBC",
       "statusName": "STATUS_FINAL",
       "key": "2:6:DAL@GB"
+    },
+    "2:6:WAS@SF": {
+      "ref": "401873008",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 6,
+      "kickoff": "2026-10-20T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "away": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "venue": "Levi's Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_FINAL",
+      "key": "2:6:WAS@SF"
     },
     "2:7:NE@CHI": {
       "ref": "401873010",
