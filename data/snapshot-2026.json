@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-19T21:20:38.315Z",
+  "savedAt": "2026-10-20T00:30:56.792Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1600,7 +1600,7 @@
       },
       "venue": "Levi's Stadium",
       "network": "ESPN",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:6:WAS@SF"
     },
     "2:6:SEA@DEN": {
