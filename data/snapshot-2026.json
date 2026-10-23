@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-22T22:37:22.962Z",
+  "savedAt": "2026-10-23T01:14:51.938Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1880,7 +1880,7 @@
       },
       "venue": "Soldier Field",
       "network": "Prime Video",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:7:NE@CHI"
     },
     "2:7:PIT@NO": {
