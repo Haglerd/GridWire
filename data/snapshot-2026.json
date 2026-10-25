@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-25T13:34:56.261Z",
+  "savedAt": "2026-10-25T17:25:20.182Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1863,26 +1863,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:6:WAS@SF"
     },
-    "2:7:PIT@NO": {
-      "ref": "401873011",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 7,
-      "kickoff": "2026-10-25T13:30:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "NO",
-        "name": "New Orleans Saints"
-      },
-      "away": {
-        "abbr": "PIT",
-        "name": "Pittsburgh Steelers"
-      },
-      "venue": "Stade de France",
-      "network": "NFL Net",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:7:PIT@NO"
-    },
     "2:7:SF@ATL": {
       "ref": "401873017",
       "provider": "espn",
@@ -1900,7 +1880,7 @@
       },
       "venue": "Mercedes-Benz Stadium",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:7:SF@ATL"
     },
     "2:7:CLE@TEN": {
@@ -1920,7 +1900,7 @@
       },
       "venue": "Nissan Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:7:CLE@TEN"
     },
     "2:7:IND@MIN": {
@@ -1940,7 +1920,7 @@
       },
       "venue": "U.S. Bank Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:7:IND@MIN"
     },
     "2:7:MIA@NYJ": {
@@ -1960,7 +1940,7 @@
       },
       "venue": "MetLife Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:7:MIA@NYJ"
     },
     "2:7:TB@CAR": {
@@ -1980,7 +1960,7 @@
       },
       "venue": "Bank of America Stadium",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:7:TB@CAR"
     },
     "2:7:CIN@BAL": {
@@ -2000,7 +1980,7 @@
       },
       "venue": "M&T Bank Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:7:CIN@BAL"
     },
     "2:7:NYG@HOU": {
@@ -2020,8 +2000,28 @@
       },
       "venue": "Reliant Stadium",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:7:NYG@HOU"
+    },
+    "2:7:PIT@NO": {
+      "ref": "401873011",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-25T13:30:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "away": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "venue": "Stade de France",
+      "network": "NFL Net",
+      "statusName": "STATUS_FINAL",
+      "key": "2:7:PIT@NO"
     },
     "2:7:DEN@ARI": {
       "ref": "401873019",
