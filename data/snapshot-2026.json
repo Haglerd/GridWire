@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-25T03:26:29.233Z",
+  "savedAt": "2026-10-25T08:39:35.874Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1863,26 +1863,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:6:WAS@SF"
     },
-    "2:7:NE@CHI": {
-      "ref": "401873010",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 7,
-      "kickoff": "2026-10-23T00:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "CHI",
-        "name": "Chicago Bears"
-      },
-      "away": {
-        "abbr": "NE",
-        "name": "New England Patriots"
-      },
-      "venue": "Soldier Field",
-      "network": "Prime Video",
-      "statusName": "STATUS_FINAL",
-      "key": "2:7:NE@CHI"
-    },
     "2:7:PIT@NO": {
       "ref": "401873011",
       "provider": "espn",
@@ -2122,6 +2102,26 @@
       "network": "NBC",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:7:KC@SEA"
+    },
+    "2:7:NE@CHI": {
+      "ref": "401873010",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-23T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "away": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "venue": "Soldier Field",
+      "network": "Prime Video",
+      "statusName": "STATUS_FINAL",
+      "key": "2:7:NE@CHI"
     },
     "2:7:DAL@PHI": {
       "ref": "401873009",
