@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-25T17:25:20.182Z",
+  "savedAt": "2026-10-25T19:52:03.363Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1920,7 +1920,7 @@
       },
       "venue": "U.S. Bank Stadium",
       "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
+      "statusName": "STATUS_FINAL",
       "key": "2:7:IND@MIN"
     },
     "2:7:MIA@NYJ": {
@@ -1960,7 +1960,7 @@
       },
       "venue": "Bank of America Stadium",
       "network": "Fox",
-      "statusName": "STATUS_IN_PROGRESS",
+      "statusName": "STATUS_FINAL",
       "key": "2:7:TB@CAR"
     },
     "2:7:CIN@BAL": {
