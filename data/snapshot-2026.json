@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-25T08:39:35.874Z",
+  "savedAt": "2026-10-25T13:34:56.261Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1880,7 +1880,7 @@
       },
       "venue": "Stade de France",
       "network": "NFL Net",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:7:PIT@NO"
     },
     "2:7:SF@ATL": {
