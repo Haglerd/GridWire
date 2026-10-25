@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-25T19:52:03.363Z",
+  "savedAt": "2026-10-25T22:19:05.110Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1863,6 +1863,86 @@
       "statusName": "STATUS_FINAL",
       "key": "2:6:WAS@SF"
     },
+    "2:7:DEN@ARI": {
+      "ref": "401873019",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-25T20:05:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "away": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "venue": "State Farm Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_IN_PROGRESS",
+      "key": "2:7:DEN@ARI"
+    },
+    "2:7:GB@DET": {
+      "ref": "401873020",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-25T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "away": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "venue": "Ford Field",
+      "network": "Fox",
+      "statusName": "STATUS_IN_PROGRESS",
+      "key": "2:7:GB@DET"
+    },
+    "2:7:LAR@LV": {
+      "ref": "401873021",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-25T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "away": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "venue": "Allegiant Stadium",
+      "network": "Fox",
+      "statusName": "STATUS_IN_PROGRESS",
+      "key": "2:7:LAR@LV"
+    },
+    "2:7:PIT@NO": {
+      "ref": "401873011",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-25T13:30:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "away": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "venue": "Stade de France",
+      "network": "NFL Net",
+      "statusName": "STATUS_FINAL",
+      "key": "2:7:PIT@NO"
+    },
     "2:7:SF@ATL": {
       "ref": "401873017",
       "provider": "espn",
@@ -1880,7 +1960,7 @@
       },
       "venue": "Mercedes-Benz Stadium",
       "network": "Fox",
-      "statusName": "STATUS_IN_PROGRESS",
+      "statusName": "STATUS_FINAL",
       "key": "2:7:SF@ATL"
     },
     "2:7:CLE@TEN": {
@@ -1900,7 +1980,7 @@
       },
       "venue": "Nissan Stadium",
       "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
+      "statusName": "STATUS_FINAL",
       "key": "2:7:CLE@TEN"
     },
     "2:7:IND@MIN": {
@@ -1940,7 +2020,7 @@
       },
       "venue": "MetLife Stadium",
       "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
+      "statusName": "STATUS_FINAL",
       "key": "2:7:MIA@NYJ"
     },
     "2:7:TB@CAR": {
@@ -1980,7 +2060,7 @@
       },
       "venue": "M&T Bank Stadium",
       "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
+      "statusName": "STATUS_FINAL",
       "key": "2:7:CIN@BAL"
     },
     "2:7:NYG@HOU": {
@@ -2000,88 +2080,8 @@
       },
       "venue": "Reliant Stadium",
       "network": "Fox",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:7:NYG@HOU"
-    },
-    "2:7:PIT@NO": {
-      "ref": "401873011",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 7,
-      "kickoff": "2026-10-25T13:30:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "NO",
-        "name": "New Orleans Saints"
-      },
-      "away": {
-        "abbr": "PIT",
-        "name": "Pittsburgh Steelers"
-      },
-      "venue": "Stade de France",
-      "network": "NFL Net",
       "statusName": "STATUS_FINAL",
-      "key": "2:7:PIT@NO"
-    },
-    "2:7:DEN@ARI": {
-      "ref": "401873019",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 7,
-      "kickoff": "2026-10-25T20:05:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "ARI",
-        "name": "Arizona Cardinals"
-      },
-      "away": {
-        "abbr": "DEN",
-        "name": "Denver Broncos"
-      },
-      "venue": "State Farm Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:7:DEN@ARI"
-    },
-    "2:7:GB@DET": {
-      "ref": "401873020",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 7,
-      "kickoff": "2026-10-25T20:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "DET",
-        "name": "Detroit Lions"
-      },
-      "away": {
-        "abbr": "GB",
-        "name": "Green Bay Packers"
-      },
-      "venue": "Ford Field",
-      "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:7:GB@DET"
-    },
-    "2:7:LAR@LV": {
-      "ref": "401873021",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 7,
-      "kickoff": "2026-10-25T20:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "LV",
-        "name": "Las Vegas Raiders"
-      },
-      "away": {
-        "abbr": "LAR",
-        "name": "Los Angeles Rams"
-      },
-      "venue": "Allegiant Stadium",
-      "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:7:LAR@LV"
+      "key": "2:7:NYG@HOU"
     },
     "2:7:KC@SEA": {
       "ref": "401873022",
