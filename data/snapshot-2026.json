@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-25T22:19:05.110Z",
+  "savedAt": "2026-10-26T00:33:40.048Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1863,65 +1863,25 @@
       "statusName": "STATUS_FINAL",
       "key": "2:6:WAS@SF"
     },
-    "2:7:DEN@ARI": {
-      "ref": "401873019",
+    "2:7:KC@SEA": {
+      "ref": "401873022",
       "provider": "espn",
       "seasonType": 2,
       "week": 7,
-      "kickoff": "2026-10-25T20:05:00.000Z",
+      "kickoff": "2026-10-26T00:20:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "ARI",
-        "name": "Arizona Cardinals"
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
       },
       "away": {
-        "abbr": "DEN",
-        "name": "Denver Broncos"
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
       },
-      "venue": "State Farm Stadium",
-      "network": "CBS",
+      "venue": "Lumen Field",
+      "network": "NBC",
       "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:7:DEN@ARI"
-    },
-    "2:7:GB@DET": {
-      "ref": "401873020",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 7,
-      "kickoff": "2026-10-25T20:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "DET",
-        "name": "Detroit Lions"
-      },
-      "away": {
-        "abbr": "GB",
-        "name": "Green Bay Packers"
-      },
-      "venue": "Ford Field",
-      "network": "Fox",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:7:GB@DET"
-    },
-    "2:7:LAR@LV": {
-      "ref": "401873021",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 7,
-      "kickoff": "2026-10-25T20:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "LV",
-        "name": "Las Vegas Raiders"
-      },
-      "away": {
-        "abbr": "LAR",
-        "name": "Los Angeles Rams"
-      },
-      "venue": "Allegiant Stadium",
-      "network": "Fox",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:7:LAR@LV"
+      "key": "2:7:KC@SEA"
     },
     "2:7:PIT@NO": {
       "ref": "401873011",
@@ -2083,25 +2043,65 @@
       "statusName": "STATUS_FINAL",
       "key": "2:7:NYG@HOU"
     },
-    "2:7:KC@SEA": {
-      "ref": "401873022",
+    "2:7:DEN@ARI": {
+      "ref": "401873019",
       "provider": "espn",
       "seasonType": 2,
       "week": 7,
-      "kickoff": "2026-10-26T00:20:00.000Z",
+      "kickoff": "2026-10-25T20:05:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "SEA",
-        "name": "Seattle Seahawks"
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
       },
       "away": {
-        "abbr": "KC",
-        "name": "Kansas City Chiefs"
+        "abbr": "DEN",
+        "name": "Denver Broncos"
       },
-      "venue": "Lumen Field",
-      "network": "NBC",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:7:KC@SEA"
+      "venue": "State Farm Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:7:DEN@ARI"
+    },
+    "2:7:GB@DET": {
+      "ref": "401873020",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-25T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "away": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "venue": "Ford Field",
+      "network": "Fox",
+      "statusName": "STATUS_FINAL",
+      "key": "2:7:GB@DET"
+    },
+    "2:7:LAR@LV": {
+      "ref": "401873021",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-25T20:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "away": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "venue": "Allegiant Stadium",
+      "network": "Fox",
+      "statusName": "STATUS_FINAL",
+      "key": "2:7:LAR@LV"
     },
     "2:7:NE@CHI": {
       "ref": "401873010",
