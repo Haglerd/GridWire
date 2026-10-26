@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-26T18:48:01.601Z",
+  "savedAt": "2026-10-26T23:01:43.545Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -2623,26 +2623,6 @@
       "statusName": "STATUS_SCHEDULED",
       "key": "2:9:HOU@LAC"
     },
-    "2:9:LV@SF": {
-      "ref": "401873047",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 9,
-      "kickoff": "2026-11-08T21:05:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "SF",
-        "name": "San Francisco 49ers"
-      },
-      "away": {
-        "abbr": "LV",
-        "name": "Las Vegas Raiders"
-      },
-      "venue": "Levi's Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:9:LV@SF"
-    },
     "2:9:GB@NE": {
       "ref": "401873049",
       "provider": "espn",
@@ -2662,6 +2642,26 @@
       "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:9:GB@NE"
+    },
+    "2:9:LV@SF": {
+      "ref": "401873047",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "away": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "venue": "Levi's Stadium",
+      "network": "Fox",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:9:LV@SF"
     },
     "2:9:ARI@SEA": {
       "ref": "401873048",
