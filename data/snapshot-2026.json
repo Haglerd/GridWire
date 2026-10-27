@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-27T02:18:24.464Z",
+  "savedAt": "2026-10-27T08:13:19.272Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -1863,26 +1863,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:6:WAS@SF"
     },
-    "2:7:DAL@PHI": {
-      "ref": "401873009",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 7,
-      "kickoff": "2026-10-27T00:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "PHI",
-        "name": "Philadelphia Eagles"
-      },
-      "away": {
-        "abbr": "DAL",
-        "name": "Dallas Cowboys"
-      },
-      "venue": "Lincoln Financial Field",
-      "network": "ESPN",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:7:DAL@PHI"
-    },
     "2:7:NE@CHI": {
       "ref": "401873010",
       "provider": "espn",
@@ -2142,6 +2122,26 @@
       "network": "NBC",
       "statusName": "STATUS_FINAL",
       "key": "2:7:KC@SEA"
+    },
+    "2:7:DAL@PHI": {
+      "ref": "401873009",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 7,
+      "kickoff": "2026-10-27T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "away": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "venue": "Lincoln Financial Field",
+      "network": "ESPN",
+      "statusName": "STATUS_FINAL",
+      "key": "2:7:DAL@PHI"
     },
     "2:8:CAR@GB": {
       "ref": "401873023",
