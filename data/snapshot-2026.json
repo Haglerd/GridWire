@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-10-30T00:08:50.194Z",
+  "savedAt": "2026-10-30T06:13:26.975Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -2160,7 +2160,7 @@
       },
       "venue": "Lambeau Field",
       "network": "Prime Video",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_FINAL",
       "key": "2:8:CAR@GB"
     },
     "2:8:BAL@BUF": {
