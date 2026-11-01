@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-01T15:48:22.447Z",
+  "savedAt": "2026-11-01T20:13:49.054Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -2160,7 +2160,7 @@
       },
       "venue": "Highmark Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:8:BAL@BUF"
     },
     "2:8:TEN@CIN": {
@@ -2180,7 +2180,7 @@
       },
       "venue": "Paycor Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:8:TEN@CIN"
     },
     "2:8:ARI@DAL": {
@@ -2200,7 +2200,7 @@
       },
       "venue": "AT&T Stadium",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:8:ARI@DAL"
     },
     "2:8:MIN@DET": {
@@ -2220,7 +2220,7 @@
       },
       "venue": "Ford Field",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:8:MIN@DET"
     },
     "2:8:LV@NYJ": {
@@ -2240,7 +2240,7 @@
       },
       "venue": "MetLife Stadium",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:8:LV@NYJ"
     },
     "2:8:CLE@PIT": {
@@ -2260,7 +2260,7 @@
       },
       "venue": "Acrisure Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:8:CLE@PIT"
     },
     "2:8:ATL@TB": {
@@ -2280,7 +2280,7 @@
       },
       "venue": "Raymond James Stadium",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:8:ATL@TB"
     },
     "2:8:IND@JAX": {
@@ -2300,7 +2300,7 @@
       },
       "venue": "EverBank Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:8:IND@JAX"
     },
     "2:8:LAC@LAR": {
