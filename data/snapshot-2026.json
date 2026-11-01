@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-01T01:53:21.644Z",
+  "savedAt": "2026-11-01T08:46:42.562Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -2143,26 +2143,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:7:DAL@PHI"
     },
-    "2:8:CAR@GB": {
-      "ref": "401873023",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 8,
-      "kickoff": "2026-10-30T00:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "GB",
-        "name": "Green Bay Packers"
-      },
-      "away": {
-        "abbr": "CAR",
-        "name": "Carolina Panthers"
-      },
-      "venue": "Lambeau Field",
-      "network": "Prime Video",
-      "statusName": "STATUS_FINAL",
-      "key": "2:8:CAR@GB"
-    },
     "2:8:BAL@BUF": {
       "ref": "401873026",
       "provider": "espn",
@@ -2402,6 +2382,26 @@
       "network": "NBC",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:8:PHI@WAS"
+    },
+    "2:8:CAR@GB": {
+      "ref": "401873023",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 8,
+      "kickoff": "2026-10-30T00:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "away": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "venue": "Lambeau Field",
+      "network": "Prime Video",
+      "statusName": "STATUS_FINAL",
+      "key": "2:8:CAR@GB"
     },
     "2:8:CHI@SEA": {
       "ref": "401873036",
