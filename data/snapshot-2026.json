@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-02T22:24:44.618Z",
+  "savedAt": "2026-11-03T03:36:33.227Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -2160,7 +2160,7 @@
       },
       "venue": "Lumen Field",
       "network": "ESPN",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:8:CHI@SEA"
     },
     "2:8:CAR@GB": {
