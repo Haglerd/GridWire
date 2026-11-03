@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-03T03:36:33.227Z",
+  "savedAt": "2026-11-03T11:39:17.409Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -2143,26 +2143,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:7:DAL@PHI"
     },
-    "2:8:CHI@SEA": {
-      "ref": "401873036",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 8,
-      "kickoff": "2026-11-03T01:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "SEA",
-        "name": "Seattle Seahawks"
-      },
-      "away": {
-        "abbr": "CHI",
-        "name": "Chicago Bears"
-      },
-      "venue": "Lumen Field",
-      "network": "ESPN",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:8:CHI@SEA"
-    },
     "2:8:CAR@GB": {
       "ref": "401873023",
       "provider": "espn",
@@ -2422,6 +2402,26 @@
       "network": "NBC",
       "statusName": "STATUS_FINAL",
       "key": "2:8:PHI@WAS"
+    },
+    "2:8:CHI@SEA": {
+      "ref": "401873036",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 8,
+      "kickoff": "2026-11-03T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "away": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "venue": "Lumen Field",
+      "network": "ESPN",
+      "statusName": "STATUS_FINAL",
+      "key": "2:8:CHI@SEA"
     },
     "2:9:JAX@BAL": {
       "ref": "401873037",
