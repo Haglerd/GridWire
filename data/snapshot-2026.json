@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-08T18:57:28.185Z",
+  "savedAt": "2026-11-08T22:43:50.683Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -2423,145 +2423,85 @@
       "statusName": "STATUS_FINAL",
       "key": "2:8:CHI@SEA"
     },
-    "2:9:DAL@IND": {
-      "ref": "401873040",
+    "2:9:HOU@LAC": {
+      "ref": "401873046",
       "provider": "espn",
       "seasonType": 2,
       "week": 9,
-      "kickoff": "2026-11-08T18:00:00.000Z",
+      "kickoff": "2026-11-08T21:05:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "IND",
-        "name": "Indianapolis Colts"
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
       },
       "away": {
-        "abbr": "DAL",
-        "name": "Dallas Cowboys"
+        "abbr": "HOU",
+        "name": "Houston Texans"
       },
-      "venue": "Lucas Oil Stadium",
+      "venue": "SoFi Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_IN_PROGRESS",
+      "key": "2:9:HOU@LAC"
+    },
+    "2:9:GB@NE": {
+      "ref": "401873049",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "away": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "venue": "Gillette Stadium",
       "network": "Fox",
       "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:9:DAL@IND"
+      "key": "2:9:GB@NE"
     },
-    "2:9:NYJ@KC": {
-      "ref": "401873045",
+    "2:9:LV@SF": {
+      "ref": "401873047",
       "provider": "espn",
       "seasonType": 2,
       "week": 9,
-      "kickoff": "2026-11-08T18:00:00.000Z",
+      "kickoff": "2026-11-08T21:25:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "KC",
-        "name": "Kansas City Chiefs"
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
       },
       "away": {
-        "abbr": "NYJ",
-        "name": "New York Jets"
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
       },
-      "venue": "Arrowhead Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:9:NYJ@KC"
+      "venue": "Levi's Stadium",
+      "network": "Fox",
+      "statusName": "STATUS_HALFTIME",
+      "key": "2:9:LV@SF"
     },
-    "2:9:DET@MIA": {
-      "ref": "401873042",
+    "2:9:ARI@SEA": {
+      "ref": "401873048",
       "provider": "espn",
       "seasonType": 2,
       "week": 9,
-      "kickoff": "2026-11-08T18:00:00.000Z",
+      "kickoff": "2026-11-08T21:25:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "MIA",
-        "name": "Miami Dolphins"
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
       },
       "away": {
-        "abbr": "DET",
-        "name": "Detroit Lions"
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
       },
-      "venue": "Hard Rock Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:9:DET@MIA"
-    },
-    "2:9:CLE@NO": {
-      "ref": "401873039",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 9,
-      "kickoff": "2026-11-08T18:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "NO",
-        "name": "New Orleans Saints"
-      },
-      "away": {
-        "abbr": "CLE",
-        "name": "Cleveland Browns"
-      },
-      "venue": "Caesars Superdome",
-      "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:9:CLE@NO"
-    },
-    "2:9:NYG@PHI": {
-      "ref": "401873044",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 9,
-      "kickoff": "2026-11-08T18:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "PHI",
-        "name": "Philadelphia Eagles"
-      },
-      "away": {
-        "abbr": "NYG",
-        "name": "New York Giants"
-      },
-      "venue": "Lincoln Financial Field",
+      "venue": "Lumen Field",
       "network": "Fox",
       "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:9:NYG@PHI"
-    },
-    "2:9:LAR@WAS": {
-      "ref": "401873043",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 9,
-      "kickoff": "2026-11-08T18:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "WAS",
-        "name": "Washington Commanders"
-      },
-      "away": {
-        "abbr": "LAR",
-        "name": "Los Angeles Rams"
-      },
-      "venue": "Northwest Stadium",
-      "network": "Fox",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:9:LAR@WAS"
-    },
-    "2:9:DEN@CAR": {
-      "ref": "401873041",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 9,
-      "kickoff": "2026-11-08T18:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "CAR",
-        "name": "Carolina Panthers"
-      },
-      "away": {
-        "abbr": "DEN",
-        "name": "Denver Broncos"
-      },
-      "venue": "Bank of America Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:9:DEN@CAR"
+      "key": "2:9:ARI@SEA"
     },
     "2:9:CIN@ATL": {
       "ref": "401873038",
@@ -2583,85 +2523,145 @@
       "statusName": "STATUS_FINAL",
       "key": "2:9:CIN@ATL"
     },
-    "2:9:HOU@LAC": {
-      "ref": "401873046",
+    "2:9:DAL@IND": {
+      "ref": "401873040",
       "provider": "espn",
       "seasonType": 2,
       "week": 9,
-      "kickoff": "2026-11-08T21:05:00.000Z",
+      "kickoff": "2026-11-08T18:00:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "LAC",
-        "name": "Los Angeles Chargers"
+        "abbr": "IND",
+        "name": "Indianapolis Colts"
       },
       "away": {
-        "abbr": "HOU",
-        "name": "Houston Texans"
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
       },
-      "venue": "SoFi Stadium",
+      "venue": "Lucas Oil Stadium",
+      "network": "Fox",
+      "statusName": "STATUS_FINAL",
+      "key": "2:9:DAL@IND"
+    },
+    "2:9:NYJ@KC": {
+      "ref": "401873045",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "away": {
+        "abbr": "NYJ",
+        "name": "New York Jets"
+      },
+      "venue": "Arrowhead Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:9:HOU@LAC"
+      "statusName": "STATUS_FINAL",
+      "key": "2:9:NYJ@KC"
     },
-    "2:9:GB@NE": {
-      "ref": "401873049",
+    "2:9:DET@MIA": {
+      "ref": "401873042",
       "provider": "espn",
       "seasonType": 2,
       "week": 9,
-      "kickoff": "2026-11-08T21:25:00.000Z",
+      "kickoff": "2026-11-08T18:00:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "NE",
-        "name": "New England Patriots"
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
       },
       "away": {
-        "abbr": "GB",
-        "name": "Green Bay Packers"
+        "abbr": "DET",
+        "name": "Detroit Lions"
       },
-      "venue": "Gillette Stadium",
-      "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:9:GB@NE"
+      "venue": "Hard Rock Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:9:DET@MIA"
     },
-    "2:9:LV@SF": {
-      "ref": "401873047",
+    "2:9:CLE@NO": {
+      "ref": "401873039",
       "provider": "espn",
       "seasonType": 2,
       "week": 9,
-      "kickoff": "2026-11-08T21:25:00.000Z",
+      "kickoff": "2026-11-08T18:00:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "SF",
-        "name": "San Francisco 49ers"
+        "abbr": "NO",
+        "name": "New Orleans Saints"
       },
       "away": {
-        "abbr": "LV",
-        "name": "Las Vegas Raiders"
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
       },
-      "venue": "Levi's Stadium",
-      "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:9:LV@SF"
+      "venue": "Caesars Superdome",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:9:CLE@NO"
     },
-    "2:9:ARI@SEA": {
-      "ref": "401873048",
+    "2:9:NYG@PHI": {
+      "ref": "401873044",
       "provider": "espn",
       "seasonType": 2,
       "week": 9,
-      "kickoff": "2026-11-08T21:25:00.000Z",
+      "kickoff": "2026-11-08T18:00:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "SEA",
-        "name": "Seattle Seahawks"
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
       },
       "away": {
-        "abbr": "ARI",
-        "name": "Arizona Cardinals"
+        "abbr": "NYG",
+        "name": "New York Giants"
       },
-      "venue": "Lumen Field",
+      "venue": "Lincoln Financial Field",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:9:ARI@SEA"
+      "statusName": "STATUS_FINAL",
+      "key": "2:9:NYG@PHI"
+    },
+    "2:9:LAR@WAS": {
+      "ref": "401873043",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "away": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "venue": "Northwest Stadium",
+      "network": "Fox",
+      "statusName": "STATUS_FINAL",
+      "key": "2:9:LAR@WAS"
+    },
+    "2:9:DEN@CAR": {
+      "ref": "401873041",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "away": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "venue": "Bank of America Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:9:DEN@CAR"
     },
     "2:9:TB@CHI": {
       "ref": "401873050",
