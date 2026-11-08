@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-08T00:50:24.342Z",
+  "savedAt": "2026-11-08T06:56:37.795Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -2423,26 +2423,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:8:CHI@SEA"
     },
-    "2:9:JAX@BAL": {
-      "ref": "401873037",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 9,
-      "kickoff": "2026-11-06T01:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "BAL",
-        "name": "Baltimore Ravens"
-      },
-      "away": {
-        "abbr": "JAX",
-        "name": "Jacksonville Jaguars"
-      },
-      "venue": "M&T Bank Stadium",
-      "network": "Prime Video",
-      "statusName": "STATUS_FINAL",
-      "key": "2:9:JAX@BAL"
-    },
     "2:9:CIN@ATL": {
       "ref": "401873038",
       "provider": "espn",
@@ -2702,6 +2682,26 @@
       "network": "NBC",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:9:TB@CHI"
+    },
+    "2:9:JAX@BAL": {
+      "ref": "401873037",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-06T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "away": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "venue": "M&T Bank Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_FINAL",
+      "key": "2:9:JAX@BAL"
     },
     "2:9:BUF@MIN": {
       "ref": "401873051",
