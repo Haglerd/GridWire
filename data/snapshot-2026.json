@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-08T14:08:57.560Z",
+  "savedAt": "2026-11-08T18:57:28.185Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -2423,26 +2423,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:8:CHI@SEA"
     },
-    "2:9:CIN@ATL": {
-      "ref": "401873038",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 9,
-      "kickoff": "2026-11-08T14:30:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "ATL",
-        "name": "Atlanta Falcons"
-      },
-      "away": {
-        "abbr": "CIN",
-        "name": "Cincinnati Bengals"
-      },
-      "venue": "Santiago Bernabéu",
-      "network": "NFL Net",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:9:CIN@ATL"
-    },
     "2:9:DAL@IND": {
       "ref": "401873040",
       "provider": "espn",
@@ -2460,7 +2440,7 @@
       },
       "venue": "Lucas Oil Stadium",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:9:DAL@IND"
     },
     "2:9:NYJ@KC": {
@@ -2480,7 +2460,7 @@
       },
       "venue": "Arrowhead Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:9:NYJ@KC"
     },
     "2:9:DET@MIA": {
@@ -2499,8 +2479,8 @@
         "name": "Detroit Lions"
       },
       "venue": "Hard Rock Stadium",
-      "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "network": "CBS",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:9:DET@MIA"
     },
     "2:9:CLE@NO": {
@@ -2520,7 +2500,7 @@
       },
       "venue": "Caesars Superdome",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:9:CLE@NO"
     },
     "2:9:NYG@PHI": {
@@ -2540,7 +2520,7 @@
       },
       "venue": "Lincoln Financial Field",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:9:NYG@PHI"
     },
     "2:9:LAR@WAS": {
@@ -2560,7 +2540,7 @@
       },
       "venue": "Northwest Stadium",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:9:LAR@WAS"
     },
     "2:9:DEN@CAR": {
@@ -2580,8 +2560,28 @@
       },
       "venue": "Bank of America Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:9:DEN@CAR"
+    },
+    "2:9:CIN@ATL": {
+      "ref": "401873038",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T14:30:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "ATL",
+        "name": "Atlanta Falcons"
+      },
+      "away": {
+        "abbr": "CIN",
+        "name": "Cincinnati Bengals"
+      },
+      "venue": "Santiago Bernabéu",
+      "network": "NFL Net",
+      "statusName": "STATUS_FINAL",
+      "key": "2:9:CIN@ATL"
     },
     "2:9:HOU@LAC": {
       "ref": "401873046",
@@ -3039,7 +3039,7 @@
         "name": "Miami Dolphins"
       },
       "venue": "Highmark Stadium",
-      "network": "Fox",
+      "network": "CBS",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:11:MIA@BUF"
     },
@@ -3099,7 +3099,7 @@
         "name": "Tampa Bay Buccaneers"
       },
       "venue": "Ford Field",
-      "network": "CBS",
+      "network": "Fox",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:11:TB@DET"
     },
