@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-08T22:43:50.683Z",
+  "savedAt": "2026-11-09T02:23:47.825Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -2423,85 +2423,25 @@
       "statusName": "STATUS_FINAL",
       "key": "2:8:CHI@SEA"
     },
-    "2:9:HOU@LAC": {
-      "ref": "401873046",
+    "2:9:TB@CHI": {
+      "ref": "401873050",
       "provider": "espn",
       "seasonType": 2,
       "week": 9,
-      "kickoff": "2026-11-08T21:05:00.000Z",
+      "kickoff": "2026-11-09T01:20:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "LAC",
-        "name": "Los Angeles Chargers"
+        "abbr": "CHI",
+        "name": "Chicago Bears"
       },
       "away": {
-        "abbr": "HOU",
-        "name": "Houston Texans"
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
       },
-      "venue": "SoFi Stadium",
-      "network": "CBS",
+      "venue": "Soldier Field",
+      "network": "NBC",
       "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:9:HOU@LAC"
-    },
-    "2:9:GB@NE": {
-      "ref": "401873049",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 9,
-      "kickoff": "2026-11-08T21:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "NE",
-        "name": "New England Patriots"
-      },
-      "away": {
-        "abbr": "GB",
-        "name": "Green Bay Packers"
-      },
-      "venue": "Gillette Stadium",
-      "network": "Fox",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:9:GB@NE"
-    },
-    "2:9:LV@SF": {
-      "ref": "401873047",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 9,
-      "kickoff": "2026-11-08T21:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "SF",
-        "name": "San Francisco 49ers"
-      },
-      "away": {
-        "abbr": "LV",
-        "name": "Las Vegas Raiders"
-      },
-      "venue": "Levi's Stadium",
-      "network": "Fox",
-      "statusName": "STATUS_HALFTIME",
-      "key": "2:9:LV@SF"
-    },
-    "2:9:ARI@SEA": {
-      "ref": "401873048",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 9,
-      "kickoff": "2026-11-08T21:25:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "SEA",
-        "name": "Seattle Seahawks"
-      },
-      "away": {
-        "abbr": "ARI",
-        "name": "Arizona Cardinals"
-      },
-      "venue": "Lumen Field",
-      "network": "Fox",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:9:ARI@SEA"
+      "key": "2:9:TB@CHI"
     },
     "2:9:CIN@ATL": {
       "ref": "401873038",
@@ -2663,25 +2603,85 @@
       "statusName": "STATUS_FINAL",
       "key": "2:9:DEN@CAR"
     },
-    "2:9:TB@CHI": {
-      "ref": "401873050",
+    "2:9:HOU@LAC": {
+      "ref": "401873046",
       "provider": "espn",
       "seasonType": 2,
       "week": 9,
-      "kickoff": "2026-11-09T01:20:00.000Z",
+      "kickoff": "2026-11-08T21:05:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "CHI",
-        "name": "Chicago Bears"
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
       },
       "away": {
-        "abbr": "TB",
-        "name": "Tampa Bay Buccaneers"
+        "abbr": "HOU",
+        "name": "Houston Texans"
       },
-      "venue": "Soldier Field",
-      "network": "NBC",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:9:TB@CHI"
+      "venue": "SoFi Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:9:HOU@LAC"
+    },
+    "2:9:GB@NE": {
+      "ref": "401873049",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "away": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "venue": "Gillette Stadium",
+      "network": "Fox",
+      "statusName": "STATUS_FINAL",
+      "key": "2:9:GB@NE"
+    },
+    "2:9:LV@SF": {
+      "ref": "401873047",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "away": {
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
+      },
+      "venue": "Levi's Stadium",
+      "network": "Fox",
+      "statusName": "STATUS_FINAL",
+      "key": "2:9:LV@SF"
+    },
+    "2:9:ARI@SEA": {
+      "ref": "401873048",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-08T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "SEA",
+        "name": "Seattle Seahawks"
+      },
+      "away": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "venue": "Lumen Field",
+      "network": "Fox",
+      "statusName": "STATUS_FINAL",
+      "key": "2:9:ARI@SEA"
     },
     "2:9:JAX@BAL": {
       "ref": "401873037",
