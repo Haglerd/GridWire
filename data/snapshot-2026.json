@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-09T02:23:47.825Z",
+  "savedAt": "2026-11-09T10:05:41.023Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -2423,25 +2423,45 @@
       "statusName": "STATUS_FINAL",
       "key": "2:8:CHI@SEA"
     },
-    "2:9:TB@CHI": {
-      "ref": "401873050",
+    "2:9:BUF@MIN": {
+      "ref": "401873051",
       "provider": "espn",
       "seasonType": 2,
       "week": 9,
-      "kickoff": "2026-11-09T01:20:00.000Z",
+      "kickoff": "2026-11-10T01:15:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "CHI",
-        "name": "Chicago Bears"
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
       },
       "away": {
-        "abbr": "TB",
-        "name": "Tampa Bay Buccaneers"
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
       },
-      "venue": "Soldier Field",
-      "network": "NBC",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:9:TB@CHI"
+      "venue": "U.S. Bank Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:9:BUF@MIN"
+    },
+    "2:9:JAX@BAL": {
+      "ref": "401873037",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-06T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "away": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "venue": "M&T Bank Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_FINAL",
+      "key": "2:9:JAX@BAL"
     },
     "2:9:CIN@ATL": {
       "ref": "401873038",
@@ -2683,45 +2703,25 @@
       "statusName": "STATUS_FINAL",
       "key": "2:9:ARI@SEA"
     },
-    "2:9:JAX@BAL": {
-      "ref": "401873037",
+    "2:9:TB@CHI": {
+      "ref": "401873050",
       "provider": "espn",
       "seasonType": 2,
       "week": 9,
-      "kickoff": "2026-11-06T01:15:00.000Z",
+      "kickoff": "2026-11-09T01:20:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "BAL",
-        "name": "Baltimore Ravens"
+        "abbr": "CHI",
+        "name": "Chicago Bears"
       },
       "away": {
-        "abbr": "JAX",
-        "name": "Jacksonville Jaguars"
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
       },
-      "venue": "M&T Bank Stadium",
-      "network": "Prime Video",
+      "venue": "Soldier Field",
+      "network": "NBC",
       "statusName": "STATUS_FINAL",
-      "key": "2:9:JAX@BAL"
-    },
-    "2:9:BUF@MIN": {
-      "ref": "401873051",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 9,
-      "kickoff": "2026-11-10T01:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "MIN",
-        "name": "Minnesota Vikings"
-      },
-      "away": {
-        "abbr": "BUF",
-        "name": "Buffalo Bills"
-      },
-      "venue": "U.S. Bank Stadium",
-      "network": "ESPN",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:9:BUF@MIN"
+      "key": "2:9:TB@CHI"
     },
     "2:10:WAS@NYG": {
       "ref": "401873052",
