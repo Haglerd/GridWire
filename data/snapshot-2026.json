@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-09T10:05:41.023Z",
+  "savedAt": "2026-11-09T20:57:14.980Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -3123,25 +3123,25 @@
       "statusName": "STATUS_SCHEDULED",
       "key": "2:11:ARI@KC"
     },
-    "2:11:JAX@NYG": {
-      "ref": "401873069",
+    "2:11:PIT@PHI": {
+      "ref": "401873076",
       "provider": "espn",
       "seasonType": 2,
       "week": 11,
       "kickoff": "2026-11-22T18:00:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "NYG",
-        "name": "New York Giants"
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
       },
       "away": {
-        "abbr": "JAX",
-        "name": "Jacksonville Jaguars"
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
       },
-      "venue": "MetLife Stadium",
+      "venue": "Lincoln Financial Field",
       "network": "CBS",
       "statusName": "STATUS_SCHEDULED",
-      "key": "2:11:JAX@NYG"
+      "key": "2:11:PIT@PHI"
     },
     "2:11:BAL@CAR": {
       "ref": "401873068",
@@ -3203,25 +3203,25 @@
       "statusName": "STATUS_SCHEDULED",
       "key": "2:11:LV@DEN"
     },
-    "2:11:PIT@PHI": {
-      "ref": "401873076",
+    "2:11:JAX@NYG": {
+      "ref": "401873069",
       "provider": "espn",
       "seasonType": 2,
       "week": 11,
       "kickoff": "2026-11-22T21:25:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "PHI",
-        "name": "Philadelphia Eagles"
+        "abbr": "NYG",
+        "name": "New York Giants"
       },
       "away": {
-        "abbr": "PIT",
-        "name": "Pittsburgh Steelers"
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
       },
-      "venue": "Lincoln Financial Field",
+      "venue": "MetLife Stadium",
       "network": "CBS",
       "statusName": "STATUS_SCHEDULED",
-      "key": "2:11:PIT@PHI"
+      "key": "2:11:JAX@NYG"
     },
     "2:11:MIN@SF": {
       "ref": "401873077",
