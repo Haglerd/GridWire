@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-10T03:19:08.060Z",
+  "savedAt": "2026-11-10T11:31:45.522Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -2423,26 +2423,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:8:CHI@SEA"
     },
-    "2:9:BUF@MIN": {
-      "ref": "401873051",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 9,
-      "kickoff": "2026-11-10T01:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "MIN",
-        "name": "Minnesota Vikings"
-      },
-      "away": {
-        "abbr": "BUF",
-        "name": "Buffalo Bills"
-      },
-      "venue": "U.S. Bank Stadium",
-      "network": "ESPN",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:9:BUF@MIN"
-    },
     "2:9:JAX@BAL": {
       "ref": "401873037",
       "provider": "espn",
@@ -2722,6 +2702,26 @@
       "network": "NBC",
       "statusName": "STATUS_FINAL",
       "key": "2:9:TB@CHI"
+    },
+    "2:9:BUF@MIN": {
+      "ref": "401873051",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 9,
+      "kickoff": "2026-11-10T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "MIN",
+        "name": "Minnesota Vikings"
+      },
+      "away": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "venue": "U.S. Bank Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_FINAL",
+      "key": "2:9:BUF@MIN"
     },
     "2:10:WAS@NYG": {
       "ref": "401873052",
