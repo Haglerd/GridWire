@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-12T23:58:21.364Z",
+  "savedAt": "2026-11-13T06:22:06.558Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -2740,7 +2740,7 @@
       },
       "venue": "MetLife Stadium",
       "network": "Prime Video",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_FINAL",
       "key": "2:10:WAS@NYG"
     },
     "2:10:NE@DET": {
