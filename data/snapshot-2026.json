@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-15T14:38:03.284Z",
+  "savedAt": "2026-11-15T20:09:55.601Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -2723,26 +2723,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:9:BUF@MIN"
     },
-    "2:10:NE@DET": {
-      "ref": "401873053",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 10,
-      "kickoff": "2026-11-15T14:30:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "DET",
-        "name": "Detroit Lions"
-      },
-      "away": {
-        "abbr": "NE",
-        "name": "New England Patriots"
-      },
-      "venue": "FC Bayern Munich Stadium",
-      "network": "Fox",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:10:NE@DET"
-    },
     "2:10:KC@ATL": {
       "ref": "401873058",
       "provider": "espn",
@@ -2760,7 +2740,7 @@
       },
       "venue": "Mercedes-Benz Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:10:KC@ATL"
     },
     "2:10:HOU@CLE": {
@@ -2780,7 +2760,7 @@
       },
       "venue": "Huntington Bank Field",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:10:HOU@CLE"
     },
     "2:10:MIN@GB": {
@@ -2800,7 +2780,7 @@
       },
       "venue": "Lambeau Field",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:10:MIN@GB"
     },
     "2:10:JAX@TEN": {
@@ -2820,7 +2800,7 @@
       },
       "venue": "Nissan Stadium",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:10:JAX@TEN"
     },
     "2:10:MIA@IND": {
@@ -2840,7 +2820,7 @@
       },
       "venue": "Lucas Oil Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:10:MIA@IND"
     },
     "2:10:CAR@NO": {
@@ -2860,7 +2840,7 @@
       },
       "venue": "Caesars Superdome",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:10:CAR@NO"
     },
     "2:10:BUF@NYJ": {
@@ -2880,8 +2860,28 @@
       },
       "venue": "MetLife Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:10:BUF@NYJ"
+    },
+    "2:10:NE@DET": {
+      "ref": "401873053",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 10,
+      "kickoff": "2026-11-15T14:30:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "away": {
+        "abbr": "NE",
+        "name": "New England Patriots"
+      },
+      "venue": "FC Bayern Munich Stadium",
+      "network": "Fox",
+      "statusName": "STATUS_FINAL",
+      "key": "2:10:NE@DET"
     },
     "2:10:SEA@LV": {
       "ref": "401873062",
