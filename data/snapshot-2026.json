@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-16T00:10:44.560Z",
+  "savedAt": "2026-11-16T07:03:25.057Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -2723,25 +2723,45 @@
       "statusName": "STATUS_FINAL",
       "key": "2:9:BUF@MIN"
     },
-    "2:10:SF@DAL": {
-      "ref": "401873063",
+    "2:10:LAC@BAL": {
+      "ref": "401873065",
       "provider": "espn",
       "seasonType": 2,
       "week": 10,
-      "kickoff": "2026-11-15T21:25:00.000Z",
+      "kickoff": "2026-11-17T01:15:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "DAL",
-        "name": "Dallas Cowboys"
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
       },
       "away": {
-        "abbr": "SF",
-        "name": "San Francisco 49ers"
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
       },
-      "venue": "AT&T Stadium",
-      "network": "Fox",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:10:SF@DAL"
+      "venue": "M&T Bank Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:10:LAC@BAL"
+    },
+    "2:10:WAS@NYG": {
+      "ref": "401873052",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 10,
+      "kickoff": "2026-11-13T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "NYG",
+        "name": "New York Giants"
+      },
+      "away": {
+        "abbr": "WAS",
+        "name": "Washington Commanders"
+      },
+      "venue": "MetLife Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_FINAL",
+      "key": "2:10:WAS@NYG"
     },
     "2:10:NE@DET": {
       "ref": "401873053",
@@ -2943,6 +2963,26 @@
       "statusName": "STATUS_FINAL",
       "key": "2:10:LAR@ARI"
     },
+    "2:10:SF@DAL": {
+      "ref": "401873063",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 10,
+      "kickoff": "2026-11-15T21:25:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "away": {
+        "abbr": "SF",
+        "name": "San Francisco 49ers"
+      },
+      "venue": "AT&T Stadium",
+      "network": "Fox",
+      "statusName": "STATUS_FINAL",
+      "key": "2:10:SF@DAL"
+    },
     "2:10:PIT@CIN": {
       "ref": "401873064",
       "provider": "espn",
@@ -2960,48 +3000,8 @@
       },
       "venue": "Paycor Stadium",
       "network": "NBC",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:10:PIT@CIN"
-    },
-    "2:10:WAS@NYG": {
-      "ref": "401873052",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 10,
-      "kickoff": "2026-11-13T01:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "NYG",
-        "name": "New York Giants"
-      },
-      "away": {
-        "abbr": "WAS",
-        "name": "Washington Commanders"
-      },
-      "venue": "MetLife Stadium",
-      "network": "Prime Video",
       "statusName": "STATUS_FINAL",
-      "key": "2:10:WAS@NYG"
-    },
-    "2:10:LAC@BAL": {
-      "ref": "401873065",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 10,
-      "kickoff": "2026-11-17T01:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "BAL",
-        "name": "Baltimore Ravens"
-      },
-      "away": {
-        "abbr": "LAC",
-        "name": "Los Angeles Chargers"
-      },
-      "venue": "M&T Bank Stadium",
-      "network": "ESPN",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:10:LAC@BAL"
+      "key": "2:10:PIT@CIN"
     },
     "2:11:IND@HOU": {
       "ref": "401873066",
