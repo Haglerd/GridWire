@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-17T00:57:12.798Z",
+  "savedAt": "2026-11-17T08:55:42.350Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -2723,26 +2723,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:9:BUF@MIN"
     },
-    "2:10:LAC@BAL": {
-      "ref": "401873065",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 10,
-      "kickoff": "2026-11-17T01:15:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "BAL",
-        "name": "Baltimore Ravens"
-      },
-      "away": {
-        "abbr": "LAC",
-        "name": "Los Angeles Chargers"
-      },
-      "venue": "M&T Bank Stadium",
-      "network": "ESPN",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:10:LAC@BAL"
-    },
     "2:10:WAS@NYG": {
       "ref": "401873052",
       "provider": "espn",
@@ -3002,6 +2982,26 @@
       "network": "NBC",
       "statusName": "STATUS_FINAL",
       "key": "2:10:PIT@CIN"
+    },
+    "2:10:LAC@BAL": {
+      "ref": "401873065",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 10,
+      "kickoff": "2026-11-17T01:15:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "away": {
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
+      },
+      "venue": "M&T Bank Stadium",
+      "network": "ESPN",
+      "statusName": "STATUS_FINAL",
+      "key": "2:10:LAC@BAL"
     },
     "2:11:IND@HOU": {
       "ref": "401873066",
