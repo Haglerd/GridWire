@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-17T18:13:04.645Z",
+  "savedAt": "2026-11-18T01:09:20.819Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -3383,26 +3383,6 @@
       "statusName": "STATUS_SCHEDULED",
       "key": "2:12:NO@CIN"
     },
-    "2:12:LV@CLE": {
-      "ref": "401873086",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 12,
-      "kickoff": "2026-11-29T18:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "CLE",
-        "name": "Cleveland Browns"
-      },
-      "away": {
-        "abbr": "LV",
-        "name": "Las Vegas Raiders"
-      },
-      "venue": "Huntington Bank Field",
-      "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:12:LV@CLE"
-    },
     "2:12:NYG@IND": {
       "ref": "401873088",
       "provider": "espn",
@@ -3463,6 +3443,26 @@
       "statusName": "STATUS_SCHEDULED",
       "key": "2:12:ATL@MIN"
     },
+    "2:12:TEN@JAX": {
+      "ref": "401873090",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-29T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "JAX",
+        "name": "Jacksonville Jaguars"
+      },
+      "away": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "venue": "EverBank Stadium",
+      "network": "Fox",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:12:TEN@JAX"
+    },
     "2:12:BAL@HOU": {
       "ref": "401873085",
       "provider": "espn",
@@ -3483,25 +3483,25 @@
       "statusName": "STATUS_SCHEDULED",
       "key": "2:12:BAL@HOU"
     },
-    "2:12:TEN@JAX": {
-      "ref": "401873090",
+    "2:12:NE@LAC": {
+      "ref": "401873093",
       "provider": "espn",
       "seasonType": 2,
       "week": 12,
       "kickoff": "2026-11-29T21:05:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "JAX",
-        "name": "Jacksonville Jaguars"
+        "abbr": "LAC",
+        "name": "Los Angeles Chargers"
       },
       "away": {
-        "abbr": "TEN",
-        "name": "Tennessee Titans"
+        "abbr": "NE",
+        "name": "New England Patriots"
       },
-      "venue": "EverBank Stadium",
+      "venue": "SoFi Stadium",
       "network": "CBS",
       "statusName": "STATUS_SCHEDULED",
-      "key": "2:12:TEN@JAX"
+      "key": "2:12:NE@LAC"
     },
     "2:12:WAS@ARI": {
       "ref": "401873092",
@@ -3543,25 +3543,25 @@
       "statusName": "STATUS_SCHEDULED",
       "key": "2:12:SEA@SF"
     },
-    "2:12:NE@LAC": {
-      "ref": "401873093",
+    "2:12:LV@CLE": {
+      "ref": "401873086",
       "provider": "espn",
       "seasonType": 2,
       "week": 12,
       "kickoff": "2026-11-30T01:20:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "LAC",
-        "name": "Los Angeles Chargers"
+        "abbr": "CLE",
+        "name": "Cleveland Browns"
       },
       "away": {
-        "abbr": "NE",
-        "name": "New England Patriots"
+        "abbr": "LV",
+        "name": "Las Vegas Raiders"
       },
-      "venue": "SoFi Stadium",
+      "venue": "Huntington Bank Field",
       "network": "NBC",
       "statusName": "STATUS_SCHEDULED",
-      "key": "2:12:NE@LAC"
+      "key": "2:12:LV@CLE"
     },
     "2:12:CAR@TB": {
       "ref": "401873094",
