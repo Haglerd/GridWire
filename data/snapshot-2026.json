@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-22T17:58:35.099Z",
+  "savedAt": "2026-11-22T23:31:03.620Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -3003,146 +3003,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:10:LAC@BAL"
     },
-    "2:11:MIA@BUF": {
-      "ref": "401873070",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 11,
-      "kickoff": "2026-11-22T18:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "BUF",
-        "name": "Buffalo Bills"
-      },
-      "away": {
-        "abbr": "MIA",
-        "name": "Miami Dolphins"
-      },
-      "venue": "Highmark Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:11:MIA@BUF"
-    },
-    "2:11:NO@CHI": {
-      "ref": "401873071",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 11,
-      "kickoff": "2026-11-22T18:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "CHI",
-        "name": "Chicago Bears"
-      },
-      "away": {
-        "abbr": "NO",
-        "name": "New Orleans Saints"
-      },
-      "venue": "Soldier Field",
-      "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:11:NO@CHI"
-    },
-    "2:11:TEN@DAL": {
-      "ref": "401873073",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 11,
-      "kickoff": "2026-11-22T18:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "DAL",
-        "name": "Dallas Cowboys"
-      },
-      "away": {
-        "abbr": "TEN",
-        "name": "Tennessee Titans"
-      },
-      "venue": "AT&T Stadium",
-      "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:11:TEN@DAL"
-    },
-    "2:11:TB@DET": {
-      "ref": "401873072",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 11,
-      "kickoff": "2026-11-22T18:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "DET",
-        "name": "Detroit Lions"
-      },
-      "away": {
-        "abbr": "TB",
-        "name": "Tampa Bay Buccaneers"
-      },
-      "venue": "Ford Field",
-      "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:11:TB@DET"
-    },
-    "2:11:ARI@KC": {
-      "ref": "401873067",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 11,
-      "kickoff": "2026-11-22T18:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "KC",
-        "name": "Kansas City Chiefs"
-      },
-      "away": {
-        "abbr": "ARI",
-        "name": "Arizona Cardinals"
-      },
-      "venue": "Arrowhead Stadium",
-      "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:11:ARI@KC"
-    },
-    "2:11:PIT@PHI": {
-      "ref": "401873076",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 11,
-      "kickoff": "2026-11-22T18:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "PHI",
-        "name": "Philadelphia Eagles"
-      },
-      "away": {
-        "abbr": "PIT",
-        "name": "Pittsburgh Steelers"
-      },
-      "venue": "Lincoln Financial Field",
-      "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:11:PIT@PHI"
-    },
-    "2:11:BAL@CAR": {
-      "ref": "401873068",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 11,
-      "kickoff": "2026-11-22T18:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "CAR",
-        "name": "Carolina Panthers"
-      },
-      "away": {
-        "abbr": "BAL",
-        "name": "Baltimore Ravens"
-      },
-      "venue": "Bank of America Stadium",
-      "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:11:BAL@CAR"
-    },
     "2:11:NYJ@LAC": {
       "ref": "401873074",
       "provider": "espn",
@@ -3160,7 +3020,7 @@
       },
       "venue": "SoFi Stadium",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:11:NYJ@LAC"
     },
     "2:11:LV@DEN": {
@@ -3180,7 +3040,7 @@
       },
       "venue": "Empower Field at Mile High",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:11:LV@DEN"
     },
     "2:11:JAX@NYG": {
@@ -3200,8 +3060,148 @@
       },
       "venue": "MetLife Stadium",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:11:JAX@NYG"
+    },
+    "2:11:MIA@BUF": {
+      "ref": "401873070",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "away": {
+        "abbr": "MIA",
+        "name": "Miami Dolphins"
+      },
+      "venue": "Highmark Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:11:MIA@BUF"
+    },
+    "2:11:NO@CHI": {
+      "ref": "401873071",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Bears"
+      },
+      "away": {
+        "abbr": "NO",
+        "name": "New Orleans Saints"
+      },
+      "venue": "Soldier Field",
+      "network": "Fox",
+      "statusName": "STATUS_FINAL",
+      "key": "2:11:NO@CHI"
+    },
+    "2:11:TEN@DAL": {
+      "ref": "401873073",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DAL",
+        "name": "Dallas Cowboys"
+      },
+      "away": {
+        "abbr": "TEN",
+        "name": "Tennessee Titans"
+      },
+      "venue": "AT&T Stadium",
+      "network": "Fox",
+      "statusName": "STATUS_FINAL",
+      "key": "2:11:TEN@DAL"
+    },
+    "2:11:TB@DET": {
+      "ref": "401873072",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "DET",
+        "name": "Detroit Lions"
+      },
+      "away": {
+        "abbr": "TB",
+        "name": "Tampa Bay Buccaneers"
+      },
+      "venue": "Ford Field",
+      "network": "Fox",
+      "statusName": "STATUS_FINAL",
+      "key": "2:11:TB@DET"
+    },
+    "2:11:ARI@KC": {
+      "ref": "401873067",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "away": {
+        "abbr": "ARI",
+        "name": "Arizona Cardinals"
+      },
+      "venue": "Arrowhead Stadium",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:11:ARI@KC"
+    },
+    "2:11:PIT@PHI": {
+      "ref": "401873076",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PHI",
+        "name": "Philadelphia Eagles"
+      },
+      "away": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "venue": "Lincoln Financial Field",
+      "network": "CBS",
+      "statusName": "STATUS_FINAL",
+      "key": "2:11:PIT@PHI"
+    },
+    "2:11:BAL@CAR": {
+      "ref": "401873068",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 11,
+      "kickoff": "2026-11-22T18:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "CAR",
+        "name": "Carolina Panthers"
+      },
+      "away": {
+        "abbr": "BAL",
+        "name": "Baltimore Ravens"
+      },
+      "venue": "Bank of America Stadium",
+      "network": "Fox",
+      "statusName": "STATUS_FINAL",
+      "key": "2:11:BAL@CAR"
     },
     "2:11:MIN@SF": {
       "ref": "401873077",
