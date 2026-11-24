@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-23T17:55:30.359Z",
+  "savedAt": "2026-11-24T03:51:43.270Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -3020,7 +3020,7 @@
       },
       "venue": "Northwest Stadium",
       "network": "ESPN",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:11:CIN@WAS"
     },
     "2:11:IND@HOU": {
