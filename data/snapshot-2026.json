@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-26T01:54:07.420Z",
+  "savedAt": "2026-11-26T10:29:55.599Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -3263,26 +3263,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:11:CIN@WAS"
     },
-    "2:12:GB@LAR": {
-      "ref": "401873079",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 12,
-      "kickoff": "2026-11-26T01:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "LAR",
-        "name": "Los Angeles Rams"
-      },
-      "away": {
-        "abbr": "GB",
-        "name": "Green Bay Packers"
-      },
-      "venue": "SoFi Stadium",
-      "network": "Netflix",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:12:GB@LAR"
-    },
     "2:12:CHI@DET": {
       "ref": "401873081",
       "provider": "espn",
@@ -3342,6 +3322,26 @@
       "network": "NBC",
       "statusName": "STATUS_SCHEDULED",
       "key": "2:12:KC@BUF"
+    },
+    "2:12:GB@LAR": {
+      "ref": "401873079",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-26T01:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "away": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "venue": "SoFi Stadium",
+      "network": "Netflix",
+      "statusName": "STATUS_FINAL",
+      "key": "2:12:GB@LAR"
     },
     "2:12:DEN@PIT": {
       "ref": "401873083",
