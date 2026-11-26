@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-26T10:29:55.599Z",
+  "savedAt": "2026-11-26T19:46:44.546Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -3280,7 +3280,7 @@
       },
       "venue": "Ford Field",
       "network": "CBS",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_HALFTIME",
       "key": "2:12:CHI@DET"
     },
     "2:12:PHI@DAL": {
