@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-27T02:40:27.298Z",
+  "savedAt": "2026-11-27T11:48:47.203Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -3263,25 +3263,45 @@
       "statusName": "STATUS_FINAL",
       "key": "2:11:CIN@WAS"
     },
-    "2:12:KC@BUF": {
-      "ref": "401873082",
+    "2:12:DEN@PIT": {
+      "ref": "401873083",
       "provider": "espn",
       "seasonType": 2,
       "week": 12,
-      "kickoff": "2026-11-27T01:20:00.000Z",
+      "kickoff": "2026-11-27T20:00:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "BUF",
-        "name": "Buffalo Bills"
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
       },
       "away": {
-        "abbr": "KC",
-        "name": "Kansas City Chiefs"
+        "abbr": "DEN",
+        "name": "Denver Broncos"
       },
-      "venue": "Highmark Stadium",
-      "network": "NBC",
-      "statusName": "STATUS_IN_PROGRESS",
-      "key": "2:12:KC@BUF"
+      "venue": "Acrisure Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_SCHEDULED",
+      "key": "2:12:DEN@PIT"
+    },
+    "2:12:GB@LAR": {
+      "ref": "401873079",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-26T01:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "LAR",
+        "name": "Los Angeles Rams"
+      },
+      "away": {
+        "abbr": "GB",
+        "name": "Green Bay Packers"
+      },
+      "venue": "SoFi Stadium",
+      "network": "Netflix",
+      "statusName": "STATUS_FINAL",
+      "key": "2:12:GB@LAR"
     },
     "2:12:CHI@DET": {
       "ref": "401873081",
@@ -3323,45 +3343,25 @@
       "statusName": "STATUS_FINAL",
       "key": "2:12:PHI@DAL"
     },
-    "2:12:GB@LAR": {
-      "ref": "401873079",
+    "2:12:KC@BUF": {
+      "ref": "401873082",
       "provider": "espn",
       "seasonType": 2,
       "week": 12,
-      "kickoff": "2026-11-26T01:00:00.000Z",
+      "kickoff": "2026-11-27T01:20:00.000Z",
       "timeTBD": false,
       "home": {
-        "abbr": "LAR",
-        "name": "Los Angeles Rams"
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
       },
       "away": {
-        "abbr": "GB",
-        "name": "Green Bay Packers"
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
       },
-      "venue": "SoFi Stadium",
-      "network": "Netflix",
+      "venue": "Highmark Stadium",
+      "network": "NBC",
       "statusName": "STATUS_FINAL",
-      "key": "2:12:GB@LAR"
-    },
-    "2:12:DEN@PIT": {
-      "ref": "401873083",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 12,
-      "kickoff": "2026-11-27T20:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "PIT",
-        "name": "Pittsburgh Steelers"
-      },
-      "away": {
-        "abbr": "DEN",
-        "name": "Denver Broncos"
-      },
-      "venue": "Acrisure Stadium",
-      "network": "Prime Video",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:12:DEN@PIT"
+      "key": "2:12:KC@BUF"
     },
     "2:12:NO@CIN": {
       "ref": "401873087",
