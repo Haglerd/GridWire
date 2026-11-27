@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-27T11:48:47.203Z",
+  "savedAt": "2026-11-27T20:44:04.751Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -3280,7 +3280,7 @@
       },
       "venue": "Acrisure Stadium",
       "network": "Prime Video",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_IN_PROGRESS",
       "key": "2:12:DEN@PIT"
     },
     "2:12:GB@LAR": {
