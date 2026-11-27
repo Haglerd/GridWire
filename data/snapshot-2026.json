@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-26T19:46:44.546Z",
+  "savedAt": "2026-11-27T02:40:27.298Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -3263,6 +3263,26 @@
       "statusName": "STATUS_FINAL",
       "key": "2:11:CIN@WAS"
     },
+    "2:12:KC@BUF": {
+      "ref": "401873082",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-27T01:20:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "BUF",
+        "name": "Buffalo Bills"
+      },
+      "away": {
+        "abbr": "KC",
+        "name": "Kansas City Chiefs"
+      },
+      "venue": "Highmark Stadium",
+      "network": "NBC",
+      "statusName": "STATUS_IN_PROGRESS",
+      "key": "2:12:KC@BUF"
+    },
     "2:12:CHI@DET": {
       "ref": "401873081",
       "provider": "espn",
@@ -3280,7 +3300,7 @@
       },
       "venue": "Ford Field",
       "network": "CBS",
-      "statusName": "STATUS_HALFTIME",
+      "statusName": "STATUS_FINAL",
       "key": "2:12:CHI@DET"
     },
     "2:12:PHI@DAL": {
@@ -3300,28 +3320,8 @@
       },
       "venue": "AT&T Stadium",
       "network": "Fox",
-      "statusName": "STATUS_SCHEDULED",
+      "statusName": "STATUS_FINAL",
       "key": "2:12:PHI@DAL"
-    },
-    "2:12:KC@BUF": {
-      "ref": "401873082",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 12,
-      "kickoff": "2026-11-27T01:20:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "BUF",
-        "name": "Buffalo Bills"
-      },
-      "away": {
-        "abbr": "KC",
-        "name": "Kansas City Chiefs"
-      },
-      "venue": "Highmark Stadium",
-      "network": "NBC",
-      "statusName": "STATUS_SCHEDULED",
-      "key": "2:12:KC@BUF"
     },
     "2:12:GB@LAR": {
       "ref": "401873079",
