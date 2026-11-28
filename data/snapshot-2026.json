@@ -1,7 +1,7 @@
 {
   "seasonYear": 2026,
   "provider": "espn",
-  "savedAt": "2026-11-28T03:06:21.060Z",
+  "savedAt": "2026-11-28T12:09:28.088Z",
   "games": {
     "2:1:NE@SEA": {
       "ref": "401872656",
@@ -3263,26 +3263,6 @@
       "statusName": "STATUS_FINAL",
       "key": "2:11:CIN@WAS"
     },
-    "2:12:DEN@PIT": {
-      "ref": "401873083",
-      "provider": "espn",
-      "seasonType": 2,
-      "week": 12,
-      "kickoff": "2026-11-27T20:00:00.000Z",
-      "timeTBD": false,
-      "home": {
-        "abbr": "PIT",
-        "name": "Pittsburgh Steelers"
-      },
-      "away": {
-        "abbr": "DEN",
-        "name": "Denver Broncos"
-      },
-      "venue": "Acrisure Stadium",
-      "network": "Prime Video",
-      "statusName": "STATUS_FINAL",
-      "key": "2:12:DEN@PIT"
-    },
     "2:12:GB@LAR": {
       "ref": "401873079",
       "provider": "espn",
@@ -3362,6 +3342,26 @@
       "network": "NBC",
       "statusName": "STATUS_FINAL",
       "key": "2:12:KC@BUF"
+    },
+    "2:12:DEN@PIT": {
+      "ref": "401873083",
+      "provider": "espn",
+      "seasonType": 2,
+      "week": 12,
+      "kickoff": "2026-11-27T20:00:00.000Z",
+      "timeTBD": false,
+      "home": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Steelers"
+      },
+      "away": {
+        "abbr": "DEN",
+        "name": "Denver Broncos"
+      },
+      "venue": "Acrisure Stadium",
+      "network": "Prime Video",
+      "statusName": "STATUS_FINAL",
+      "key": "2:12:DEN@PIT"
     },
     "2:12:NO@CIN": {
       "ref": "401873087",
